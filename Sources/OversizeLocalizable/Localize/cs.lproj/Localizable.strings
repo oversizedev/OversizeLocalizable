@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Přidat";
+"Button.Edit" = "Upravit";
+"Button.Cancel" = "Zrušit";
+"Button.Delete" = "Vymazat";
+"Button.Next" = "Další";
+"Button.Back" = "Zpět";
+"Button.Close" = "Zavřít";
+"Button.Hide" = "Skrýt";
+"Button.Clean" = "Vyčistit";
+"Button.Continue" = "Pokračovat";
+"Button.Done" = "Hotovo";
+"Button.Enter" = "Vložit";
+"Button.Exit" = "Ukončit";
+"Button.Move" = "Přesunout";
+"Button.Rate" = "Ohodnotit";
+"Button.DeleteAll" = "Smazat vše";
+"Button.Details" = "Detaily";
+"Button.Rename" = "Přejmenovat";
+"Button.Invite" = "Pozvat";
+"Button.Save" = "Uložit";
+"Button.Leave" = "Opustit";
+"Button.History" = "Historie";
+"Button.Share" = "Sdílet";
+"Button.Archive" = "Archiv";
+"Button.Unarchive" = "Zrušit archiv";
+"Button.Copy" = "Kopírovat";
+"Button.Later" = "Později";
+"Button.Get" = "Získat";
+"Button.Search" = "Hledat";
+"Button.GoToSettings" = "Přejít do nastavení";
+"Button.TryAgain" = "Zkuste to znovu";
+
+// MARK: - Common
+"Common.Cities" = "Města";
+"Common.AirPollution" = "Znečištění ovzduší";
+"Common.AQI" = "AQI";
+"Common.Map" = "Mapa";
+"Common.YourPostition" = "Vaše pozice";
+"Common.MyPostition" = "Moje pozice";
+"Common.FeelsLike" = "Cítí se jako";
+"Common.Sunrise" = "Vzestup slunce";
+"Common.Sunset" = "Západ slunce";
+"Common.Humidity" = "Vlhkost";
+"Common.UV" = "UV index";
+"Common.Wind" = "Větrný";
+"Common.Cloudiness" = "Cloudnost";
+"Common.Clouds" = "Hloubky";
+"Common.CloudsStyle" = "Styl mraků";
+"Common.Pressure" = "Tlak";
+"Common.Visibility" = "Viditelnost";
+"Common.Temperature" = "Teplota";
+"Common.Units" = "Jednotky";
+"Common.Standart" = "Standardní";
+"Common.MillimetreOfMercury" = "Milimetr rtuti";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Metrické";
+"Common.Imperial" = "Imperiální";
+"Common.Meter" = "„Technologie“ ve smyslu všeobecné poznámky k technologii pro „vývoj“, „výrobu“ nebo „užití“ zařízení nebo „softwaru“ uvedených v položkách 3A, 3B nebo 3D.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "Hg mm";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.p.h.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Měřič Celsia";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Ráno";
+"Common.Day" = "Den";
+"Common.Evening" = "Večer";
+"Common.Night" = "Noc";
+"Common.Today" = "Dnes";
+"Common.Yesterday" = "Včera";
+"Common.Tomorrow" = "Zítra";
+"Common.Week" = "Týden";
+"Common.Gradient" = "Sklon";
+"Common.Image" = "Obrázek";
+"Common.Shape" = "Tvar";
+"Common.Monochrome" = "Monochromní";
+"Common.Style" = "Styl";
+"Common.Search" = "Hledat";
+"Common.North" = "Sever";
+"Common.South" = "Jih";
+"Common.East" = "Východ";
+"Common.West" = "Západ";
+"Common.NorthAbbreviation" = "SP";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "L 176, 27.6.2013, s. 1).";
+"Common.WestAbreviation" = "ZA";
+"Common.Moon" = "Měsíc";
+"Common.Growing" = "Pěstování";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Vaše pozice";
+"Common.Position" = "Pozice";
+"Common.Location" = "Poloha";
+"Common.Icon" = "Ikona";
+"Common.Place" = "Umístění";
+"Common.FailedSave" = "Uložení se nezdařilo";
+"Common.TryLaterAgain" = "Zkuste to později";
+"Common.ALittleBitMore" = "Trochu více";
+"Common.From" = "Od";
+"Common.To" = "Komu";
+"Common.Test" = "Zkouška";
+"Common.Clothing" = "Oděvy";
+"Common.Good" = "Dobrý";
+"Common.Fair" = "Spravedlivé";
+"Common.Moderate" = "Mírný";
+"Common.Poor" = "Špatné";
+"Common.VeryPoor" = "Velmi špatná";
+"Common.Low" = "Nízká";
+"Common.High" = "Vysoká";
+"Common.Veri high" = "Veri vysoké";
+"Common.Extreme" = "Extrémní";
+"Common.Graph" = "Graf";
+"Common.Short" = "Krátký";
+"Common.Full" = "Plné";
+
+
+// Materials
+"Common.Iridescent" = "Iridescenta";
+"Common.Metal" = "Kovové";
+"Common.Noise" = "Hluk";
+"Common.Paper" = "Papír";
+"Common.Waves" = "Vlny";
+
+// Error
+"Error.EnterTitle" = "Zadejte název";
+
+"Error.SomethingWentWrong" = "Něco se pokazilo";
+"Error.FailedToReadResponse" = "Nepodařilo se přečíst odpověď";
+"Error.SomethingWrongCameFromTheServer" = "Ze serveru se něco pokazilo";
+"Error.LooksLikeTheAppIsBroken" = "Vypadá to, že aplikace je rozbitá";
+"Error.TryAgainLater" = "Zkuste to později";
+"Error.NothingСameFromServer" = "Nic nepochází ze serveru";
+"Error.SomethingStrangeCameFromServer" = "Ze serveru něco zvláštního";
+"Error.ErrorOnServer" = "Chyba na serveru";
+"Error.LooksLikeYouNeedToLogin" = "Vypadá to, že se musíte přihlásit";
+"Error.Authorisation Error" = "Chyba autorizace";
+"Error.InvalidRequest" = "Neplatný požadavek";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Prosím povolte přístup k poloze v nastavení";
+"Error.SelectLocationSettings" = "Vyberte nastavení polohy";
+"Error.NoAccessToLocation" = "Žádný přístup k poloze";
+"Error.SomethingIsWrongWithTheLocation" = "Něco není v pořádku s polohou";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Bez přístupu k místu aplikace nemůže fungovat";
+
+"Error.DataFromICloudCouldNotBeRead" = "Data z iCloudu nelze číst";
+"Error.NoAccessToICloud" = "Není přístup k iCloudu";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "S největší pravděpodobností se musíte přihlásit pomocí Apple ID v nastavení telefonu.";
+"Error.SomethingWentWrongWithICloud" = "Něco se pokazilo s iCloudem";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Vypadá to, že nemáte účet na iCloud";
+
+"Error.UpdatingAppShouldHelp" = "Aktualizace aplikace by měla pomoci";
+
+// Time
+"Time.Min" = "min.";
+"Time.Mins" = "miny.";
+
+// Titels
+"Title.Editing" = "Úprava";
+"Title.DesignEditing" = "Editace vzhledu";
+"Title.Synchronization" = "Synchronizace";
+"Title.Sharing" = "Sdílení";
+"Title.Preview" = "Náhled";
+
+// Info
+"Info.Сopied" = "Vynecháno";
+"Info.Shared" = "Sdíleno";
+"Info.Archived" = "Archivováno";
+"Info.Unarchived" = "Nearchivováno";
+"Info.Deleted" = "Odstraněno";
+"Info.Renamed" = "Přejmenováno";
+"Info.Saved" = "Uloženo";
+
+// Settings
+"Settings.Title" = "Nastavení";
+"Settings.Apperance" = "Ozvonění";
+"Settings.FeedbakAppStore" = "Zanechat hodnocení";
+"Settings.FeedbakAuthor" = "Napsat autorovi";
+"Settings.TelegramChat" = "Chatovat na Telegram";
+"Settings.About" = "O aplikaci";
+"Settings.Subscription" = "Prémie";
+"Settings.SupportSection" = "Podpora";
+"Settings.AppSection" = "Aplikace";
+"Settings.ShareApplication" = "Sdílet aplikaci";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "Oznámení";
+"Settings.Sounds" = "Zvuky";
+"Settings.Vibration" = "Vibrace";
+"Settings.SoundsAndVibration" = "Zvuky a vibrace";
+"Settings.Entrance" = "Vstup";
+"Settings.Additionally" = "Doplňková látka";
+"Settings.DeleteAll.Title" = "Opravdu chcete odstranit všechny karty?";
+"Settings.DeleteAll.Description" = "Odstraněná data nemohou být obnovena";
+"Settings.DeleteAll.DeleteButton" = "Odstranit všechny karty";
+"Settings.DeleteAll.DataDeleted" = "Všechny karty jsou odstraněny";
+"Settings.ShareAndCopy" = "Sdílet a kopírovat";
+"Settings.ShareRows" = "Sdílet řádky";
+"Settings.CopyRows" = "Kopírovat řádky";
+"Settings.Handoff" = "Handoff";
+"Settings.FaceIDwhenShowCVV" = "ID obličeje při zobrazení CVV";
+"Settings.ClipboardTime" = "Čas schránky";
+"Settings.BackgroundStyle" = "Styl pozadí";
+
+// Security
+"Security.Title" = "Zabezpečení";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "požadavek PIN kódu";
+"Security.TouchID" = "Dotkněte se ID";
+"Security.iCloudSyncCVV" = "Synchronizace PIN a CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN a CVV uloženo pouze v telefonu";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "PIN a CVV synchronizace v iCloudu";
+"Security.PINCode" = "PIN kód";
+"Security.CreatePINCode" = "Vytvořit PIN kód";
+"Security.ChangePINCode" = "Změnit PIN kód";
+"Security.BruteForceSecurity" = "Údaje o chybách";
+"Security.BruteForceSecurityDescription" = "Odstranit všechna data po 10 chybných zadaných PIN kódu";
+"Security.Spotlight" = "Spotlight";
+"Security.AlertPINCode" = "PIN kód výstrahy";
+"Security.PhotoBreaker" = "Paměť snímku";
+"Security.FacedownLock" = "Zámek";
+"Security.BlurMinimize" = "Minimalizovat rozostření aplikace";
+"Security.AuthHistory" = "Historie ověření";
+"Security.InactiveAskPassword" = "Zeptat se na heslo neaktivní 5 min";
+"Security.MinimizeAskPassword" = "Zeptat se na heslo po minimalizaci";
+"Security.EnterPINCode" = "Zadejte PIN kód";
+"Security.ChengePIN" = "Změnit PIN kód";
+"Security.InvalidPIN" = "Neplatný PIN kód";
+"Security.NewPINNotMatch" = "Nové PIN kódy se neshodují";
+"Security.PINNotMatch" = "PIN kódy se neshodují";
+"Security.PINChanged" = "PIN kód změněn";
+"Security.InvalidCurrentPINCode" = "Neplatný aktuální PIN kód";
+"Security.OldPINCode" = "Starý PIN kód";
+"Security.NewPINCode" = "Nový PIN kód";
+"Security.ConfirmPINCode" = "Potvrdit PIN kód";
+"Security.ChengePassword" = "Změnit heslo";
+"Security.InvalidPassword" = "Neplatné heslo";
+"Security.NewPasswordsNotMatch" = "Nová hesla se neshodují";
+"Security.PasswordsNotMatch" = "Hesla se neshodují";
+"Security.PasswordLengthLess5Characters" = "Délka hesla je menší než 5 znaků";
+"Security.PasswordIsLong" = "Heslo je delší než 30 znaků";
+"Security.NewPasswordIdSameOld" = "Nové heslo je stejné jako staré";
+"Security.PasswordChanged" = "Heslo změněno";
+"Security.InvalidCurrentPassword" = "Neplatné aktuální heslo";
+
+// Apperance
+"Apperance.Title" = "Ozvonění";
+"Apperance.ThemeSection" = "Téma";
+"Apperance.SystemTheme" = "Systém";
+"Apperance.DarkTheme" = "Tmavý";
+"Apperance.LightTheme" = "Světlý";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Zaregistrovat se";
+"Auth.CreateAccounTitle" = "Vytvořit účet";
+"Auth.SignUpWithEmailButton" = "Zaregistrovat se";
+"Auth.SignUpWithGoogleButton" = "Zaregistrovat se přes Google";
+"Auth.LogInButton" = "Přihlásit se";
+"Auth.EmailTextField" = "E-mailová adresa";
+"Auth.PasswordTextField" = "Heslo";
+"Auth.FirstNameTextField" = "Křestní jméno";
+"Auth.LastNameTextField" = "Příjmení";
+"Auth.CreateAccountButton" = "Vytvořit účet";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Zadejte své telefonní číslo";
+"Auth.PhoneTextField" = "Telefonní číslo";
+"Auth.SMSTextField" = "Kód";
+"Auth.EnterOTPTitle" = "Kód přijde nyní";
+"Auth.EnterOTPSubtitle" = "Kód byl odeslán přes SMS na číslo";
+"Auth.ResendOTPButton" = "Poslat kód znovu";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Líbí se vám aplikace?";
+"Rate.subtitle" = "Byli bychom rádi, kdyby jste ohodnotili aplikaci nebo nám dali recenzi";
+
+//About
+"About.Changes" = "Změny";
+"About.FutureUpdates" = "Budoucí aktualizace";
+"About.SuggestIdea" = "Navrhnout nápad";
+"About.PrivacyPolicy" = "Ochrana osobních údajů";
+"About.LicenseAgreements" = "Licenční podmínky";
+"About.LibrariesUsed" = "Použité knihovny";
+"About.OtherApplications" = "Naše další aplikace";
+
+//Store
+"Store.PrivacyPolicy" = "Ochrana osobních údajů";
+"Store.LicenseAgreements" = "Licenční podmínky";
+"Store.TermsOfUse" = "Podmínky použití";
+"Store.RestoreButton" = "Obnovit nákupy";
+"Store.Price.Month" = " / měsíc";
+"Store.Price.Year" = " / rok";
+"Store.Info" = "Pro získání přístupu ke všem funkcím je vyžadováno předplatné Pro . Bez ohledu na to, zda má předplatné zkušební období zdarma nebo se neobnovuje automaticky o cenu a dobu trvání uvedené výše, pokud není zrušeno nejméně 24 hodin před koncem aktuálního období. Platba bude účtována na váš Apple ID účet při potvrzení nákupu. Váš účet bude účtován za prodloužení do 24 hodin před koncem aktuálního období. Své předplatné můžete spravovat a zrušit tím, že po nákupu přejdete do nastavení účtu v App Store. Jakákoli nevyužitá část bezplatného zkušebního období, pokud je nabízena, propadá v případě, že uživatel zakoupí předplatné k této publikaci.";
+"Store.Active" = "Aktivní";
+"Store.Expired" = "Vypršela platnost";
+
+"StoreKit.BannerLabelPINWallet" = "Více stylů karet, iСloud, nastavení aplikace a mnohem více";
+"Store.BannerLabelDressWeathrt" = "Сhoice ikon stylistiky, až 20 měst v seznamu a neomezený oděv";
+
+"Store.Feature.Detailed daily weather" = "Detailní denní počasí";
+"Store.Feature.Detailed information for the week" = "Podrobné informace za týden";
+"Store.Feature.Up to 20 cities in the list" = "Až 20 měst na seznamu";
+"Store.Feature.Find out what the weather is like around the world" = "Zjistěte, jaké je počasí po celém světě";
+"Store.Feature.Unlimited Places" = "Neomezený počet míst";
+"Store.Feature.Adding points in the city without restrictions" = "Přidávání bodů do města bez omezení";
+"Store.Feature.More clothing options" = "Další možnosti oblečení";
+"Store.Feature.Adding clothes without limits" = "Přidávání oblečení bez omezení";
+"Store.Feature.Additional Icon Style" = "Další styl ikony";
+"Store.Feature.Possibility to customize" = "Možnost přizpůsobit";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Zakázat reklamy";
+"Store.Feature.NoAdsSubtitle" = "Inzeráty zakázaly podb";
+"Store.Feature.MoreCardDesignTitle" = "Více stylů karet";
+"Store.Feature.MoreCardDesignSubtitle" = "Vytvořit návrh karty bez omezení";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Synchronizace karet přes iCloud";
+"Store.Feature.DisplaySetupTitle" = "Zobrazit nastavení";
+"Store.Feature.DisplaySetupSubtitle" = "Možnost výběru písma, tahů a poloměru";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Více příležitostí";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID pro zobrazení tajných kódů atd.";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Více příležitostí";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID pro zobrazení tajných kódů atd.";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Podrobné zobrazení počasí je k dispozici v Pro verzi";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Teplejší den v týdnu";
+"Weather.TheColdestDayForTheWeek" = "Nejchladnější den v týdnu";
+"Weather.SearthSplash" = "Najdeme libovolný\nbod na mapě";
+"Weather.NewPlace" = "Nové místo";
+"Weather.AddingPlace" = "Přidání místa";
+"Weather.AreYouWantDeletePlace?" = "Jste si jisti, že chcete odstranit místo?";
+"Weather.AreYouWantDeleteClothing?" = "Jste si jisti, že chcete odstranit oděvy?";
+"Weather.UnableDeleteSelectedLocation" = "Vybrané umístění nelze odstranit";
+"Weather.WantToUpdateWeather?" = "Chcete aktualizovat počasí?";
+"Weather.UpdateTheWeather" = "Aktualizovat počasí";
+"Weather.ForSunnyWeather" = "Pro sluneční počasí";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Zobrazí se ve vysokém počasí UVI";
+"Weather.ForSnowyWeather" = "Pro sněhové počasí";
+"Weather.ForRainyWeather" = "Pro deštné počasí";
+"Weather.FavoriteDress" = "Oblíbený oblek";
+"Weather.WillStandOutFromRest" = "Vyčnívá od zbytku";
+"Weather.AddingClothes" = "Přidávání oblečení";
+"Weather.AddСlothes" = "Přidat oblečení";
+"Weather.AddPlace" = "Přidat místo";
+"Weather.ListOfClothes" = "Seznam oděvů";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Objevte";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";
