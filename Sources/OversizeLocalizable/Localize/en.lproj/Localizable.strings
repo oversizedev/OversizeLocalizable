@@ -183,6 +183,7 @@
 "Settings.AppSection" = "App";
 "Settings.ShareApplication" = "Share application";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Notifications";
 "Settings.Sounds" = "Sounds";
 "Settings.Vibration" = "Vibration";
