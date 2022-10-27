@@ -174,7 +174,7 @@
 // Settings
 "Settings.Title" = "Настройки";
 "Settings.Apperance" = "Отображение";
-"Settings.FeedbakAppStore" = "Оставить отзыв";
+"Settings.FeedbakAppStore" = "Оставить отзыв в App Store";
 "Settings.FeedbakAuthor" = "Написать автору";
 "Settings.TelegramChat" = "Чат в Telegram";
 "Settings.About" = "О приложении";
