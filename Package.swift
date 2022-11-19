@@ -23,9 +23,5 @@ let package = Package(
             name: "OversizeLocalizable",
             dependencies: []
         ),
-        .testTarget(
-            name: "OversizeLocalizableTests",
-            dependencies: ["OversizeLocalizable"]
-        ),
     ]
 )
