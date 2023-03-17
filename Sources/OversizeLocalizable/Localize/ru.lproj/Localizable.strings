@@ -33,7 +33,7 @@
 
 // MARK: - Common
 "Common.Cities" = "Города";
-"Common.AirPollution" = "Качество воздуха";
+"Common.AirPollution" = "Загрязнение воздуха";
 "Common.AQI" = "AQI";
 "Common.Map" = "Карта";
 "Common.YourPostition" = "Ваша позиция";
@@ -45,8 +45,8 @@
 "Common.UV" = "УФ индекс";
 "Common.Wind" = "Ветер";
 "Common.Cloudiness" = "Облачность";
-"Common.Clouds" = "Облачность";
-"Common.CloudsStyle" = "Стиль облаков";
+"Common.Clouds" = "Облака";
+"Common.CloudsStyle" = "Стиль облака";
 "Common.Pressure" = "Давление";
 "Common.Visibility" = "Видимость";
 "Common.Temperature" = "Температура";
@@ -55,16 +55,16 @@
 "Common.MillimetreOfMercury" = "Миллиметры ртутного столба";
 "Common.Pascal" = "Паскаль";
 "Common.Metric" = "Метрическая";
-"Common.Imperial" = "Имперская";
+"Common.Imperial" = "Имперский";
 "Common.Meter" = "м.";
 "Common.hPa" = "гПа";
-"Common.mmHg" = "мм рт. ст";
+"Common.mmHg" = "мм Нг";
 "Common.MetereSec" = "м/с";
 "Common.MilesHour" = "м.p.ч.";
 "Common.KelvinMeter" = "Кельвин, метр";
 "Common.CelsiusMeter" = "Цельсий, метры";
 "Common.FahrenheitMiles" = "Фаренгейт, мили";
-"Common.Morning" = "Утро";
+"Common.Morning" = "Первая половина дня";
 "Common.Day" = "День";
 "Common.Evening" = "Вечер";
 "Common.Night" = "Ночь";
@@ -88,7 +88,7 @@
 "Common.WestAbreviation" = "З";
 "Common.Moon" = "Луна";
 "Common.Growing" = "Растёт";
-"Common.Waning" = "Убывающая";
+"Common.Waning" = "Waning";
 "Common.YourPosition" = "Ваша позиция";
 "Common.Position" = "Позиция";
 "Common.Location" = "Местоположение";
@@ -103,7 +103,7 @@
 "Common.Clothing" = "Одежда";
 "Common.Good" = "Хорошо";
 "Common.Fair" = "Нормально";
-"Common.Moderate" = "Умеренный";
+"Common.Moderate" = "Модерировать";
 "Common.Poor" = "Плохо";
 "Common.VeryPoor" = "Очень плохо";
 "Common.Low" = "Низкий";
@@ -111,9 +111,9 @@
 "Common.Veri high" = "Очень высокий";
 "Common.Extreme" = "Экстремальная";
 "Common.Graph" = "График";
-"Common.Short" = "Краткий";
-"Common.Full" = "Полный";
-
+"Common.Short" = "Короткий";
+"Common.Full" = "Полностью";
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "Переливающийся";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "Приложение";
 "Settings.ShareApplication" = "Поделиться приложением";
 "Settings.iCloudSync" = "iCloud cинхронизация";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Уведомления";
 "Settings.Sounds" = "Звуки";
 "Settings.Vibration" = "Вибрации";
@@ -328,7 +329,7 @@
 
 
 // Weather
-"Weather.TheWarmerDayForTheWeek" = "Самый теплый день недели";
+"Weather.TheWarmerDayForTheWeek" = "Теплый день недели";
 "Weather.TheColdestDayForTheWeek" = "Самый холодный день недели";
 "Weather.SearthSplash" = "Мы найдем\nточку на карте";
 "Weather.NewPlace" = "Новое место";

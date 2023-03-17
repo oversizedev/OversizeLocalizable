@@ -113,7 +113,7 @@
 "Common.Graph" = "Graphique";
 "Common.Short" = "Courte";
 "Common.Full" = "Plein";
-
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "Iridescent";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "Application";
 "Settings.ShareApplication" = "Partager l'application";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Notifications";
 "Settings.Sounds" = "Sons";
 "Settings.Vibration" = "Vibreur";
