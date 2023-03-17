@@ -113,7 +113,7 @@
 "Common.Graph" = "图";
 "Common.Short" = "短暂的";
 "Common.Full" = "完整的";
-"Common.Name" = "Name";
+"Common.Name" = "名称";
 
 // Materials
 "Common.Iridescent" = "Iridescan";
@@ -174,7 +174,7 @@
 // Settings
 "Settings.Title" = "设置";
 "Settings.Apperance" = "苹果";
-"Settings.FeedbakAppStore" = "Review on App Store";
+"Settings.FeedbakAppStore" = "在 App Store 上审核";
 "Settings.FeedbakAuthor" = "写入作者";
 "Settings.TelegramChat" = "聊天到 Telegram";
 "Settings.About" = "关于";
@@ -183,7 +183,7 @@
 "Settings.AppSection" = "应用";
 "Settings.ShareApplication" = "分享应用程序";
 "Settings.iCloudSync" = "iCloud synchronization";
-"Settings.HealthKitSync" = "HealthKit synchronization";
+"Settings.HealthKitSync" = "HealthKit 同步";
 "Settings.Notifications" = "通知";
 "Settings.Sounds" = "声音";
 "Settings.Vibration" = "振动";

@@ -113,7 +113,7 @@
 "Common.Graph" = "Graf";
 "Common.Short" = "Kort";
 "Common.Full" = "Fullt";
-"Common.Name" = "Name";
+"Common.Name" = "Namn";
 
 // Materials
 "Common.Iridescent" = "Irifallande";
@@ -174,7 +174,7 @@
 // Settings
 "Settings.Title" = "Inställningar";
 "Settings.Apperance" = "Utseende";
-"Settings.FeedbakAppStore" = "Review on App Store";
+"Settings.FeedbakAppStore" = "Granska på App Store";
 "Settings.FeedbakAuthor" = "Skriv till författaren";
 "Settings.TelegramChat" = "Chatta med Telegram";
 "Settings.About" = "Om";
@@ -183,7 +183,7 @@
 "Settings.AppSection" = "App";
 "Settings.ShareApplication" = "Dela applikation";
 "Settings.iCloudSync" = "iCloud synchronization";
-"Settings.HealthKitSync" = "HealthKit synchronization";
+"Settings.HealthKitSync" = "HealthKit-synkronisering";
 "Settings.Notifications" = "Aviseringar";
 "Settings.Sounds" = "Ljud";
 "Settings.Vibration" = "Vibration";
