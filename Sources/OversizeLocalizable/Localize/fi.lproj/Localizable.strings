@@ -113,7 +113,7 @@
 "Common.Graph" = "Kaavio";
 "Common.Short" = "Lyhyt";
 "Common.Full" = "Täysi";
-
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "Ärsyttävä";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "Sovellus";
 "Settings.ShareApplication" = "Jaa sovellus";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Ilmoitukset";
 "Settings.Sounds" = "Äänet";
 "Settings.Vibration" = "Värinä";

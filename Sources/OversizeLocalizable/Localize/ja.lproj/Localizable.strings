@@ -113,7 +113,7 @@
 "Common.Graph" = "グラフ";
 "Common.Short" = "Short";
 "Common.Full" = "フル";
-
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "虹色";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "アプリ";
 "Settings.ShareApplication" = "アプリケーションを共有";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "通知";
 "Settings.Sounds" = "サウンド";
 "Settings.Vibration" = "振動";

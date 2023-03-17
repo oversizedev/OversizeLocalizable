@@ -113,7 +113,7 @@
 "Common.Graph" = "Γράφημα";
 "Common.Short" = "Σύντομο";
 "Common.Full" = "Πλήρης";
-
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "Ιριδίζουσα";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "Εφαρμογή";
 "Settings.ShareApplication" = "Κοινοποίηση εφαρμογής";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Ειδοποιήσεις";
 "Settings.Sounds" = "Ήχοι";
 "Settings.Vibration" = "Δόνηση";

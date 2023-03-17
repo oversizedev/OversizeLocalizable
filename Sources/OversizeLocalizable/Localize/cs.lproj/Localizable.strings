@@ -113,7 +113,7 @@
 "Common.Graph" = "Graf";
 "Common.Short" = "Krátký";
 "Common.Full" = "Plné";
-
+"Common.Name" = "Name";
 
 // Materials
 "Common.Iridescent" = "Iridescenta";
@@ -183,6 +183,7 @@
 "Settings.AppSection" = "Aplikace";
 "Settings.ShareApplication" = "Sdílet aplikaci";
 "Settings.iCloudSync" = "iCloud synchronization";
+"Settings.HealthKitSync" = "HealthKit synchronization";
 "Settings.Notifications" = "Oznámení";
 "Settings.Sounds" = "Zvuky";
 "Settings.Vibration" = "Vibrace";
