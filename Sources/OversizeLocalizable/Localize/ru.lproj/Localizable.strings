@@ -113,7 +113,7 @@
 "Common.Graph" = "График";
 "Common.Short" = "Короткий";
 "Common.Full" = "Полностью";
-"Common.Name" = "Name";
+"Common.Name" = "Наименование";
 
 // Materials
 "Common.Iridescent" = "Переливающийся";
@@ -183,7 +183,7 @@
 "Settings.AppSection" = "Приложение";
 "Settings.ShareApplication" = "Поделиться приложением";
 "Settings.iCloudSync" = "iCloud cинхронизация";
-"Settings.HealthKitSync" = "HealthKit synchronization";
+"Settings.HealthKitSync" = "Синхронизация HealthKit";
 "Settings.Notifications" = "Уведомления";
 "Settings.Sounds" = "Звуки";
 "Settings.Vibration" = "Вибрации";
