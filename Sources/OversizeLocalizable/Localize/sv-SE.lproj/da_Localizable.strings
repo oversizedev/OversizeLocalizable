@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Lägg till";
+"Button.Edit" = "Redigera";
+"Button.Cancel" = "Avbryt";
+"Button.Delete" = "Radera";
+"Button.Next" = "Nästa";
+"Button.Back" = "Tillbaka";
+"Button.Close" = "Stäng";
+"Button.Hide" = "Dölj";
+"Button.Clean" = "Rensa";
+"Button.Continue" = "Fortsätt";
+"Button.Done" = "Klar";
+"Button.Enter" = "Ange";
+"Button.Exit" = "Avsluta";
+"Button.Move" = "Flytta";
+"Button.Rate" = "Betygsätt";
+"Button.DeleteAll" = "Ta bort alla";
+"Button.Details" = "Detaljer";
+"Button.Rename" = "Döp om";
+"Button.Invite" = "Bjud in";
+"Button.Save" = "Spara";
+"Button.Leave" = "Lämna";
+"Button.History" = "Historik";
+"Button.Share" = "Dela";
+"Button.Archive" = "Arkivera";
+"Button.Unarchive" = "Avarkivera";
+"Button.Copy" = "Kopiera";
+"Button.Later" = "Senare";
+"Button.Get" = "Hämta";
+"Button.Search" = "Sök";
+"Button.GoToSettings" = "Gå till inställningar";
+"Button.TryAgain" = "Försök igen";
+
+// MARK: - Common
+"Common.Cities" = "Städer";
+"Common.AirPollution" = "Luftföroreningar";
+"Common.AQI" = "AQI";
+"Common.Map" = "Karta";
+"Common.YourPostition" = "Din position";
+"Common.MyPostition" = "Min position";
+"Common.FeelsLike" = "Känns som";
+"Common.Sunrise" = "Soluppgång";
+"Common.Sunset" = "Solnedgång";
+"Common.Humidity" = "Luftfuktighet";
+"Common.UV" = "UV-index";
+"Common.Wind" = "Vind";
+"Common.Cloudiness" = "Molnighet";
+"Common.Clouds" = "Moln";
+"Common.CloudsStyle" = "Moln stil";
+"Common.Pressure" = "Tryck";
+"Common.Visibility" = "Synlighet";
+"Common.Temperature" = "Temperatur";
+"Common.Units" = "Enheter";
+"Common.Standart" = "Standart";
+"Common.MillimetreOfMercury" = "Millimeter kvicksilver";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Metrisk";
+"Common.Imperial" = "Imperial";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.fl.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Celsius, meter";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Morgon";
+"Common.Day" = "Dag";
+"Common.Evening" = "Kväll";
+"Common.Night" = "Natt";
+"Common.Today" = "Idag";
+"Common.Yesterday" = "Igår";
+"Common.Tomorrow" = "Imorgon";
+"Common.Week" = "Vecka";
+"Common.Gradient" = "Gradient";
+"Common.Image" = "Bild";
+"Common.Shape" = "Form";
+"Common.Monochrome" = "Monokrom";
+"Common.Style" = "Stil";
+"Common.Search" = "Sök";
+"Common.North" = "Norr";
+"Common.South" = "Söder";
+"Common.East" = "Öst";
+"Common.West" = "Väst";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "W";
+"Common.Moon" = "Månen";
+"Common.Growing" = "Växer";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Din position";
+"Common.Position" = "Befattning";
+"Common.Location" = "Plats";
+"Common.Icon" = "Ikon";
+"Common.Place" = "Plats";
+"Common.FailedSave" = "Det gick inte att spara";
+"Common.TryLaterAgain" = "Försök senare igen";
+"Common.ALittleBitMore" = "Lite mer";
+"Common.From" = "Från";
+"Common.To" = "Till";
+"Common.Test" = "Testa";
+"Common.Clothing" = "Kläder";
+"Common.Good" = "Bra";
+"Common.Fair" = "Rättvis";
+"Common.Moderate" = "Måttlig";
+"Common.Poor" = "Dålig";
+"Common.VeryPoor" = "Mycket fattig";
+"Common.Low" = "Låg";
+"Common.High" = "Hög";
+"Common.Veri high" = "Veri hög";
+"Common.Extreme" = "Extrem";
+"Common.Graph" = "Graf";
+"Common.Short" = "Kort";
+"Common.Full" = "Fullt";
+
+
+// Materials
+"Common.Iridescent" = "Irifallande";
+"Common.Metal" = "Metall";
+"Common.Noise" = "Buller";
+"Common.Paper" = "Papper";
+"Common.Waves" = "Vågor";
+
+// Error
+"Error.EnterTitle" = "Ange titel";
+
+"Error.SomethingWentWrong" = "Något gick fel";
+"Error.FailedToReadResponse" = "Det gick inte att läsa svar";
+"Error.SomethingWrongCameFromTheServer" = "Något fel kom från servern";
+"Error.LooksLikeTheAppIsBroken" = "Ser ut som om appen är trasig";
+"Error.TryAgainLater" = "Försök igen senare";
+"Error.NothingСameFromServer" = "Ingenting kom från servern";
+"Error.SomethingStrangeCameFromServer" = "Något konstigt kom från servern";
+"Error.ErrorOnServer" = "Fel på servern";
+"Error.LooksLikeYouNeedToLogin" = "Ser ut som du behöver logga in";
+"Error.Authorisation Error" = "Fel vid auktorisering";
+"Error.InvalidRequest" = "Ogiltig begäran";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Tillåt åtkomst till plats i inställningarna";
+"Error.SelectLocationSettings" = "Välj platsinställningar";
+"Error.NoAccessToLocation" = "Ingen åtkomst till plats";
+"Error.SomethingIsWrongWithTheLocation" = "Något är fel med platsen";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Utan åtkomst till platsen kan programmet inte fungera";
+
+"Error.DataFromICloudCouldNotBeRead" = "Data från iCloud kunde inte läsas";
+"Error.NoAccessToICloud" = "Ingen åtkomst till iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Troligtvis behöver du logga in med ditt Apple-ID i telefonens inställningar.";
+"Error.SomethingWentWrongWithICloud" = "Något gick fel med iCloud";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Ser ut som om du inte har ett iCloud-konto";
+
+"Error.UpdatingAppShouldHelp" = "Uppdatering av appen bör hjälpa";
+
+// Time
+"Time.Min" = "min.";
+"Time.Mins" = "min.";
+
+// Titels
+"Title.Editing" = "Redigerar";
+"Title.DesignEditing" = "Designa redigering";
+"Title.Synchronization" = "Synkronisering";
+"Title.Sharing" = "Delning";
+"Title.Preview" = "Förhandsgranska";
+
+// Info
+"Info.Сopied" = "<unk> opierad";
+"Info.Shared" = "Delad";
+"Info.Archived" = "Arkiverad";
+"Info.Unarchived" = "Oarkiverad";
+"Info.Deleted" = "Borttagen";
+"Info.Renamed" = "Namnbyte";
+"Info.Saved" = "Sparad";
+
+// Settings
+"Settings.Title" = "Inställningar";
+"Settings.Apperance" = "Utseende";
+"Settings.FeedbakAppStore" = "Lämna en recension";
+"Settings.FeedbakAuthor" = "Skriv till författaren";
+"Settings.TelegramChat" = "Chatta med Telegram";
+"Settings.About" = "Om";
+"Settings.Subscription" = "Premium";
+"Settings.SupportSection" = "Stöd";
+"Settings.AppSection" = "App";
+"Settings.ShareApplication" = "Dela applikation";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "Aviseringar";
+"Settings.Sounds" = "Ljud";
+"Settings.Vibration" = "Vibration";
+"Settings.SoundsAndVibration" = "Ljud och vibration";
+"Settings.Entrance" = "Ingång";
+"Settings.Additionally" = "Dessutom";
+"Settings.DeleteAll.Title" = "Är du säker på att du vill radera alla kort?";
+"Settings.DeleteAll.Description" = "Borttagna data kan inte återställas";
+"Settings.DeleteAll.DeleteButton" = "Ta bort alla kort";
+"Settings.DeleteAll.DataDeleted" = "Alla kort har tagits bort";
+"Settings.ShareAndCopy" = "Dela och kopiera";
+"Settings.ShareRows" = "Dela rader";
+"Settings.CopyRows" = "Kopiera rader";
+"Settings.Handoff" = "Avlämning";
+"Settings.FaceIDwhenShowCVV" = "Ansikts-ID när CVV visas";
+"Settings.ClipboardTime" = "Urklipp tid";
+"Settings.BackgroundStyle" = "Bakgrundsstil";
+
+// Security
+"Security.Title" = "Säkerhet";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "begäran om PIN-kod";
+"Security.TouchID" = "Touch ID";
+"Security.iCloudSyncCVV" = "Synkronisering av PIN-kod och CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN-kod och CVV sparas endast i telefonen";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "PIN-kod och CVV-synkronisering i iCloud";
+"Security.PINCode" = "PIN-kod";
+"Security.CreatePINCode" = "Skapa PIN-kod";
+"Security.ChangePINCode" = "Ändra PIN-kod";
+"Security.BruteForceSecurity" = "Eras Data";
+"Security.BruteForceSecurityDescription" = "Ta bort all data efter 10 felaktiga PIN-kod";
+"Security.Spotlight" = "Spotlight";
+"Security.AlertPINCode" = "Avisera PIN-kod";
+"Security.PhotoBreaker" = "Breaker foto";
+"Security.FacedownLock" = "Facedown lås";
+"Security.BlurMinimize" = "Oskärpa appen minimerar";
+"Security.AuthHistory" = "Auth historik";
+"Security.InactiveAskPassword" = "Fråga lösenordet inaktivt 5 min";
+"Security.MinimizeAskPassword" = "Fråga lösenord efter minimering";
+"Security.EnterPINCode" = "Ange PIN-kod";
+"Security.ChengePIN" = "Ändra PIN-kod";
+"Security.InvalidPIN" = "Ogiltig PIN-kod";
+"Security.NewPINNotMatch" = "Nya PIN-koder matchar inte";
+"Security.PINNotMatch" = "PIN-koder matchar inte";
+"Security.PINChanged" = "PIN-kod ändrad";
+"Security.InvalidCurrentPINCode" = "Ogiltig nuvarande PIN-kod";
+"Security.OldPINCode" = "Gammal PIN-kod";
+"Security.NewPINCode" = "Ny PIN-kod";
+"Security.ConfirmPINCode" = "Bekräfta PIN-kod";
+"Security.ChengePassword" = "Ändra lösenord";
+"Security.InvalidPassword" = "Ogiltigt lösenord";
+"Security.NewPasswordsNotMatch" = "Nya lösenord matchar inte";
+"Security.PasswordsNotMatch" = "Lösenorden matchar inte";
+"Security.PasswordLengthLess5Characters" = "Lösenordet är mindre än 5 tecken";
+"Security.PasswordIsLong" = "Lösenordet är längre än 30 tecken";
+"Security.NewPasswordIdSameOld" = "Det nya lösenordet är samma som det gamla";
+"Security.PasswordChanged" = "Lösenord ändrat";
+"Security.InvalidCurrentPassword" = "Ogiltigt nuvarande lösenord";
+
+// Apperance
+"Apperance.Title" = "Utseende";
+"Apperance.ThemeSection" = "Tema";
+"Apperance.SystemTheme" = "System";
+"Apperance.DarkTheme" = "Mörk";
+"Apperance.LightTheme" = "Ljus";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Registrera dig";
+"Auth.CreateAccounTitle" = "Skapa konto";
+"Auth.SignUpWithEmailButton" = "Registrera dig";
+"Auth.SignUpWithGoogleButton" = "Registrera dig med Google";
+"Auth.LogInButton" = "Logga in";
+"Auth.EmailTextField" = "E-post";
+"Auth.PasswordTextField" = "Lösenord";
+"Auth.FirstNameTextField" = "Förnamn";
+"Auth.LastNameTextField" = "Efternamn";
+"Auth.CreateAccountButton" = "Skapa konto";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Ange ditt telefonnummer";
+"Auth.PhoneTextField" = "Telefonnummer";
+"Auth.SMSTextField" = "Kod";
+"Auth.EnterOTPTitle" = "Koden kommer nu";
+"Auth.EnterOTPSubtitle" = "Koden skickades via SMS till numret";
+"Auth.ResendOTPButton" = "Skicka kod igen";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Tycker du om appen?";
+"Rate.subtitle" = "Vi skulle vara glada om du betygsätta appen eller ge oss en recension";
+
+//About
+"About.Changes" = "Ändringar";
+"About.FutureUpdates" = "Framtida uppdateringar";
+"About.SuggestIdea" = "Föreslå en idé";
+"About.PrivacyPolicy" = "Integritetspolicy";
+"About.LicenseAgreements" = "Licensavtal";
+"About.LibrariesUsed" = "Bibliotek som används";
+"About.OtherApplications" = "Våra andra applikationer";
+
+//Store
+"Store.PrivacyPolicy" = "Integritetspolicy";
+"Store.LicenseAgreements" = "Licensavtal";
+"Store.TermsOfUse" = "Villkor för användning";
+"Store.RestoreButton" = "Återställ köp";
+"Store.Price.Month" = " / månad";
+"Store.Price.Year" = " / år";
+"Store.Info" = "Pro-prenumeration krävs för att få tillgång till alla funktioner. Oavsett om prenumerationen har gratis provperiod eller inte förnyas den automatiskt med priset och varaktigheten anges ovan om den inte sägs upp minst 24 timmar före utgången av den aktuella perioden. Betalning kommer att debiteras ditt Apple-ID-konto vid bekräftelsen av köpet. Ditt konto debiteras för förnyelse inom 24 timmar före utgången av den aktuella perioden. Du kan hantera och avbryta dina prenumerationer genom att gå till dina kontoinställningar i App Store efter köp. Eventuell oanvänd del av en gratis provperiod, om den erbjuds, kommer att förverkas när användaren köper en prenumeration på den publikationen, i förekommande fall.";
+"Store.Active" = "Aktiv";
+"Store.Expired" = "Förfallen";
+
+"StoreKit.BannerLabelPINWallet" = "Fler kortstilar, i<unk> loud, applikationsdesign inställning och mycket mer";
+"Store.BannerLabelDressWeathrt" = "● hoice av ikonstilistik, upp till 20 städer i listan och obegränsad kläder";
+
+"Store.Feature.Detailed daily weather" = "Detaljerat dagligt väder";
+"Store.Feature.Detailed information for the week" = "Detaljerad information för veckan";
+"Store.Feature.Up to 20 cities in the list" = "Upp till 20 städer i listan";
+"Store.Feature.Find out what the weather is like around the world" = "Ta reda på hur vädret är runt om i världen";
+"Store.Feature.Unlimited Places" = "Obegränsade platser";
+"Store.Feature.Adding points in the city without restrictions" = "Lägga till punkter i staden utan restriktioner";
+"Store.Feature.More clothing options" = "Fler klädesalternativ";
+"Store.Feature.Adding clothes without limits" = "Lägga till kläder utan gränser";
+"Store.Feature.Additional Icon Style" = "Ytterligare ikonstil";
+"Store.Feature.Possibility to customize" = "Möjlighet att anpassa";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Annonser inaktiverade";
+"Store.Feature.NoAdsSubtitle" = "Annonser inaktivera sub";
+"Store.Feature.MoreCardDesignTitle" = "Fler kortstilar";
+"Store.Feature.MoreCardDesignSubtitle" = "Skapa kortdesign utan begränsningar";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Synkronisering av kort via iCloud";
+"Store.Feature.DisplaySetupTitle" = "Visa inställningar";
+"Store.Feature.DisplaySetupSubtitle" = "Möjligheten att välja typsnitt, slag och radie";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Fler möjligheter";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID för att visa hemlighetsfulla koder och så vidare";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Fler möjligheter";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID för att visa hemlighetsfulla koder och så vidare";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Detaljerad vädervy finns i Pro-versionen";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Den varmare dagen för veckan";
+"Weather.TheColdestDayForTheWeek" = "Den kallaste dagen för veckan";
+"Weather.SearthSplash" = "Vi kommer att hitta alla\nen punkt på kartan";
+"Weather.NewPlace" = "Ny plats";
+"Weather.AddingPlace" = "Lägger till en plats";
+"Weather.AreYouWantDeletePlace?" = "Är du säker på att du vill ta bort plats?";
+"Weather.AreYouWantDeleteClothing?" = "Är du säker du vill ta bort kläder?";
+"Weather.UnableDeleteSelectedLocation" = "Det går inte att ta bort den valda platsen";
+"Weather.WantToUpdateWeather?" = "Vill du uppdatera vädret?";
+"Weather.UpdateTheWeather" = "Uppdatera vädret";
+"Weather.ForSunnyWeather" = "För soligt väder";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Kommer att visas i högt UVI väder";
+"Weather.ForSnowyWeather" = "För snöigt väder";
+"Weather.ForRainyWeather" = "För regnigt väder";
+"Weather.FavoriteDress" = "Favorit klänning";
+"Weather.WillStandOutFromRest" = "Kommer att sticka ut från resten";
+"Weather.AddingClothes" = "Lägga till kläder";
+"Weather.AddСlothes" = "Lägg till kläder";
+"Weather.AddPlace" = "Lägg till plats";
+"Weather.ListOfClothes" = "Lista över kläder";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Upptäck";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";

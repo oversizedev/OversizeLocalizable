@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Προσθήκη";
+"Button.Edit" = "Επεξεργασία";
+"Button.Cancel" = "Ακύρωση";
+"Button.Delete" = "Διαγραφή";
+"Button.Next" = "Επόμενο";
+"Button.Back" = "Πίσω";
+"Button.Close" = "Κλείσιμο";
+"Button.Hide" = "Απόκρυψη";
+"Button.Clean" = "Εκκαθάριση";
+"Button.Continue" = "Συνέχεια";
+"Button.Done" = "Ολοκληρώθηκε";
+"Button.Enter" = "Εισαγωγή";
+"Button.Exit" = "Έξοδος";
+"Button.Move" = "Μετακίνηση";
+"Button.Rate" = "Βαθμολογήστε";
+"Button.DeleteAll" = "Διαγραφή Όλων";
+"Button.Details" = "Λεπτομέρειες";
+"Button.Rename" = "Μετονομασία";
+"Button.Invite" = "Πρόσκληση";
+"Button.Save" = "Αποθήκευση";
+"Button.Leave" = "Αποχώρηση";
+"Button.History" = "Ιστορικό";
+"Button.Share" = "Κοινοποίηση";
+"Button.Archive" = "Αρχειοθέτηση";
+"Button.Unarchive" = "Αποσυμπιεσμένο";
+"Button.Copy" = "Αντιγραφή";
+"Button.Later" = "Αργότερα";
+"Button.Get" = "Λήψη";
+"Button.Search" = "Αναζήτηση";
+"Button.GoToSettings" = "Μετάβαση στις ρυθμίσεις";
+"Button.TryAgain" = "Δοκιμάστε Ξανά";
+
+// MARK: - Common
+"Common.Cities" = "Πόλεις";
+"Common.AirPollution" = "Ρύπανση Του Αέρα";
+"Common.AQI" = "AQI";
+"Common.Map" = "Χάρτης";
+"Common.YourPostition" = "Η θέση σας";
+"Common.MyPostition" = "Η θέση μου";
+"Common.FeelsLike" = "Αισθάνεται σαν";
+"Common.Sunrise" = "Ανατολή";
+"Common.Sunset" = "Ήλιος";
+"Common.Humidity" = "Υγρασία";
+"Common.UV" = "Δείκτης UV";
+"Common.Wind" = "Άνεμος";
+"Common.Cloudiness" = "Νεφελώδης";
+"Common.Clouds" = "Σύννεφα";
+"Common.CloudsStyle" = "Σύννεφα στυλ";
+"Common.Pressure" = "Πίεση";
+"Common.Visibility" = "Ορατότητα";
+"Common.Temperature" = "Θερμοκρασία";
+"Common.Units" = "Μονάδες";
+"Common.Standart" = "Πρότυπα";
+"Common.MillimetreOfMercury" = "Χιλιοστόμετρα υδραργύρου";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Μετρικό";
+"Common.Imperial" = "Αυτοκρατορικό";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "μ/δ";
+"Common.MilesHour" = "m.p.h.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Κελσίου, μετρητής";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Πρωί";
+"Common.Day" = "Ημέρα";
+"Common.Evening" = "Βράδυ";
+"Common.Night" = "Νύχτα";
+"Common.Today" = "Σήμερα";
+"Common.Yesterday" = "Χθες";
+"Common.Tomorrow" = "Αύριο";
+"Common.Week" = "Εβδομάδα";
+"Common.Gradient" = "Διαβάθμιση";
+"Common.Image" = "Εικόνα";
+"Common.Shape" = "Σχήμα";
+"Common.Monochrome" = "Μονόχρωμο";
+"Common.Style" = "Στυλ";
+"Common.Search" = "Αναζήτηση";
+"Common.North" = "Βορράς";
+"Common.South" = "Νότος";
+"Common.East" = "Ανατολικά";
+"Common.West" = "Δυτικά";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "W";
+"Common.Moon" = "Σελήνη";
+"Common.Growing" = "Καλλιέργεια";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Η θέση σας";
+"Common.Position" = "Θέση";
+"Common.Location" = "Τοποθεσία";
+"Common.Icon" = "Εικονίδιο";
+"Common.Place" = "Τόπος";
+"Common.FailedSave" = "Αποτυχία αποθήκευσης";
+"Common.TryLaterAgain" = "Δοκιμάστε ξανά αργότερα";
+"Common.ALittleBitMore" = "Λίγο περισσότερο";
+"Common.From" = "Από";
+"Common.To" = "Προς";
+"Common.Test" = "Δοκιμή";
+"Common.Clothing" = "Ένδυση";
+"Common.Good" = "Καλό";
+"Common.Fair" = "Δίκαιο";
+"Common.Moderate" = "Μέτρια";
+"Common.Poor" = "Φτωχή";
+"Common.VeryPoor" = "Πολύ Φτωχή";
+"Common.Low" = "Χαμηλή";
+"Common.High" = "Υψηλή";
+"Common.Veri high" = "Veri υψηλή";
+"Common.Extreme" = "Ακραία";
+"Common.Graph" = "Γράφημα";
+"Common.Short" = "Σύντομο";
+"Common.Full" = "Πλήρης";
+
+
+// Materials
+"Common.Iridescent" = "Ιριδίζουσα";
+"Common.Metal" = "Μέταλλο";
+"Common.Noise" = "Θόρυβος";
+"Common.Paper" = "Χαρτί";
+"Common.Waves" = "Κύματα";
+
+// Error
+"Error.EnterTitle" = "Εισάγετε τίτλο";
+
+"Error.SomethingWentWrong" = "Κάτι πήγε στραβά";
+"Error.FailedToReadResponse" = "Αποτυχία ανάγνωσης απάντησης";
+"Error.SomethingWrongCameFromTheServer" = "Κάτι λάθος ήρθε από το διακομιστή";
+"Error.LooksLikeTheAppIsBroken" = "Φαίνεται ότι η εφαρμογή είναι κατεστραμμένη";
+"Error.TryAgainLater" = "Προσπαθήστε ξανά αργότερα";
+"Error.NothingСameFromServer" = "Τίποτα δεν ήρθε από το διακομιστή";
+"Error.SomethingStrangeCameFromServer" = "Κάτι παράξενο προήλθε από το διακομιστή";
+"Error.ErrorOnServer" = "Σφάλμα στο διακομιστή";
+"Error.LooksLikeYouNeedToLogin" = "Φαίνεται ότι πρέπει να συνδεθείτε";
+"Error.Authorisation Error" = "Σφάλμα Έγκρισης";
+"Error.InvalidRequest" = "Μη έγκυρη αίτηση";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Παρακαλώ επιτρέψτε την πρόσβαση στην τοποθεσία στις ρυθμίσεις";
+"Error.SelectLocationSettings" = "Επιλογή ρυθμίσεων τοποθεσίας";
+"Error.NoAccessToLocation" = "Καμία πρόσβαση στην τοποθεσία";
+"Error.SomethingIsWrongWithTheLocation" = "Κάτι είναι λάθος με την τοποθεσία";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Χωρίς πρόσβαση στην τοποθεσία, η εφαρμογή δεν μπορεί να λειτουργήσει";
+
+"Error.DataFromICloudCouldNotBeRead" = "Δεν ήταν δυνατή η ανάγνωση δεδομένων από το iCloud";
+"Error.NoAccessToICloud" = "Καμία πρόσβαση στο iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Το πιο πιθανό θα πρέπει να συνδεθείτε με το Apple ID σας στις ρυθμίσεις του τηλεφώνου σας.";
+"Error.SomethingWentWrongWithICloud" = "Κάτι πήγε στραβά με το iCloud";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Φαίνεται ότι δεν έχετε λογαριασμό iCloud";
+
+"Error.UpdatingAppShouldHelp" = "Ενημέρωση της εφαρμογής πρέπει να βοηθήσει";
+
+// Time
+"Time.Min" = "min.";
+"Time.Mins" = "λεπτά.";
+
+// Titels
+"Title.Editing" = "Επεξεργασία";
+"Title.DesignEditing" = "Επεξεργασία Σχεδιασμού";
+"Title.Synchronization" = "Συγχρονισμός";
+"Title.Sharing" = "Κοινή χρήση";
+"Title.Preview" = "Προεπισκόπηση";
+
+// Info
+"Info.Сopied" = "' opied";
+"Info.Shared" = "Κοινόχρηστο";
+"Info.Archived" = "Αρχειοθετημένο";
+"Info.Unarchived" = "Μη Αρχειοθετημένα";
+"Info.Deleted" = "Διαγράφηκε";
+"Info.Renamed" = "Μετονομάστηκε";
+"Info.Saved" = "Αποθηκεύτηκε";
+
+// Settings
+"Settings.Title" = "Ρυθμίσεις";
+"Settings.Apperance" = "Apperance";
+"Settings.FeedbakAppStore" = "Αφήστε μια κριτική";
+"Settings.FeedbakAuthor" = "Γράψτε στον συγγραφέα";
+"Settings.TelegramChat" = "Συζητήστε με το Telegram";
+"Settings.About" = "Σχετικά";
+"Settings.Subscription" = "Premium";
+"Settings.SupportSection" = "Υποστήριξη";
+"Settings.AppSection" = "Εφαρμογή";
+"Settings.ShareApplication" = "Κοινοποίηση εφαρμογής";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "Ειδοποιήσεις";
+"Settings.Sounds" = "Ήχοι";
+"Settings.Vibration" = "Δόνηση";
+"Settings.SoundsAndVibration" = "Ήχοι και δόνηση";
+"Settings.Entrance" = "Είσοδος";
+"Settings.Additionally" = "Επιπλέον";
+"Settings.DeleteAll.Title" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε όλες τις κάρτες?";
+"Settings.DeleteAll.Description" = "Τα διαγραμμένα δεδομένα δεν μπορούν να ανακτηθούν";
+"Settings.DeleteAll.DeleteButton" = "Αφαίρεση όλων των χαρτιών";
+"Settings.DeleteAll.DataDeleted" = "Όλες οι κάρτες διαγράφονται";
+"Settings.ShareAndCopy" = "Κοινοποίηση και αντιγραφή";
+"Settings.ShareRows" = "Κοινή χρήση γραμμών";
+"Settings.CopyRows" = "Αντιγραφή γραμμών";
+"Settings.Handoff" = "Χειρισμός";
+"Settings.FaceIDwhenShowCVV" = "Αναγνωριστικό προσώπου όταν εμφανίζεται CVV";
+"Settings.ClipboardTime" = "Χρόνος πρόχειρου";
+"Settings.BackgroundStyle" = "Στυλ φόντου";
+
+// Security
+"Security.Title" = "Ασφάλεια";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "αίτηση κωδικού PIN";
+"Security.TouchID" = "Αναγνωριστικό Αφής";
+"Security.iCloudSyncCVV" = "Συγχρονισμός PIN και CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN και CVV αποθηκεύονται μόνο στο τηλέφωνο";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "Συγχρονισμός PIN και CVV στο iCloud";
+"Security.PINCode" = "Κωδικός PIN";
+"Security.CreatePINCode" = "Δημιουργία Κωδικού Pin";
+"Security.ChangePINCode" = "Αλλαγή Κωδικού Pin";
+"Security.BruteForceSecurity" = "Διαγραφή Δεδομένων";
+"Security.BruteForceSecurityDescription" = "Διαγραφή όλων των δεδομένων μετά από 10 εσφαλμένο κωδικό PIN εισαγωγής";
+"Security.Spotlight" = "Προβολέας";
+"Security.AlertPINCode" = "Κωδικός PIN Ειδοποίησης";
+"Security.PhotoBreaker" = "Φωτογραφία διακόπτη";
+"Security.FacedownLock" = "Κλειδαριά με πρόσωπο";
+"Security.BlurMinimize" = "Μείωση θολώματος εφαρμογής";
+"Security.AuthHistory" = "Ιστορικό ταυτοποίησης";
+"Security.InactiveAskPassword" = "Ερώτηση ανενεργού κωδικού πρόσβασης 5 λεπτά";
+"Security.MinimizeAskPassword" = "Ερώτηση κωδικού πρόσβασης μετά την ελαχιστοποίηση";
+"Security.EnterPINCode" = "Εισαγωγή Κωδικού Pin";
+"Security.ChengePIN" = "Αλλαγή Κωδικού Pin";
+"Security.InvalidPIN" = "Μη Έγκυρος Κωδικός Pin";
+"Security.NewPINNotMatch" = "Νέοι κωδικοί PIN δεν ταιριάζουν";
+"Security.PINNotMatch" = "Οι κωδικοί PIN δεν ταιριάζουν";
+"Security.PINChanged" = "Ο κωδικός PIN άλλαξε";
+"Security.InvalidCurrentPINCode" = "Μη έγκυρος τρέχων κωδικός PIN";
+"Security.OldPINCode" = "Παλιός Κωδικός Pin";
+"Security.NewPINCode" = "Νέος Κωδικός Pin";
+"Security.ConfirmPINCode" = "Επιβεβαίωση Κωδικού PIN";
+"Security.ChengePassword" = "Αλλαγή κωδικού πρόσβασης";
+"Security.InvalidPassword" = "Μη έγκυρος κωδικός πρόσβασης";
+"Security.NewPasswordsNotMatch" = "Οι νέοι κωδικοί πρόσβασης δεν ταιριάζουν";
+"Security.PasswordsNotMatch" = "Οι κωδικοί πρόσβασης δεν ταιριάζουν";
+"Security.PasswordLengthLess5Characters" = "Το μήκος του κωδικού πρόσβασης είναι μικρότερο από 5 χαρακτήρες";
+"Security.PasswordIsLong" = "Ο κωδικός πρόσβασης είναι μεγαλύτερος από 30 χαρακτήρες";
+"Security.NewPasswordIdSameOld" = "Ο νέος κωδικός πρόσβασης είναι ο ίδιος με τον παλιό";
+"Security.PasswordChanged" = "Ο κωδικός άλλαξε";
+"Security.InvalidCurrentPassword" = "Μη έγκυρος κωδικός πρόσβασης";
+
+// Apperance
+"Apperance.Title" = "Apperance";
+"Apperance.ThemeSection" = "Θέμα";
+"Apperance.SystemTheme" = "Σύστημα";
+"Apperance.DarkTheme" = "Σκοτεινό";
+"Apperance.LightTheme" = "Φωτεινό";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Εγγραφείτε";
+"Auth.CreateAccounTitle" = "Δημιουργία Λογαριασμού";
+"Auth.SignUpWithEmailButton" = "Εγγραφείτε";
+"Auth.SignUpWithGoogleButton" = "Εγγραφείτε μέσω Google";
+"Auth.LogInButton" = "Σύνδεση";
+"Auth.EmailTextField" = "E-mail";
+"Auth.PasswordTextField" = "Κωδικός";
+"Auth.FirstNameTextField" = "Όνομα";
+"Auth.LastNameTextField" = "Επώνυμο";
+"Auth.CreateAccountButton" = "Δημιουργία Λογαριασμού";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Εισάγετε τον αριθμό τηλεφώνου σας";
+"Auth.PhoneTextField" = "Αριθμός τηλεφώνου";
+"Auth.SMSTextField" = "Κωδικός";
+"Auth.EnterOTPTitle" = "Ο κώδικας θα έρθει τώρα";
+"Auth.EnterOTPSubtitle" = "Ο κωδικός εστάλη μέσω SMS στον αριθμό";
+"Auth.ResendOTPButton" = "Αποστολή κωδικού ξανά";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Σας αρέσει η εφαρμογή?";
+"Rate.subtitle" = "Θα χαρούμε να αξιολογήσετε την εφαρμογή ή να μας δώσετε μια κριτική";
+
+//About
+"About.Changes" = "Αλλαγές";
+"About.FutureUpdates" = "Μελλοντικές Ενημερώσεις";
+"About.SuggestIdea" = "Προτείνετε μια ιδέα";
+"About.PrivacyPolicy" = "Πολιτική Απορρήτου";
+"About.LicenseAgreements" = "Συμφωνίες Άδειας Χρήσης";
+"About.LibrariesUsed" = "Βιβλιοθήκες Που Χρησιμοποιούνται";
+"About.OtherApplications" = "Οι Άλλες Εφαρμογές Μας";
+
+//Store
+"Store.PrivacyPolicy" = "Πολιτική Απορρήτου";
+"Store.LicenseAgreements" = "Συμφωνίες Άδειας Χρήσης";
+"Store.TermsOfUse" = "Όροι Χρήσης";
+"Store.RestoreButton" = "Επαναφορά αγορών";
+"Store.Price.Month" = " / μήνας";
+"Store.Price.Year" = " / έτος";
+"Store.Info" = "Απαιτείται συνδρομή Pro για να αποκτήσετε πρόσβαση σε όλες τις λειτουργίες. Ανεξάρτητα από το αν η συνδρομή έχει δωρεάν δοκιμαστική περίοδο ή όχι, ανανεώνεται αυτόματα με την τιμή και τη διάρκεια που δίνεται παραπάνω, εκτός εάν ακυρωθεί τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. Η πληρωμή θα χρεωθεί στον λογαριασμό σας Apple ID μετά την επιβεβαίωση της αγοράς. Ο λογαριασμός σας θα χρεωθεί για ανανέωση εντός 24 ωρών πριν από το τέλος της τρέχουσας περιόδου. Μπορείτε να διαχειριστείτε και να ακυρώσετε τις συνδρομές σας πηγαίνοντας στις ρυθμίσεις του λογαριασμού σας στο App Store μετά την αγορά. Οποιοδήποτε αχρησιμοποίητο τμήμα μιας δωρεάν δοκιμαστικής περιόδου, εάν προσφέρεται, θα καταπέσει όταν ο χρήστης αγοράσει μια συνδρομή στην εν λόγω δημοσίευση, κατά περίπτωση.";
+"Store.Active" = "Ενεργό";
+"Store.Expired" = "Έληξε";
+
+"StoreKit.BannerLabelPINWallet" = "Περισσότερα στυλ καρτών, iχloud, εφαρμογή ρύθμιση σχεδιασμού και πολλά άλλα";
+"Store.BannerLabelDressWeathrt" = "\"hoice of icon stylistics, μέχρι 20 πόλεις στη λίστα και απεριόριστα ρούχα";
+
+"Store.Feature.Detailed daily weather" = "Λεπτομερής καθημερινός καιρός";
+"Store.Feature.Detailed information for the week" = "Λεπτομερείς πληροφορίες για την εβδομάδα";
+"Store.Feature.Up to 20 cities in the list" = "Έως και 20 πόλεις στη λίστα";
+"Store.Feature.Find out what the weather is like around the world" = "Μάθετε πώς είναι ο καιρός σε όλο τον κόσμο";
+"Store.Feature.Unlimited Places" = "Απεριόριστα Μέρη";
+"Store.Feature.Adding points in the city without restrictions" = "Προσθήκη σημείων στην πόλη χωρίς περιορισμούς";
+"Store.Feature.More clothing options" = "Περισσότερες επιλογές ένδυσης";
+"Store.Feature.Adding clothes without limits" = "Προσθήκη ρούχων χωρίς όρια";
+"Store.Feature.Additional Icon Style" = "Πρόσθετο Στυλ Εικονιδίου";
+"Store.Feature.Possibility to customize" = "Δυνατότητα προσαρμογής";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Απενεργοποίηση διαφημίσεων";
+"Store.Feature.NoAdsSubtitle" = "Οι διαφημίσεις απενεργοποιήθηκαν υπο";
+"Store.Feature.MoreCardDesignTitle" = "Περισσότερα στυλ καρτών";
+"Store.Feature.MoreCardDesignSubtitle" = "Δημιουργήστε σχεδιασμό καρτών χωρίς περιορισμούς";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Συγχρονισμός των καρτών μέσω iCloud";
+"Store.Feature.DisplaySetupTitle" = "Ρύθμιση οθόνης";
+"Store.Feature.DisplaySetupSubtitle" = "Η δυνατότητα να επιλέξετε γραμματοσειρές, εγκεφαλικά επεισόδια και ακτίνα";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Περισσότερες ευκαιρίες";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Αναγνωριστικό προσώπου για να εμφανίσει τους εκκριτικούς κώδικες και ούτω καθεξής";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Περισσότερες ευκαιρίες";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Αναγνωριστικό προσώπου για να εμφανίσει τους εκκριτικούς κώδικες και ούτω καθεξής";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Λεπτομερής προβολή καιρού διαθέσιμη στην έκδοση Pro";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Η θερμότερη μέρα για την εβδομάδα";
+"Weather.TheColdestDayForTheWeek" = "Η πιο κρύα μέρα για την εβδομάδα";
+"Weather.SearthSplash" = "Θα βρούμε οποιοδήποτε\nσημείο στο χάρτη";
+"Weather.NewPlace" = "Νέο μέρος";
+"Weather.AddingPlace" = "Προσθέτοντας ένα μέρος";
+"Weather.AreYouWantDeletePlace?" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε θέση?";
+"Weather.AreYouWantDeleteClothing?" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε ρούχα?";
+"Weather.UnableDeleteSelectedLocation" = "Αδυναμία διαγραφής της επιλεγμένης τοποθεσίας";
+"Weather.WantToUpdateWeather?" = "Θέλετε να ενημερώσετε τον καιρό?";
+"Weather.UpdateTheWeather" = "Ενημέρωση καιρού";
+"Weather.ForSunnyWeather" = "Για ηλιόλουστο καιρό";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Θα εμφανιστεί σε υψηλές καιρικές συνθήκες UVI";
+"Weather.ForSnowyWeather" = "Για χιονισμένο καιρό";
+"Weather.ForRainyWeather" = "Για βροχερό καιρό";
+"Weather.FavoriteDress" = "Αγαπημένο φόρεμα";
+"Weather.WillStandOutFromRest" = "Θα ξεχωρίσει από τα υπόλοιπα";
+"Weather.AddingClothes" = "Προσθήκη ρούχων";
+"Weather.AddСlothes" = "Προσθήκη ρούχων";
+"Weather.AddPlace" = "Προσθήκη τόπου";
+"Weather.ListOfClothes" = "Λίστα ρούχων";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Ανακαλύψτε";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Ίντερνετ";
+"Finance.PaymentTypeHipercard" = "Hipercard";

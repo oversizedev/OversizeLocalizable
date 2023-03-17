@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "添加";
+"Button.Edit" = "编辑";
+"Button.Cancel" = "取消";
+"Button.Delete" = "删除";
+"Button.Next" = "下一个";
+"Button.Back" = "后退";
+"Button.Close" = "关闭";
+"Button.Hide" = "隐藏";
+"Button.Clean" = "清空";
+"Button.Continue" = "继续";
+"Button.Done" = "完成";
+"Button.Enter" = "输入";
+"Button.Exit" = "退出";
+"Button.Move" = "移动";
+"Button.Rate" = "速率";
+"Button.DeleteAll" = "全部删除";
+"Button.Details" = "详细信息";
+"Button.Rename" = "重命名：";
+"Button.Invite" = "邀请";
+"Button.Save" = "保存";
+"Button.Leave" = "退出";
+"Button.History" = "历史记录";
+"Button.Share" = "分享";
+"Button.Archive" = "存档";
+"Button.Unarchive" = "取消存档";
+"Button.Copy" = "复制";
+"Button.Later" = "稍后再说";
+"Button.Get" = "获取";
+"Button.Search" = "搜索";
+"Button.GoToSettings" = "转到设置";
+"Button.TryAgain" = "再试一次";
+
+// MARK: - Common
+"Common.Cities" = "城市";
+"Common.AirPollution" = "B. 空气污染";
+"Common.AQI" = "AQI";
+"Common.Map" = "地图";
+"Common.YourPostition" = "您的位置";
+"Common.MyPostition" = "我的位置";
+"Common.FeelsLike" = "感觉像";
+"Common.Sunrise" = "日出模式";
+"Common.Sunset" = "日落模式";
+"Common.Humidity" = "湿度";
+"Common.UV" = "紫外线索引";
+"Common.Wind" = "向导";
+"Common.Cloudiness" = "云化";
+"Common.Clouds" = "云端";
+"Common.CloudsStyle" = "云样式";
+"Common.Pressure" = "气压";
+"Common.Visibility" = "可见性";
+"Common.Temperature" = "温度";
+"Common.Units" = "单位";
+"Common.Standart" = "标准栏";
+"Common.MillimetreOfMercury" = "毫米";
+"Common.Pascal" = "帕斯卡尔";
+"Common.Metric" = "公制";
+"Common.Imperial" = "英制";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "米/秒";
+"Common.MilesHour" = "p.h";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "摄氏度计";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "上午";
+"Common.Day" = "日";
+"Common.Evening" = "晚间";
+"Common.Night" = "晚间";
+"Common.Today" = "今日：";
+"Common.Yesterday" = "昨日";
+"Common.Tomorrow" = "明天";
+"Common.Week" = "周";
+"Common.Gradient" = "渐变";
+"Common.Image" = "图片";
+"Common.Shape" = "形状";
+"Common.Monochrome" = "单色";
+"Common.Style" = "样式";
+"Common.Search" = "搜索";
+"Common.North" = "北区";
+"Common.South" = "南方省";
+"Common.East" = "东区";
+"Common.West" = "西区";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "秒";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "瓦文";
+"Common.Moon" = "月光";
+"Common.Growing" = "正在增长";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "您的位置";
+"Common.Position" = "位置";
+"Common.Location" = "地点";
+"Common.Icon" = "图标";
+"Common.Place" = "地点";
+"Common.FailedSave" = "保存失败";
+"Common.TryLaterAgain" = "稍后再试";
+"Common.ALittleBitMore" = "更多";
+"Common.From" = "来自";
+"Common.To" = "收件人";
+"Common.Test" = "测试";
+"Common.Clothing" = "衣服";
+"Common.Good" = "好";
+"Common.Fair" = "公平的";
+"Common.Moderate" = "中度";
+"Common.Poor" = "差的";
+"Common.VeryPoor" = "非常差";
+"Common.Low" = "低";
+"Common.High" = "高";
+"Common.Veri high" = "Veri 高";
+"Common.Extreme" = "极限";
+"Common.Graph" = "图";
+"Common.Short" = "短暂的";
+"Common.Full" = "完整的";
+
+
+// Materials
+"Common.Iridescent" = "Iridescan";
+"Common.Metal" = "金属类";
+"Common.Noise" = "噪音";
+"Common.Paper" = "纸";
+"Common.Waves" = "波形";
+
+// Error
+"Error.EnterTitle" = "输入标题";
+
+"Error.SomethingWentWrong" = "出了错。";
+"Error.FailedToReadResponse" = "读取回复失败";
+"Error.SomethingWrongCameFromTheServer" = "服务器出了错误";
+"Error.LooksLikeTheAppIsBroken" = "看起来应用程序已经损坏";
+"Error.TryAgainLater" = "稍后再试";
+"Error.NothingСameFromServer" = "没有来自服务器";
+"Error.SomethingStrangeCameFromServer" = "服务器出了一些奇怪的问题";
+"Error.ErrorOnServer" = "服务器错误";
+"Error.LooksLikeYouNeedToLogin" = "您似乎需要登录";
+"Error.Authorisation Error" = "授权错误";
+"Error.InvalidRequest" = "无效请求";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "请允许访问设置中的位置";
+"Error.SelectLocationSettings" = "选择位置设置";
+"Error.NoAccessToLocation" = "无法访问位置";
+"Error.SomethingIsWrongWithTheLocation" = "位置出现错误";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "没有访问位置，应用程序无法工作";
+
+"Error.DataFromICloudCouldNotBeRead" = "无法读取 iCloud 的数据";
+"Error.NoAccessToICloud" = "无法访问 iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "您最可能需要在手机设置中使用 Apple ID 登录。";
+"Error.SomethingWentWrongWithICloud" = "iCloud 出现错误";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "看起来您没有 iCloud 帐户";
+
+"Error.UpdatingAppShouldHelp" = "更新应用将有帮助";
+
+// Time
+"Time.Min" = "最小.";
+"Time.Mins" = "分钟";
+
+// Titels
+"Title.Editing" = "编辑";
+"Title.DesignEditing" = "设计编辑";
+"Title.Synchronization" = "同步";
+"Title.Sharing" = "分享";
+"Title.Preview" = "预览";
+
+// Info
+"Info.Сopied" = "已打开";
+"Info.Shared" = "共享的";
+"Info.Archived" = "已存档";
+"Info.Unarchived" = "未存档";
+"Info.Deleted" = "已删除";
+"Info.Renamed" = "重命名的";
+"Info.Saved" = "已保存";
+
+// Settings
+"Settings.Title" = "设置";
+"Settings.Apperance" = "苹果";
+"Settings.FeedbakAppStore" = "留下评论";
+"Settings.FeedbakAuthor" = "写入作者";
+"Settings.TelegramChat" = "聊天到 Telegram";
+"Settings.About" = "关于";
+"Settings.Subscription" = "高级版";
+"Settings.SupportSection" = "支持";
+"Settings.AppSection" = "应用";
+"Settings.ShareApplication" = "分享应用程序";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "通知";
+"Settings.Sounds" = "声音";
+"Settings.Vibration" = "振动";
+"Settings.SoundsAndVibration" = "声音和振动";
+"Settings.Entrance" = "入门";
+"Settings.Additionally" = "额外的";
+"Settings.DeleteAll.Title" = "您确定要删除所有卡片吗？";
+"Settings.DeleteAll.Description" = "无法恢复已删除的数据";
+"Settings.DeleteAll.DeleteButton" = "移除所有卡片";
+"Settings.DeleteAll.DataDeleted" = "所有卡片都已删除";
+"Settings.ShareAndCopy" = "分享并复制";
+"Settings.ShareRows" = "分享行";
+"Settings.CopyRows" = "复制行";
+"Settings.Handoff" = "手势";
+"Settings.FaceIDwhenShowCVV" = "显示 CVV 时的人脸ID";
+"Settings.ClipboardTime" = "剪贴板时间";
+"Settings.BackgroundStyle" = "背景样式";
+
+// Security
+"Security.Title" = "安全";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "PIN码请求";
+"Security.TouchID" = "触摸ID";
+"Security.iCloudSyncCVV" = "PIN和 CVV 同步";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN和CVV仅在手机中保存";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "iCloud 中的 PIN 和 CVV 同步";
+"Security.PINCode" = "PIN 码";
+"Security.CreatePINCode" = "创建 PIN 码";
+"Security.ChangePINCode" = "更改 PIN 码";
+"Security.BruteForceSecurity" = "错误数据";
+"Security.BruteForceSecurityDescription" = "10个错误输入的 PIN 码后删除所有数据";
+"Security.Spotlight" = "聚光灯";
+"Security.AlertPINCode" = "警示PIN 码";
+"Security.PhotoBreaker" = "断路器照片";
+"Security.FacedownLock" = "正面锁定";
+"Security.BlurMinimize" = "模糊应用最小化";
+"Security.AuthHistory" = "认证历史记录";
+"Security.InactiveAskPassword" = "询问密码非活动5分钟";
+"Security.MinimizeAskPassword" = "最小化后询问密码";
+"Security.EnterPINCode" = "输入 PIN 码";
+"Security.ChengePIN" = "更改 PIN 码";
+"Security.InvalidPIN" = "无效的 PIN 码";
+"Security.NewPINNotMatch" = "新的 PIN 码不匹配";
+"Security.PINNotMatch" = "PIN 码不匹配";
+"Security.PINChanged" = "PIN 码已更改";
+"Security.InvalidCurrentPINCode" = "无效的当前PIN码";
+"Security.OldPINCode" = "旧的 PIN 码";
+"Security.NewPINCode" = "新的 PIN 码";
+"Security.ConfirmPINCode" = "确认 PIN 码";
+"Security.ChengePassword" = "更改密码";
+"Security.InvalidPassword" = "无效密码";
+"Security.NewPasswordsNotMatch" = "新密码不匹配";
+"Security.PasswordsNotMatch" = "密码不匹配";
+"Security.PasswordLengthLess5Characters" = "密码长度小于5个字符";
+"Security.PasswordIsLong" = "密码长度超过 30 个字符";
+"Security.NewPasswordIdSameOld" = "新密码与旧密码相同";
+"Security.PasswordChanged" = "密码已更改";
+"Security.InvalidCurrentPassword" = "当前密码无效";
+
+// Apperance
+"Apperance.Title" = "苹果";
+"Apperance.ThemeSection" = "主题";
+"Apperance.SystemTheme" = "系统";
+"Apperance.DarkTheme" = "深色";
+"Apperance.LightTheme" = "亮色的";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "注册";
+"Auth.CreateAccounTitle" = "创建帐户";
+"Auth.SignUpWithEmailButton" = "注册";
+"Auth.SignUpWithGoogleButton" = "使用 Google 注册";
+"Auth.LogInButton" = "登录";
+"Auth.EmailTextField" = "电子邮件地址";
+"Auth.PasswordTextField" = "密码";
+"Auth.FirstNameTextField" = "名字";
+"Auth.LastNameTextField" = "名字";
+"Auth.CreateAccountButton" = "创建帐户";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "输入您的电话号码";
+"Auth.PhoneTextField" = "电话号码";
+"Auth.SMSTextField" = "代码";
+"Auth.EnterOTPTitle" = "现在就会产生代码";
+"Auth.EnterOTPSubtitle" = "代码已通过短信发送到号码";
+"Auth.ResendOTPButton" = "再次发送代码";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "您喜欢这个应用吗？";
+"Rate.subtitle" = "如果您对应用评分或给我们评分，我们将很高兴。";
+
+//About
+"About.Changes" = "更改";
+"About.FutureUpdates" = "未来更新";
+"About.SuggestIdea" = "建议一个意见";
+"About.PrivacyPolicy" = "隐私政策";
+"About.LicenseAgreements" = "许可协议";
+"About.LibrariesUsed" = "已使用的库";
+"About.OtherApplications" = "我们的其他应用程序";
+
+//Store
+"Store.PrivacyPolicy" = "隐私政策";
+"Store.LicenseAgreements" = "许可协议";
+"Store.TermsOfUse" = "使用条款";
+"Store.RestoreButton" = "恢复购买";
+"Store.Price.Month" = " / 月";
+"Store.Price.Year" = " / 年";
+"Store.Info" = "需要订阅才能访问所有功能。 无论订阅是否有免费试用期，除非在本期结束前至少提前24小时取消，否则订阅是否自动延长价格和期限。 付款将在确认购买时计入您的 Apple ID 账户。 您的帐户将在本期结束前的24小时内收取续延费用。 您可以通过购买后前往您的 App Store 上的帐户设置来管理和取消您的订阅。 如果免费试用期的任何未使用部分，如果提供的话，在用户购买该出版物的订阅时将被没收。";
+"Store.Active" = "已启用";
+"Store.Expired" = "已过期";
+
+"StoreKit.BannerLabelPINWallet" = "更多卡样式、 iCardloud、 应用程序设计和更多";
+"Store.BannerLabelDressWeathrt" = "图标风格，列表中多达20个城市和无限制的衣服";
+
+"Store.Feature.Detailed daily weather" = "每日天气详情";
+"Store.Feature.Detailed information for the week" = "一周的详细信息";
+"Store.Feature.Up to 20 cities in the list" = "列表中最多20个城市";
+"Store.Feature.Find out what the weather is like around the world" = "了解世界各地的天气是什么";
+"Store.Feature.Unlimited Places" = "无限地点";
+"Store.Feature.Adding points in the city without restrictions" = "不受限制地在城市中添加点";
+"Store.Feature.More clothing options" = "更多衣服选项";
+"Store.Feature.Adding clothes without limits" = "添加衣服不受限制";
+"Store.Feature.Additional Icon Style" = "附加图标样式";
+"Store.Feature.Possibility to customize" = "自定义的可能性";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "禁用广告";
+"Store.Feature.NoAdsSubtitle" = "广告禁用子项";
+"Store.Feature.MoreCardDesignTitle" = "更多卡样式";
+"Store.Feature.MoreCardDesignSubtitle" = "不受限制地创建卡片设计";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "通过 iCloud 同步卡片";
+"Store.Feature.DisplaySetupTitle" = "显示设置";
+"Store.Feature.DisplaySetupSubtitle" = "选择字体、笔划和半径的能力";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "更多机会";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID 以显示秘密代码等";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "更多机会";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID 以显示秘密代码等";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "高级版中的详细天气视图";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "一周更暖的一天";
+"Weather.TheColdestDayForTheWeek" = "一周最寒冷的天";
+"Weather.SearthSplash" = "我们会在地图上找到任何\n点";
+"Weather.NewPlace" = "新地点";
+"Weather.AddingPlace" = "添加地点";
+"Weather.AreYouWantDeletePlace?" = "您确定要删除位置吗？";
+"Weather.AreYouWantDeleteClothing?" = "您确定要删除衣服吗？";
+"Weather.UnableDeleteSelectedLocation" = "无法删除选中的位置";
+"Weather.WantToUpdateWeather?" = "想要更新天气吗？";
+"Weather.UpdateTheWeather" = "更新天气信息";
+"Weather.ForSunnyWeather" = "对于阳光天气";
+"Weather.WillBeDisplayedInHighUVIWeather" = "将在 UVI 高天气中显示";
+"Weather.ForSnowyWeather" = "降雪天气设置";
+"Weather.ForRainyWeather" = "降雨天气设置";
+"Weather.FavoriteDress" = "最喜欢的衣服";
+"Weather.WillStandOutFromRest" = "其他人会很棒。";
+"Weather.AddingClothes" = "添加衣服";
+"Weather.AddСlothes" = "添加衣服";
+"Weather.AddPlace" = "添加地点";
+"Weather.ListOfClothes" = "衣服列表";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "万事达卡";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "美洲快照";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "发现";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "穿戴者";
+"Finance.PaymentTypeHipercard" = "Hipercard";

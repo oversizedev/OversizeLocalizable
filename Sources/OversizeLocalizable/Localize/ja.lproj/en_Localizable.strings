@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "追加";
+"Button.Edit" = "編集";
+"Button.Cancel" = "キャンセル";
+"Button.Delete" = "削除";
+"Button.Next" = "次へ";
+"Button.Back" = "戻る";
+"Button.Close" = "閉じる";
+"Button.Hide" = "非表示";
+"Button.Clean" = "クリア";
+"Button.Continue" = "続ける";
+"Button.Done" = "完了";
+"Button.Enter" = "Enter";
+"Button.Exit" = "終了";
+"Button.Move" = "移動";
+"Button.Rate" = "利率";
+"Button.DeleteAll" = "すべて削除";
+"Button.Details" = "詳細";
+"Button.Rename" = "名前の変更";
+"Button.Invite" = "招待";
+"Button.Save" = "保存";
+"Button.Leave" = "退出する";
+"Button.History" = "沿革";
+"Button.Share" = "共有";
+"Button.Archive" = "アーカイブ";
+"Button.Unarchive" = "アーカイブ解除";
+"Button.Copy" = "コピー";
+"Button.Later" = "後で";
+"Button.Get" = "取得";
+"Button.Search" = "検索";
+"Button.GoToSettings" = "設定に移動";
+"Button.TryAgain" = "もう一度試す";
+
+// MARK: - Common
+"Common.Cities" = "都市";
+"Common.AirPollution" = "大気<unk>";
+"Common.AQI" = "AQI";
+"Common.Map" = "地図";
+"Common.YourPostition" = "自分の位置";
+"Common.MyPostition" = "自分の位置";
+"Common.FeelsLike" = "以下のような感じ";
+"Common.Sunrise" = "日の出（サンライズ）";
+"Common.Sunset" = "日没";
+"Common.Humidity" = "Humidity";
+"Common.UV" = "UVインデックス";
+"Common.Wind" = "風";
+"Common.Cloudiness" = "曇り";
+"Common.Clouds" = "雲";
+"Common.CloudsStyle" = "クラウドのスタイル";
+"Common.Pressure" = "<unk>";
+"Common.Visibility" = "公開範囲";
+"Common.Temperature" = "温度";
+"Common.Units" = "単位";
+"Common.Standart" = "Standart";
+"Common.MillimetreOfMercury" = "水銀のミリメートル";
+"Common.Pascal" = "パスカル";
+"Common.Metric" = "メトリック";
+"Common.Imperial" = "Imperial";
+"Common.Meter" = "エム...";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.ph.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "摂氏メートル";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "朝";
+"Common.Day" = "日";
+"Common.Evening" = "夜";
+"Common.Night" = "夜";
+"Common.Today" = "今日";
+"Common.Yesterday" = "昨日";
+"Common.Tomorrow" = "明日";
+"Common.Week" = "週";
+"Common.Gradient" = "Gradient";
+"Common.Image" = "画像";
+"Common.Shape" = "形状";
+"Common.Monochrome" = "モノクローム";
+"Common.Style" = "スタイル";
+"Common.Search" = "検索";
+"Common.North" = "North";
+"Common.South" = "South";
+"Common.East" = "East";
+"Common.West" = "西へ";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "W";
+"Common.Moon" = "月";
+"Common.Growing" = "Growando";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "自分の位置";
+"Common.Position" = "位置";
+"Common.Location" = "場所";
+"Common.Icon" = "アイコン";
+"Common.Place" = "場所";
+"Common.FailedSave" = "保存に失敗しました";
+"Common.TryLaterAgain" = "後でもう一度お試しください";
+"Common.ALittleBitMore" = "もう少しだけ";
+"Common.From" = "差出人:";
+"Common.To" = "終了日";
+"Common.Test" = "テスト";
+"Common.Clothing" = "服";
+"Common.Good" = "良い";
+"Common.Fair" = "公平な";
+"Common.Moderate" = "モデレート";
+"Common.Poor" = "悪い";
+"Common.VeryPoor" = "とても悪い";
+"Common.Low" = "低い";
+"Common.High" = "高い";
+"Common.Veri high" = "Veri high";
+"Common.Extreme" = "極端な";
+"Common.Graph" = "グラフ";
+"Common.Short" = "Short";
+"Common.Full" = "フル";
+
+
+// Materials
+"Common.Iridescent" = "虹色";
+"Common.Metal" = "合金";
+"Common.Noise" = "Noise";
+"Common.Paper" = "紙";
+"Common.Waves" = "波";
+
+// Error
+"Error.EnterTitle" = "タイトルを入力";
+
+"Error.SomethingWentWrong" = "問題が発生しました";
+"Error.FailedToReadResponse" = "応答の読み取りに失敗しました";
+"Error.SomethingWrongCameFromTheServer" = "サーバーから問題が発生しました";
+"Error.LooksLikeTheAppIsBroken" = "アプリが壊れているようです";
+"Error.TryAgainLater" = "後でもう一度お試しください";
+"Error.NothingСameFromServer" = "サーバーから何も送信されていません";
+"Error.SomethingStrangeCameFromServer" = "サーバーから奇妙なものが発生しました";
+"Error.ErrorOnServer" = "サーバー上のエラー";
+"Error.LooksLikeYouNeedToLogin" = "ログインする必要があるようです";
+"Error.Authorisation Error" = "認証エラー";
+"Error.InvalidRequest" = "無効なリクエスト";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "設定で位置情報へのアクセスを許可してください";
+"Error.SelectLocationSettings" = "位置情報の設定を選択";
+"Error.NoAccessToLocation" = "位置情報へのアクセスがありません";
+"Error.SomethingIsWrongWithTheLocation" = "場所に問題があります";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "位置情報にアクセスしないと、アプリケーションは動作しません";
+
+"Error.DataFromICloudCouldNotBeRead" = "iCloudからのデータを読み込めませんでした";
+"Error.NoAccessToICloud" = "iCloudにアクセスできません";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "ほとんどの場合、電話の設定で Apple ID でログインする必要があります。";
+"Error.SomethingWentWrongWithICloud" = "iCloudに問題が発生しました";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "iCloudアカウントをお持ちでないようです。";
+
+"Error.UpdatingAppShouldHelp" = "アプリのアップデートは役に立つはずです";
+
+// Time
+"Time.Min" = "分";
+"Time.Mins" = "分だ";
+
+// Titels
+"Title.Editing" = "編集";
+"Title.DesignEditing" = "デザイン編集";
+"Title.Synchronization" = "同期";
+"Title.Sharing" = "共有";
+"Title.Preview" = "プレビュー";
+
+// Info
+"Info.Сopied" = "<unk> opied";
+"Info.Shared" = "共有";
+"Info.Archived" = "アーカイブ済み";
+"Info.Unarchived" = "アーカイブされていません";
+"Info.Deleted" = "削除しました";
+"Info.Renamed" = "名前を変更";
+"Info.Saved" = "保存しました";
+
+// Settings
+"Settings.Title" = "設定";
+"Settings.Apperance" = "Apperance";
+"Settings.FeedbakAppStore" = "レビューを残す";
+"Settings.FeedbakAuthor" = "著者に書く";
+"Settings.TelegramChat" = "僅用於中文";
+"Settings.About" = "About";
+"Settings.Subscription" = "プレミアム";
+"Settings.SupportSection" = "サポート";
+"Settings.AppSection" = "アプリ";
+"Settings.ShareApplication" = "アプリケーションを共有";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "通知";
+"Settings.Sounds" = "サウンド";
+"Settings.Vibration" = "振動";
+"Settings.SoundsAndVibration" = "音と振動";
+"Settings.Entrance" = "入口";
+"Settings.Additionally" = "さらに";
+"Settings.DeleteAll.Title" = "すべてのカードを削除してもよろしいですか？";
+"Settings.DeleteAll.Description" = "削除されたデータは復元できません";
+"Settings.DeleteAll.DeleteButton" = "すべてのカードを削除";
+"Settings.DeleteAll.DataDeleted" = "すべてのカードが削除されます";
+"Settings.ShareAndCopy" = "共有してコピー";
+"Settings.ShareRows" = "行を共有";
+"Settings.CopyRows" = "行をコピー";
+"Settings.Handoff" = "ハンドオフ";
+"Settings.FaceIDwhenShowCVV" = "CVV を表示するときのFace ID";
+"Settings.ClipboardTime" = "クリップボードの時間";
+"Settings.BackgroundStyle" = "背景のスタイル";
+
+// Security
+"Security.Title" = "セキュリティ";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "PINコードのリクエスト";
+"Security.TouchID" = "Touch ID";
+"Security.iCloudSyncCVV" = "PINとCVVの同期";
+"Security.iCloudSyncCVVDescriptionLocal" = "PINとCVVは端末にのみ保存されました";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "iCloudでPINとCVVの同期";
+"Security.PINCode" = "PIN コード";
+"Security.CreatePINCode" = "PINコードを作成";
+"Security.ChangePINCode" = "PINコードを変更";
+"Security.BruteForceSecurity" = "データを消去";
+"Security.BruteForceSecurityDescription" = "10の誤った入力PINコードの後にすべてのデータを削除します";
+"Security.Spotlight" = "Spotlight";
+"Security.AlertPINCode" = "アラートPINコード";
+"Security.PhotoBreaker" = "ブレーカーの写真";
+"Security.FacedownLock" = "フェイズダウンロック";
+"Security.BlurMinimize" = "アプリのぼかしを最小にする";
+"Security.AuthHistory" = "認証履歴";
+"Security.InactiveAskPassword" = "非アクティブなパスワードを要求する 5 分";
+"Security.MinimizeAskPassword" = "最小化後にパスワードを確認する";
+"Security.EnterPINCode" = "PINコードを入力";
+"Security.ChengePIN" = "PINコードを変更";
+"Security.InvalidPIN" = "PINコードが無効です";
+"Security.NewPINNotMatch" = "新しいPINコードが一致しません";
+"Security.PINNotMatch" = "PINコードが一致しません";
+"Security.PINChanged" = "PINコードが変更されました";
+"Security.InvalidCurrentPINCode" = "現在のPINコードが無効です";
+"Security.OldPINCode" = "古いPINコード";
+"Security.NewPINCode" = "新しいPINコード";
+"Security.ConfirmPINCode" = "暗証番号を確認";
+"Security.ChengePassword" = "パスワードの変更";
+"Security.InvalidPassword" = "無効なパスワード";
+"Security.NewPasswordsNotMatch" = "新しいパスワードが一致しません";
+"Security.PasswordsNotMatch" = "パスワードが一致しません";
+"Security.PasswordLengthLess5Characters" = "パスワードの長さは5文字未満です";
+"Security.PasswordIsLong" = "パスワードが30文字を超えています";
+"Security.NewPasswordIdSameOld" = "新しいパスワードは以前のパスワードと同じです";
+"Security.PasswordChanged" = "パスワードの変更";
+"Security.InvalidCurrentPassword" = "現在のパスワードが無効です";
+
+// Apperance
+"Apperance.Title" = "Apperance";
+"Apperance.ThemeSection" = "テーマ";
+"Apperance.SystemTheme" = "システム";
+"Apperance.DarkTheme" = "ダーク";
+"Apperance.LightTheme" = "ライト";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "新規登録";
+"Auth.CreateAccounTitle" = "アカウントを作成";
+"Auth.SignUpWithEmailButton" = "新規登録";
+"Auth.SignUpWithGoogleButton" = "Google でサインアップ";
+"Auth.LogInButton" = "ログイン";
+"Auth.EmailTextField" = "Eメールアドレス";
+"Auth.PasswordTextField" = "パスワード";
+"Auth.FirstNameTextField" = "名";
+"Auth.LastNameTextField" = "姓";
+"Auth.CreateAccountButton" = "アカウントを作成";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "電話番号を入力してください";
+"Auth.PhoneTextField" = "電話番号";
+"Auth.SMSTextField" = "コード";
+"Auth.EnterOTPTitle" = "コードはすぐに来ます";
+"Auth.EnterOTPSubtitle" = "The code was sent via SMS to the number";
+"Auth.ResendOTPButton" = "コードをもう一度送信";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "アプリは気に入っていただけましたか？";
+"Rate.subtitle" = "アプリの評価やレビューをいただければ幸いです";
+
+//About
+"About.Changes" = "変更";
+"About.FutureUpdates" = "今後のアップデート";
+"About.SuggestIdea" = "アイデアを提案する";
+"About.PrivacyPolicy" = "プライバシーポリシー";
+"About.LicenseAgreements" = "ライセンス契約";
+"About.LibrariesUsed" = "使用されているライブラリ";
+"About.OtherApplications" = "私たちの他のアプリケーション";
+
+//Store
+"Store.PrivacyPolicy" = "プライバシーポリシー";
+"Store.LicenseAgreements" = "ライセンス契約";
+"Store.TermsOfUse" = "利用規約";
+"Store.RestoreButton" = "購入を復元";
+"Store.Price.Month" = " /月";
+"Store.Price.Year" = " /年";
+"Store.Info" = "すべての機能にアクセスするには、プロのサブスクリプションが必要です。 サブスクリプションに無料トライアル期間があるかどうかにかかわらず、現在の期間の終了の少なくとも24時間前にキャンセルされない限り、上記の価格と期間が自動的に更新されます。 お支払いは、購入確定時にApple IDアカウントに請求されます。 お客様のアカウントは、現在の期間が終了する24時間以内に更新されます。 サブスクリプションの管理とキャンセルは、購入後にApp Storeのアカウント設定から行うことができます。 無料トライアル期間の未使用部分は、提供された場合、ユーザーが該当する場合、そのパブリケーションのサブスクリプションを購入したときに没収されます。";
+"Store.Active" = "アクティブ";
+"Store.Expired" = "期限切れ";
+
+"StoreKit.BannerLabelPINWallet" = "より多くのカードスタイル、i<unk> loud、アプリケーションデザインの設定など";
+"Store.BannerLabelDressWeathrt" = "<unk> アイコンスタイリスト、最大20都市までのリストと無制限の服";
+
+"Store.Feature.Detailed daily weather" = "日々の詳細な天気";
+"Store.Feature.Detailed information for the week" = "今週の詳細情報";
+"Store.Feature.Up to 20 cities in the list" = "一覧に含まれる最大20の都市";
+"Store.Feature.Find out what the weather is like around the world" = "世界中の天気を調べる";
+"Store.Feature.Unlimited Places" = "無制限の場所";
+"Store.Feature.Adding points in the city without restrictions" = "制限なく都市内のポイントを追加する";
+"Store.Feature.More clothing options" = "その他の服のオプション";
+"Store.Feature.Adding clothes without limits" = "制限なしで服を追加する";
+"Store.Feature.Additional Icon Style" = "追加のアイコンスタイル";
+"Store.Feature.Possibility to customize" = "カスタマイズ可能";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "広告を無効化";
+"Store.Feature.NoAdsSubtitle" = "Ads disable sub";
+"Store.Feature.MoreCardDesignTitle" = "その他のカードのスタイル";
+"Store.Feature.MoreCardDesignSubtitle" = "制限なしでカードデザインを作成";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "iCloud経由でカードの同期";
+"Store.Feature.DisplaySetupTitle" = "設定を表示";
+"Store.Feature.DisplaySetupSubtitle" = "フォント、ストローク、半径を選択する機能";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "その他の機会";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "ハンドオフ、フェイスIDで秘密のコードなどを表示する";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "その他の機会";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "ハンドオフ、フェイスIDで秘密のコードなどを表示する";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Proバージョンで利用可能な詳細な天気表示";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "週の暖かい日";
+"Weather.TheColdestDayForTheWeek" = "今週一番寒い日";
+"Weather.SearthSplash" = "地図上の任意の\n点を見つけます";
+"Weather.NewPlace" = "新しい場所";
+"Weather.AddingPlace" = "場所を追加する";
+"Weather.AreYouWantDeletePlace?" = "場所を削除してもよろしいですか？";
+"Weather.AreYouWantDeleteClothing?" = "本当に服を削除しますか？";
+"Weather.UnableDeleteSelectedLocation" = "選択した場所を削除できません";
+"Weather.WantToUpdateWeather?" = "天気を更新したいですか？";
+"Weather.UpdateTheWeather" = "天気を更新";
+"Weather.ForSunnyWeather" = "晴れた天気のため";
+"Weather.WillBeDisplayedInHighUVIWeather" = "高いUVI天気で表示されます";
+"Weather.ForSnowyWeather" = "雪の多い天気のため";
+"Weather.ForRainyWeather" = "雨の多い天候のため";
+"Weather.FavoriteDress" = "好きなドレス";
+"Weather.WillStandOutFromRest" = "残りの部分から目立つだろう";
+"Weather.AddingClothes" = "服を追加する";
+"Weather.AddСlothes" = "服を追加";
+"Weather.AddPlace" = "場所を追加";
+"Weather.ListOfClothes" = "服の一覧";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Discover";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";

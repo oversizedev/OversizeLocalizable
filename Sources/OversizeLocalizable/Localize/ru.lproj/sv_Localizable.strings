@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Добавить";
+"Button.Edit" = "Изменить";
+"Button.Cancel" = "Отмена";
+"Button.Delete" = "Удалить";
+"Button.Next" = "Далее";
+"Button.Back" = "Назад";
+"Button.Close" = "Закрыть";
+"Button.Hide" = "Скрыть";
+"Button.Clean" = "Очистить";
+"Button.Continue" = "Продолжить";
+"Button.Done" = "Готово";
+"Button.Enter" = "Вход";
+"Button.Exit" = "Выход";
+"Button.Move" = "Переместить";
+"Button.Rate" = "Оценить";
+"Button.DeleteAll" = "Удалить все";
+"Button.Details" = "Подробнее";
+"Button.Rename" = "Переименовать";
+"Button.Invite" = "Пригласить";
+"Button.Save" = "Сохранить";
+"Button.Leave" = "Уйти";
+"Button.History" = "История";
+"Button.Share" = "Поделиться";
+"Button.Archive" = "Архивировать";
+"Button.Unarchive" = "Разархивировать";
+"Button.Copy" = "Копировать";
+"Button.Later" = "Позже";
+"Button.Get" = "Получить";
+"Button.Search" = "Искать";
+"Button.GoToSettings" = "Перейти в настройки";
+"Button.TryAgain" = "Попробовать ещё раз";
+
+// MARK: - Common
+"Common.Cities" = "Города";
+"Common.AirPollution" = "Качество воздуха";
+"Common.AQI" = "AQI";
+"Common.Map" = "Карта";
+"Common.YourPostition" = "Ваша позиция";
+"Common.MyPostition" = "Моя позиция";
+"Common.FeelsLike" = "Ощущается как";
+"Common.Sunrise" = "Восход";
+"Common.Sunset" = "Закат";
+"Common.Humidity" = "Влажность";
+"Common.UV" = "УФ индекс";
+"Common.Wind" = "Ветер";
+"Common.Cloudiness" = "Облачность";
+"Common.Clouds" = "Облачность";
+"Common.CloudsStyle" = "Стиль облаков";
+"Common.Pressure" = "Давление";
+"Common.Visibility" = "Видимость";
+"Common.Temperature" = "Температура";
+"Common.Units" = "Единицы измерения";
+"Common.Standart" = "Стандартная";
+"Common.MillimetreOfMercury" = "Миллиметры ртутного столба";
+"Common.Pascal" = "Паскаль";
+"Common.Metric" = "Метрическая";
+"Common.Imperial" = "Имперская";
+"Common.Meter" = "м.";
+"Common.hPa" = "гПа";
+"Common.mmHg" = "мм рт. ст";
+"Common.MetereSec" = "м/с";
+"Common.MilesHour" = "м.p.ч.";
+"Common.KelvinMeter" = "Кельвин, метр";
+"Common.CelsiusMeter" = "Цельсий, метры";
+"Common.FahrenheitMiles" = "Фаренгейт, мили";
+"Common.Morning" = "Утро";
+"Common.Day" = "День";
+"Common.Evening" = "Вечер";
+"Common.Night" = "Ночь";
+"Common.Today" = "Сегодня";
+"Common.Yesterday" = "Вчера";
+"Common.Tomorrow" = "Завтра";
+"Common.Week" = "Неделя";
+"Common.Gradient" = "Градиент";
+"Common.Image" = "Картинка";
+"Common.Shape" = "Узор";
+"Common.Monochrome" = "Монохромный";
+"Common.Style" = "Стиль";
+"Common.Search" = "Поиск";
+"Common.North" = "Север";
+"Common.South" = "Юг";
+"Common.East" = "Восток";
+"Common.West" = "Запад";
+"Common.NorthAbbreviation" = "С";
+"Common.SouthAbbreviation" = "Ю";
+"Common.EastAbbreviation" = "В";
+"Common.WestAbreviation" = "З";
+"Common.Moon" = "Луна";
+"Common.Growing" = "Растёт";
+"Common.Waning" = "Убывающая";
+"Common.YourPosition" = "Ваша позиция";
+"Common.Position" = "Позиция";
+"Common.Location" = "Местоположение";
+"Common.Icon" = "Иконка";
+"Common.Place" = "Место";
+"Common.FailedSave" = "Не удалось сохранить";
+"Common.TryLaterAgain" = "Повторите попытку позже";
+"Common.ALittleBitMore" = "Еще чуть-чуть";
+"Common.From" = "От";
+"Common.To" = "До";
+"Common.Test" = "Тест";
+"Common.Clothing" = "Одежда";
+"Common.Good" = "Хорошо";
+"Common.Fair" = "Нормально";
+"Common.Moderate" = "Умеренный";
+"Common.Poor" = "Плохо";
+"Common.VeryPoor" = "Очень плохо";
+"Common.Low" = "Низкий";
+"Common.High" = "Высокий";
+"Common.Veri high" = "Очень высокий";
+"Common.Extreme" = "Экстремальная";
+"Common.Graph" = "График";
+"Common.Short" = "Краткий";
+"Common.Full" = "Полный";
+
+
+// Materials
+"Common.Iridescent" = "Переливающийся";
+"Common.Metal" = "Металл";
+"Common.Noise" = "Шум";
+"Common.Paper" = "Бумага";
+"Common.Waves" = "Волны";
+
+// Error
+"Error.EnterTitle" = "Введите название";
+
+"Error.SomethingWentWrong" = "Что-то пошло не так";
+"Error.FailedToReadResponse" = "Не удалось прочитать ответ";
+"Error.SomethingWrongCameFromTheServer" = "Что-то пошло не так с сервера";
+"Error.LooksLikeTheAppIsBroken" = "Похоже, приложение сломалось";
+"Error.TryAgainLater" = "Повторите попытку позже";
+"Error.NothingСameFromServer" = "Ничего не получено от сервера";
+"Error.SomethingStrangeCameFromServer" = "Что-то странное пришло от сервера";
+"Error.ErrorOnServer" = "Ошибка на сервере";
+"Error.LooksLikeYouNeedToLogin" = "Похоже, вам нужно авторизоваться";
+"Error.Authorisation Error" = "Ошибка авторизации";
+"Error.InvalidRequest" = "Неверный запрос";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Пожалуйста, разрешите доступ к геолокации в настройках";
+"Error.SelectLocationSettings" = "Выберите настройки местоположения";
+"Error.NoAccessToLocation" = "Нет доступа к местоположению";
+"Error.SomethingIsWrongWithTheLocation" = "Что-то не так с местоположением";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Без доступа к геолокации приложение не может работать";
+
+"Error.DataFromICloudCouldNotBeRead" = "Не удалось прочитать данные из iCloud";
+"Error.NoAccessToICloud" = "Нет доступа к iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Скорее всего, вам нужно войти в систему с помощью Apple ID в настройках устройства.";
+"Error.SomethingWentWrongWithICloud" = "При использовании iCloud что-то пошло не так";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Похоже, у вас нет учетной записи iCloud";
+
+"Error.UpdatingAppShouldHelp" = "Обновление приложения должно помочь";
+
+// Time
+"Time.Min" = "мин.";
+"Time.Mins" = "мин.";
+
+// Titels
+"Title.Editing" = "Редактирование";
+"Title.DesignEditing" = "Изменение дизайна";
+"Title.Synchronization" = "Синхронизация";
+"Title.Sharing" = "Поделиться";
+"Title.Preview" = "Предпросмотр";
+
+// Info
+"Info.Сopied" = "Скопировано";
+"Info.Shared" = "Поделиться";
+"Info.Archived" = "Архивировано";
+"Info.Unarchived" = "Разархивировано";
+"Info.Deleted" = "Удалено";
+"Info.Renamed" = "Переименовано";
+"Info.Saved" = "Сохранено";
+
+// Settings
+"Settings.Title" = "Настройки";
+"Settings.Apperance" = "Отображение";
+"Settings.FeedbakAppStore" = "Оставить отзыв в App Store";
+"Settings.FeedbakAuthor" = "Написать автору";
+"Settings.TelegramChat" = "Чат в Telegram";
+"Settings.About" = "О приложении";
+"Settings.Subscription" = "Премиум";
+"Settings.SupportSection" = "Поддержка";
+"Settings.AppSection" = "Приложение";
+"Settings.ShareApplication" = "Поделиться приложением";
+"Settings.iCloudSync" = "iCloud cинхронизация";
+"Settings.Notifications" = "Уведомления";
+"Settings.Sounds" = "Звуки";
+"Settings.Vibration" = "Вибрации";
+"Settings.SoundsAndVibration" = "Звуки и вибрации";
+"Settings.Entrance" = "Вход";
+"Settings.Additionally" = "Дополнительно";
+"Settings.DeleteAll.Title" = "Вы уверены, что хотите удалить все карты?";
+"Settings.DeleteAll.Description" = "Удаленные данные невозможно восстановлены";
+"Settings.DeleteAll.DeleteButton" = "Удалить все карты";
+"Settings.DeleteAll.DataDeleted" = "Все карты удалены";
+"Settings.ShareAndCopy" = "Копирование и отправка";
+"Settings.ShareRows" = "Данные для отправки";
+"Settings.CopyRows" = "Данные для копирования";
+"Settings.Handoff" = "Handoff";
+"Settings.FaceIDwhenShowCVV" = "Face ID при показе CVV";
+"Settings.ClipboardTime" = "Время хранения в буфере обмена";
+"Settings.BackgroundStyle" = "Стиль фона";
+
+// Security
+"Security.Title" = "Безопасность";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "запрос PIN-кода";
+"Security.TouchID" = "ID Touch";
+"Security.iCloudSyncCVV" = "Синхронизация PIN-кода и CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN-код и CVV сохраняются только в телефоне";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "Синхронизация PIN и CVV в iCloud";
+"Security.PINCode" = "ПИН-код";
+"Security.CreatePINCode" = "Создать PIN-код";
+"Security.ChangePINCode" = "Изменить PIN-код";
+"Security.BruteForceSecurity" = "Удалить данные";
+"Security.BruteForceSecurityDescription" = "Удалить все данные после 10 ошибочных ввода PIN-кода";
+"Security.Spotlight" = "Spotlight";
+"Security.AlertPINCode" = "Аварийный PIN-код";
+"Security.PhotoBreaker" = "Фото взломщика";
+"Security.FacedownLock" = "Блокировка экраном вниз";
+"Security.BlurMinimize" = "Размытие при сворачивании";
+"Security.AuthHistory" = "История авторизации";
+"Security.InactiveAskPassword" = "Запрос пароля после 5 минут неактивности";
+"Security.MinimizeAskPassword" = "Блокировка после сворачивания";
+"Security.EnterPINCode" = "Введите PIN-код";
+"Security.ChengePIN" = "Изменить PIN-код";
+"Security.InvalidPIN" = "Неверный PIN-код";
+"Security.NewPINNotMatch" = "Новый PIN-код не совпадает";
+"Security.PINNotMatch" = "PIN-коды не совпадают";
+"Security.PINChanged" = "ПИН-код изменен";
+"Security.InvalidCurrentPINCode" = "Неверный PIN-код";
+"Security.OldPINCode" = "Старый PIN-код";
+"Security.NewPINCode" = "Новый PIN-код";
+"Security.ConfirmPINCode" = "Подтвердите PIN-код";
+"Security.ChengePassword" = "Изменить пароль";
+"Security.InvalidPassword" = "Неверный пароль";
+"Security.NewPasswordsNotMatch" = "Новые пароли не совпадают";
+"Security.PasswordsNotMatch" = "Пароли не совпадают";
+"Security.PasswordLengthLess5Characters" = "Длина пароля меньше 5 символов";
+"Security.PasswordIsLong" = "Пароль больше 30 символов";
+"Security.NewPasswordIdSameOld" = "Новый пароль совпадает со старым";
+"Security.PasswordChanged" = "Пароль изменен";
+"Security.InvalidCurrentPassword" = "Неверный текущий пароль";
+
+// Apperance
+"Apperance.Title" = "Отображение";
+"Apperance.ThemeSection" = "Тема";
+"Apperance.SystemTheme" = "Система";
+"Apperance.DarkTheme" = "Темная";
+"Apperance.LightTheme" = "Светлая";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Регистрация";
+"Auth.CreateAccounTitle" = "Создать аккаунт";
+"Auth.SignUpWithEmailButton" = "Регистрация";
+"Auth.SignUpWithGoogleButton" = "Войти через Google";
+"Auth.LogInButton" = "Войти";
+"Auth.EmailTextField" = "Почта";
+"Auth.PasswordTextField" = "Пароль";
+"Auth.FirstNameTextField" = "Имя";
+"Auth.LastNameTextField" = "Фамилия";
+"Auth.CreateAccountButton" = "Создать аккаунт";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Введите ваш номер телефона";
+"Auth.PhoneTextField" = "Номер телефона";
+"Auth.SMSTextField" = "Код";
+"Auth.EnterOTPTitle" = "Код придет";
+"Auth.EnterOTPSubtitle" = "Код был отправлен через SMS на номер";
+"Auth.ResendOTPButton" = "Отправить код еще раз";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Вам нравится приложение?";
+"Rate.subtitle" = "Мы были бы рады, если бы вы оценили приложение или оставили отзыв";
+
+//About
+"About.Changes" = "Изменения";
+"About.FutureUpdates" = "Будущие обновления";
+"About.SuggestIdea" = "Предложить идею";
+"About.PrivacyPolicy" = "Политика конфиденциальности";
+"About.LicenseAgreements" = "Лицензионные соглашения";
+"About.LibrariesUsed" = "Использованные библиотеки";
+"About.OtherApplications" = "Другие наши приложения";
+
+//Store
+"Store.PrivacyPolicy" = "Политика конфиденциальности";
+"Store.LicenseAgreements" = "Лицензионные соглашения";
+"Store.TermsOfUse" = "Условия использования";
+"Store.RestoreButton" = "Восстановить покупки";
+"Store.Price.Month" = " / в месяц";
+"Store.Price.Year" = " / в год";
+"Store.Info" = "Для доступа ко всем функциям требуется Pro подписка. Независимо от того, имеет ли подписка бесплатный пробный период или нет она автоматически продлевается с указанной выше ценой и продолжительностью, если она не будет отменена по крайней мере за 24 часа до окончания текущего периода. Оплата будет снята с вашего аккаунта Apple ID при подтверждении покупки. С вашего счета будет снята плата за продление в течение 24 часов до окончания текущего периода. Вы можете управлять подписками и отменять их, перейдя в настройки аккаунта в App Store после покупки. Оставшееся часть бесплатного пробного периода будет отменена при покупке подписки на эту публикацию, где это применимо.";
+"Store.Active" = "Активная";
+"Store.Expired" = "Истекла";
+
+"StoreKit.BannerLabelPINWallet" = "Больше стилей карт, iСloud, настройка дизайна приложения и многое другое";
+"Store.BannerLabelDressWeathrt" = "Выбор стилей иконок, до 20 городов в списке и неограниченная одежда";
+
+"Store.Feature.Detailed daily weather" = "Подробная ежедневная погода";
+"Store.Feature.Detailed information for the week" = "Подробная информация за неделю";
+"Store.Feature.Up to 20 cities in the list" = "До 20 городов в списке";
+"Store.Feature.Find out what the weather is like around the world" = "Узнайте, что такое погода по всему миру";
+"Store.Feature.Unlimited Places" = "Неограниченные места";
+"Store.Feature.Adding points in the city without restrictions" = "Добавление точек в городе без ограничений";
+"Store.Feature.More clothing options" = "Больше вариантов одежды";
+"Store.Feature.Adding clothes without limits" = "Добавление одежды без ограничений";
+"Store.Feature.Additional Icon Style" = "Дополнительный стиль значка";
+"Store.Feature.Possibility to customize" = "Возможность настройки";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Отключение рекламы";
+"Store.Feature.NoAdsSubtitle" = "Отключение рекламы";
+"Store.Feature.MoreCardDesignTitle" = "Больше стилей карт";
+"Store.Feature.MoreCardDesignSubtitle" = "Создание дизайна карт без ограничений";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Синхронизация карт через iCloud";
+"Store.Feature.DisplaySetupTitle" = "Настройки отображения";
+"Store.Feature.DisplaySetupSubtitle" = "Возможность выбора шрифтов и прочее";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Еще больше возможностей";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID для отображения секретных кодов и прочее";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Еще больше возможностей";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID для отображения секретных кодов и прочее";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Подробный просмотр погоды доступен в Pro версии";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Самый теплый день недели";
+"Weather.TheColdestDayForTheWeek" = "Самый холодный день недели";
+"Weather.SearthSplash" = "Мы найдем\nточку на карте";
+"Weather.NewPlace" = "Новое место";
+"Weather.AddingPlace" = "Добавление места";
+"Weather.AreYouWantDeletePlace?" = "Вы уверены, что хотите удалить место?";
+"Weather.AreYouWantDeleteClothing?" = "Вы уверены, что хотите удалить одежду?";
+"Weather.UnableDeleteSelectedLocation" = "Не удается удалить выбранное местоположение";
+"Weather.WantToUpdateWeather?" = "Хотите обновить погоды?";
+"Weather.UpdateTheWeather" = "Обновить погоду";
+"Weather.ForSunnyWeather" = "Для солнечной погоды";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Будет отображаться при высокой погоде UVI";
+"Weather.ForSnowyWeather" = "Для снежной погоды";
+"Weather.ForRainyWeather" = "На дождливую погоду";
+"Weather.FavoriteDress" = "Любимое платье";
+"Weather.WillStandOutFromRest" = "Выделится от остальной";
+"Weather.AddingClothes" = "Добавление одежды";
+"Weather.AddСlothes" = "Добавить одежду";
+"Weather.AddPlace" = "Добавить место";
+"Weather.ListOfClothes" = "Список одежды";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "МИР";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Discover";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";

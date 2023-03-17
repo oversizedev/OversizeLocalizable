@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Adicionar";
+"Button.Edit" = "Alterar";
+"Button.Cancel" = "cancelar";
+"Button.Delete" = "excluir";
+"Button.Next" = "Próximo";
+"Button.Back" = "Anterior";
+"Button.Close" = "FECHAR";
+"Button.Hide" = "Esconder";
+"Button.Clean" = "Limpar";
+"Button.Continue" = "Continuar";
+"Button.Done" = "Concluído";
+"Button.Enter" = "Entrar";
+"Button.Exit" = "Sair";
+"Button.Move" = "Mover-se";
+"Button.Rate" = "Avaliar";
+"Button.DeleteAll" = "Excluir todos os";
+"Button.Details" = "detalhes";
+"Button.Rename" = "Renomear";
+"Button.Invite" = "Convidar";
+"Button.Save" = "Guardar";
+"Button.Leave" = "Sair";
+"Button.History" = "Histórico";
+"Button.Share" = "Compartilhar";
+"Button.Archive" = "Arquivo";
+"Button.Unarchive" = "Desarquivar";
+"Button.Copy" = "copiar";
+"Button.Later" = "Mais tarde";
+"Button.Get" = "Receber";
+"Button.Search" = "Pesquisa";
+"Button.GoToSettings" = "Ir para Configurações";
+"Button.TryAgain" = "Tente novamente";
+
+// MARK: - Common
+"Common.Cities" = "Cidades";
+"Common.AirPollution" = "Poluição Aérea";
+"Common.AQI" = "IQA";
+"Common.Map" = "Mapear";
+"Common.YourPostition" = "Sua posição";
+"Common.MyPostition" = "Minha posição";
+"Common.FeelsLike" = "Sensação de";
+"Common.Sunrise" = "Amanhecer";
+"Common.Sunset" = "Ensolarado";
+"Common.Humidity" = "Umidade";
+"Common.UV" = "Índice UV";
+"Common.Wind" = "Vento";
+"Common.Cloudiness" = "Nuvens";
+"Common.Clouds" = "Nuvens";
+"Common.CloudsStyle" = "Estilo das nuvens";
+"Common.Pressure" = "Pressão";
+"Common.Visibility" = "Visibilidade";
+"Common.Temperature" = "Temperatura";
+"Common.Units" = "Unidades";
+"Common.Standart" = "Padre";
+"Common.MillimetreOfMercury" = "Milímetro de mercúrio";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Métrico";
+"Common.Imperial" = "Imperial";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm hg";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.h.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Celsius, medidor";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Manhã";
+"Common.Day" = "dia";
+"Common.Evening" = "Noite";
+"Common.Night" = "Noite";
+"Common.Today" = "hoje";
+"Common.Yesterday" = "ontem";
+"Common.Tomorrow" = "Amanhã";
+"Common.Week" = "semana";
+"Common.Gradient" = "Degradê";
+"Common.Image" = "Imagem:";
+"Common.Shape" = "Forma";
+"Common.Monochrome" = "Monocromático";
+"Common.Style" = "Estilo";
+"Common.Search" = "Pesquisa";
+"Common.North" = "Norte";
+"Common.South" = "Sul";
+"Common.East" = "Leste";
+"Common.West" = "Oeste";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S.O.";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "PO";
+"Common.Moon" = "Lua";
+"Common.Growing" = "Crescendo";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Sua posição";
+"Common.Position" = "Posição";
+"Common.Location" = "Local:";
+"Common.Icon" = "Ícone";
+"Common.Place" = "Lugar";
+"Common.FailedSave" = "Falha ao salvar";
+"Common.TryLaterAgain" = "Tente novamente mais tarde";
+"Common.ALittleBitMore" = "Um pouco mais";
+"Common.From" = "De";
+"Common.To" = "Para";
+"Common.Test" = "teste";
+"Common.Clothing" = "Roupa";
+"Common.Good" = "Excelente";
+"Common.Fair" = "Razoável";
+"Common.Moderate" = "Moderado";
+"Common.Poor" = "Inferior";
+"Common.VeryPoor" = "Muito ruim";
+"Common.Low" = "baixa";
+"Common.High" = "alta";
+"Common.Veri high" = "Veri alto";
+"Common.Extreme" = "Extremo";
+"Common.Graph" = "Gráfico";
+"Common.Short" = "Curto";
+"Common.Full" = "Completo";
+
+
+// Materials
+"Common.Iridescent" = "Iridescente";
+"Common.Metal" = "Metal";
+"Common.Noise" = "Ruído";
+"Common.Paper" = "Papel";
+"Common.Waves" = "Ondas";
+
+// Error
+"Error.EnterTitle" = "Insira o título";
+
+"Error.SomethingWentWrong" = "Algo deu errado";
+"Error.FailedToReadResponse" = "Falha ao ler a resposta";
+"Error.SomethingWrongCameFromTheServer" = "Algo errado veio do servidor";
+"Error.LooksLikeTheAppIsBroken" = "Parece que o aplicativo está quebrado";
+"Error.TryAgainLater" = "Tente novamente mais tarde";
+"Error.NothingСameFromServer" = "Nada veio do servidor";
+"Error.SomethingStrangeCameFromServer" = "Algo estranho veio do servidor";
+"Error.ErrorOnServer" = "Erro no servidor";
+"Error.LooksLikeYouNeedToLogin" = "Parece que você precisa logar";
+"Error.Authorisation Error" = "Erro de Autorização";
+"Error.InvalidRequest" = "Solicitação inválida";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Por favor, permita o acesso à localização nas configurações";
+"Error.SelectLocationSettings" = "Selecionar configurações de local";
+"Error.NoAccessToLocation" = "Sem acesso à localização";
+"Error.SomethingIsWrongWithTheLocation" = "Algo está errado com o local";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Sem acesso à localização, a aplicação não pode funcionar";
+
+"Error.DataFromICloudCouldNotBeRead" = "Os dados do iCloud não podem ser lidos";
+"Error.NoAccessToICloud" = "Sem acesso ao iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Muito provavelmente você precisa entrar com o seu Apple ID nas configurações do seu telefone.";
+"Error.SomethingWentWrongWithICloud" = "Algo deu errado com o iCloud";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Parece que você não tem uma conta iCloud";
+
+"Error.UpdatingAppShouldHelp" = "A atualização do aplicativo deve ajudar";
+
+// Time
+"Time.Min" = "min";
+"Time.Mins" = "min.";
+
+// Titels
+"Title.Editing" = "Editando";
+"Title.DesignEditing" = "Edição de design";
+"Title.Synchronization" = "Sincronização";
+"Title.Sharing" = "Compartilhando";
+"Title.Preview" = "Pré-visualizar";
+
+// Info
+"Info.Сopied" = "&Oculto";
+"Info.Shared" = "Compartilhado";
+"Info.Archived" = "Arquivado";
+"Info.Unarchived" = "Desarquivado";
+"Info.Deleted" = "Excluído";
+"Info.Renamed" = "Renomeado";
+"Info.Saved" = "Salvo";
+
+// Settings
+"Settings.Title" = "Confirgurações";
+"Settings.Apperance" = "Aparência";
+"Settings.FeedbakAppStore" = "Deixar uma avaliação";
+"Settings.FeedbakAuthor" = "Escreva para o autor";
+"Settings.TelegramChat" = "Conversar com o Telegram";
+"Settings.About" = "SOBRE";
+"Settings.Subscription" = "Prêmio";
+"Settings.SupportSection" = "SUPORTE";
+"Settings.AppSection" = "Aplicativo";
+"Settings.ShareApplication" = "Compartilhar o aplicativo";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "notificações";
+"Settings.Sounds" = "Sons";
+"Settings.Vibration" = "Vibração";
+"Settings.SoundsAndVibration" = "Sons e vibração";
+"Settings.Entrance" = "Entrada";
+"Settings.Additionally" = "Adicionalmente";
+"Settings.DeleteAll.Title" = "Você tem certeza que deseja excluir todos os cartões?";
+"Settings.DeleteAll.Description" = "Dados excluídos não podem ser recuperados";
+"Settings.DeleteAll.DeleteButton" = "Remover todos os cartões";
+"Settings.DeleteAll.DataDeleted" = "Todos os cartões foram excluídos";
+"Settings.ShareAndCopy" = "Compartilhar e copiar";
+"Settings.ShareRows" = "Compartilhar linhas";
+"Settings.CopyRows" = "Copiar linhas";
+"Settings.Handoff" = "Entrega";
+"Settings.FaceIDwhenShowCVV" = "ID da face quando mostrar CVV";
+"Settings.ClipboardTime" = "Tempo da área de transferência";
+"Settings.BackgroundStyle" = "Estilo do fundo";
+
+// Security
+"Security.Title" = "Segurança";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "solicitação de código PIN";
+"Security.TouchID" = "ID do toque";
+"Security.iCloudSyncCVV" = "Sincronização do PIN e do CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN e CVV salvos apenas no telefone";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "Sincronização PIN e CVV no iCloud";
+"Security.PINCode" = "Código PIN";
+"Security.CreatePINCode" = "Criar código PIN";
+"Security.ChangePINCode" = "Alterar código PIN";
+"Security.BruteForceSecurity" = "Eliminar Dados";
+"Security.BruteForceSecurityDescription" = "Excluir todos os dados após o código PIN de entrada 10 erros";
+"Security.Spotlight" = "Enlofote";
+"Security.AlertPINCode" = "Alerta de código PIN";
+"Security.PhotoBreaker" = "Foto do disjuntor";
+"Security.FacedownLock" = "Bloqueio de rosto";
+"Security.BlurMinimize" = "Desfocar minimizado app";
+"Security.AuthHistory" = "Histórico de autenticação";
+"Security.InactiveAskPassword" = "Perguntar senha inativa 5 min";
+"Security.MinimizeAskPassword" = "Perguntar senha após minimizar";
+"Security.EnterPINCode" = "Inserir código PIN";
+"Security.ChengePIN" = "Alterar código PIN";
+"Security.InvalidPIN" = "Código PIN inválido";
+"Security.NewPINNotMatch" = "Os novos códigos PIN não coincidem";
+"Security.PINNotMatch" = "O PIN não corresponde";
+"Security.PINChanged" = "Código PIN alterado";
+"Security.InvalidCurrentPINCode" = "Código PIN atual inválido";
+"Security.OldPINCode" = "Código PIN antigo";
+"Security.NewPINCode" = "Novo código PIN";
+"Security.ConfirmPINCode" = "Confirme o código PIN";
+"Security.ChengePassword" = "Mudar Senha";
+"Security.InvalidPassword" = "Senha inválida";
+"Security.NewPasswordsNotMatch" = "As novas senhas não coincidem";
+"Security.PasswordsNotMatch" = "As senhas não coincidem";
+"Security.PasswordLengthLess5Characters" = "O tamanho da senha é inferior a 5 caracteres";
+"Security.PasswordIsLong" = "A senha tem mais de 30 caracteres";
+"Security.NewPasswordIdSameOld" = "A nova senha é igual à antiga";
+"Security.PasswordChanged" = "Senha alterada";
+"Security.InvalidCurrentPassword" = "Senha atual inválida";
+
+// Apperance
+"Apperance.Title" = "Aparência";
+"Apperance.ThemeSection" = "Tema";
+"Apperance.SystemTheme" = "SISTEMA";
+"Apperance.DarkTheme" = "Escuro";
+"Apperance.LightTheme" = "Fino";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Criar conta";
+"Auth.CreateAccounTitle" = "Criar conta";
+"Auth.SignUpWithEmailButton" = "Criar conta";
+"Auth.SignUpWithGoogleButton" = "Cadastre-se com o Google";
+"Auth.LogInButton" = "Iniciar sessão";
+"Auth.EmailTextField" = "e-mail";
+"Auth.PasswordTextField" = "Palavra-passe";
+"Auth.FirstNameTextField" = "Primeiro nome";
+"Auth.LastNameTextField" = "Último Nome";
+"Auth.CreateAccountButton" = "Criar conta";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Insira o seu número de telefone";
+"Auth.PhoneTextField" = "Número de telefone";
+"Auth.SMSTextField" = "Código";
+"Auth.EnterOTPTitle" = "O código virá agora";
+"Auth.EnterOTPSubtitle" = "O código foi enviado por SMS para o número";
+"Auth.ResendOTPButton" = "Enviar código novamente";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Você gosta do app?";
+"Rate.subtitle" = "Ficaremos felizes se você avaliar o aplicativo ou nos der uma avaliação";
+
+//About
+"About.Changes" = "Mudanças";
+"About.FutureUpdates" = "Atualizações Futuras";
+"About.SuggestIdea" = "Sugerir uma ideia";
+"About.PrivacyPolicy" = "Política de Privacidade";
+"About.LicenseAgreements" = "Acordo de licenciamento";
+"About.LibrariesUsed" = "Bibliotecas utilizadas";
+"About.OtherApplications" = "Nossos outros aplicativos";
+
+//Store
+"Store.PrivacyPolicy" = "Política de Privacidade";
+"Store.LicenseAgreements" = "Acordo de licenciamento";
+"Store.TermsOfUse" = "Termos de Uso";
+"Store.RestoreButton" = "Restaurar compras";
+"Store.Price.Month" = " / mês";
+"Store.Price.Year" = " / ano";
+"Store.Info" = "É necessária uma assinatura Pro para obter acesso a todas as funções. Independente se a assinatura tem um período de teste gratuito ou não se renova automaticamente com o preço e a duração dados acima, a menos que seja cancelada pelo menos 24 horas antes do final do período atual. O pagamento será cobrado em sua conta Apple ID ao confirmar a compra. Sua conta será cobrada pela renovação 24 horas antes do fim do período atual. Você pode gerenciar e cancelar suas assinaturas indo às configurações da sua conta na App Store após a compra. Qualquer parte não utilizada de um período de teste gratuito, se oferecido, será perdida quando o usuário comprar uma assinatura para essa publicação, quando aplicável.";
+"Store.Active" = "ativo";
+"Store.Expired" = "Expirado";
+
+"StoreKit.BannerLabelPINWallet" = "Mais estilos de cartas, i├loud, configuração de design de aplicativos e muito mais";
+"Store.BannerLabelDressWeathrt" = "Sopa de ícones de estilistismos, até 20 cidades na lista e roupas ilimitadas";
+
+"Store.Feature.Detailed daily weather" = "Tempo diário detalhado";
+"Store.Feature.Detailed information for the week" = "Informações detalhadas da semana";
+"Store.Feature.Up to 20 cities in the list" = "Até 20 cidades na lista";
+"Store.Feature.Find out what the weather is like around the world" = "Descubra como é o clima ao redor do mundo";
+"Store.Feature.Unlimited Places" = "Locais Ilimitados";
+"Store.Feature.Adding points in the city without restrictions" = "Adicionar pontos na cidade sem restrições";
+"Store.Feature.More clothing options" = "Mais opções de roupa";
+"Store.Feature.Adding clothes without limits" = "Adicionar roupas sem limites";
+"Store.Feature.Additional Icon Style" = "Estilo de ícone adicional";
+"Store.Feature.Possibility to customize" = "Possibilidade de personalizar";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Anúncios desativados";
+"Store.Feature.NoAdsSubtitle" = "Anúncios desativam o sub";
+"Store.Feature.MoreCardDesignTitle" = "Mais estilos de cartão";
+"Store.Feature.MoreCardDesignSubtitle" = "Criar design de cartão sem restrições";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Sincronização de cartões via iCloud";
+"Store.Feature.DisplaySetupTitle" = "Configuração de exibição";
+"Store.Feature.DisplaySetupSubtitle" = "A capacidade de selecionar fontes, traços e raio";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Mais oportunidades";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID para exibir códigos secretos e assim por diante";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Mais oportunidades";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID para exibir códigos secretos e assim por diante";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Exibição de tempo detalhada disponível na versão Pro";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "O dia mais quente da semana";
+"Weather.TheColdestDayForTheWeek" = "O dia mais frio da semana";
+"Weather.SearthSplash" = "Encontraremos qualquer\num ponto no mapa";
+"Weather.NewPlace" = "Novo lugar";
+"Weather.AddingPlace" = "Adicionando um local";
+"Weather.AreYouWantDeletePlace?" = "Tem certeza de que deseja excluir o lugar?";
+"Weather.AreYouWantDeleteClothing?" = "Tem certeza de que quer apagar roupa?";
+"Weather.UnableDeleteSelectedLocation" = "Não foi possível apagar o local selecionado";
+"Weather.WantToUpdateWeather?" = "Quer atualizar o tempo?";
+"Weather.UpdateTheWeather" = "Atualizar tempo";
+"Weather.ForSunnyWeather" = "Para tempo ensolarado";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Será exibido em tempo alto UVI";
+"Weather.ForSnowyWeather" = "Para um clima nevado";
+"Weather.ForRainyWeather" = "Para tempo chuvoso";
+"Weather.FavoriteDress" = "Vestimento favorito";
+"Weather.WillStandOutFromRest" = "Irá se destacar do resto";
+"Weather.AddingClothes" = "Adicionando roupas";
+"Weather.AddСlothes" = "Adicione roupas";
+"Weather.AddPlace" = "Adicionar local";
+"Weather.ListOfClothes" = "Lista de roupas";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Pendentes";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";

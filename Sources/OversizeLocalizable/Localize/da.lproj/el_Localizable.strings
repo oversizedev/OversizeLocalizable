@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Tilføj";
+"Button.Edit" = "Rediger";
+"Button.Cancel" = "Annuller";
+"Button.Delete" = "Slet";
+"Button.Next" = "Næste";
+"Button.Back" = "Tilbage";
+"Button.Close" = "Luk";
+"Button.Hide" = "Skjul";
+"Button.Clean" = "Ryd";
+"Button.Continue" = "Fortsæt";
+"Button.Done" = "Udført";
+"Button.Enter" = "Indtast";
+"Button.Exit" = "Afslut";
+"Button.Move" = "Flyt";
+"Button.Rate" = "Sats";
+"Button.DeleteAll" = "Slet Alle";
+"Button.Details" = "Detaljer";
+"Button.Rename" = "Omdøb";
+"Button.Invite" = "Inviter";
+"Button.Save" = "Gem";
+"Button.Leave" = "Forlad";
+"Button.History" = "Historik";
+"Button.Share" = "Del";
+"Button.Archive" = "Arkiv";
+"Button.Unarchive" = "Fjern Arkiv";
+"Button.Copy" = "Kopiér";
+"Button.Later" = "Senere";
+"Button.Get" = "Hent";
+"Button.Search" = "Søg";
+"Button.GoToSettings" = "Gå til Indstillinger";
+"Button.TryAgain" = "Prøv Igen";
+
+// MARK: - Common
+"Common.Cities" = "Byer";
+"Common.AirPollution" = "Luftforurening";
+"Common.AQI" = "AQI";
+"Common.Map" = "Kort";
+"Common.YourPostition" = "Din position";
+"Common.MyPostition" = "Min position";
+"Common.FeelsLike" = "Føler dig som";
+"Common.Sunrise" = "Solopgang";
+"Common.Sunset" = "Solnedgang";
+"Common.Humidity" = "Luftfugtighed";
+"Common.UV" = "UV indeks";
+"Common.Wind" = "Vind";
+"Common.Cloudiness" = "Skyer";
+"Common.Clouds" = "Skyer";
+"Common.CloudsStyle" = "Skyer stil";
+"Common.Pressure" = "Tryk";
+"Common.Visibility" = "Synlighed";
+"Common.Temperature" = "Temperatur";
+"Common.Units" = "Enheder";
+"Common.Standart" = "Standart";
+"Common.MillimetreOfMercury" = "Millimeter kviksølv";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Metrisk";
+"Common.Imperial" = "Imperial";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.p.h.";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Celsius, meter";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Morgen";
+"Common.Day" = "Dag";
+"Common.Evening" = "Aften";
+"Common.Night" = "Nat";
+"Common.Today" = "Idag";
+"Common.Yesterday" = "Igår";
+"Common.Tomorrow" = "I Morgen";
+"Common.Week" = "Uge";
+"Common.Gradient" = "Overgang";
+"Common.Image" = "Billede";
+"Common.Shape" = "Form";
+"Common.Monochrome" = "Monokrom";
+"Common.Style" = "Stil";
+"Common.Search" = "Søg";
+"Common.North" = "Nord";
+"Common.South" = "Syd";
+"Common.East" = "Øst";
+"Common.West" = "Vest";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "W";
+"Common.Moon" = "Måne";
+"Common.Growing" = "Dyrkning";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Din position";
+"Common.Position" = "Placering";
+"Common.Location" = "Placering";
+"Common.Icon" = "Ikon";
+"Common.Place" = "Sted";
+"Common.FailedSave" = "Kunne ikke gemme";
+"Common.TryLaterAgain" = "Prøv senere igen";
+"Common.ALittleBitMore" = "En lille smule mere";
+"Common.From" = "Fra";
+"Common.To" = "Til";
+"Common.Test" = "Test";
+"Common.Clothing" = "Tøj";
+"Common.Good" = "God";
+"Common.Fair" = "Fint";
+"Common.Moderate" = "Moderat";
+"Common.Poor" = "Dårlig";
+"Common.VeryPoor" = "Meget Dårlig";
+"Common.Low" = "Lav";
+"Common.High" = "Høj";
+"Common.Veri high" = "Veri høj";
+"Common.Extreme" = "Ekstrem";
+"Common.Graph" = "Graf";
+"Common.Short" = "Kort";
+"Common.Full" = "Fuld";
+
+
+// Materials
+"Common.Iridescent" = "Iridescent";
+"Common.Metal" = "Metal";
+"Common.Noise" = "Støj";
+"Common.Paper" = "Papir";
+"Common.Waves" = "Bølger";
+
+// Error
+"Error.EnterTitle" = "Indtast titel";
+
+"Error.SomethingWentWrong" = "Noget gik galt";
+"Error.FailedToReadResponse" = "Kunne ikke læse svar";
+"Error.SomethingWrongCameFromTheServer" = "Noget galt kom fra serveren";
+"Error.LooksLikeTheAppIsBroken" = "Det ser ud til, at appen er brudt";
+"Error.TryAgainLater" = "Prøv igen senere";
+"Error.NothingСameFromServer" = "Intet kom fra serveren";
+"Error.SomethingStrangeCameFromServer" = "Noget mærkeligt kom fra serveren";
+"Error.ErrorOnServer" = "Fejl på serveren";
+"Error.LooksLikeYouNeedToLogin" = "Det ser ud som om du skal logge ind";
+"Error.Authorisation Error" = "Fejl Ved Godkendelse";
+"Error.InvalidRequest" = "Ugyldig anmodning";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Tillad venligst adgang til placering i indstillinger";
+"Error.SelectLocationSettings" = "Vælg placeringsindstillinger";
+"Error.NoAccessToLocation" = "Ingen adgang til placering";
+"Error.SomethingIsWrongWithTheLocation" = "Noget er galt med placeringen";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Uden adgang til placeringen, kan programmet ikke fungere";
+
+"Error.DataFromICloudCouldNotBeRead" = "Data fra iCloud kunne ikke læses";
+"Error.NoAccessToICloud" = "Ingen adgang til iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Sandsynligvis skal du logge ind med dit Apple-id i dine telefonindstillinger.";
+"Error.SomethingWentWrongWithICloud" = "Noget gik galt med iCloud";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Det ser ud til, at du ikke har en iCloud-konto";
+
+"Error.UpdatingAppShouldHelp" = "Opdatering af appen bør hjælpe";
+
+// Time
+"Time.Min" = "min.";
+"Time.Mins" = "min.";
+
+// Titels
+"Title.Editing" = "Redigering";
+"Title.DesignEditing" = "Design Redigering";
+"Title.Synchronization" = "Synkronisering";
+"Title.Sharing" = "Deling";
+"Title.Preview" = "Eksempelvisning";
+
+// Info
+"Info.Сopied" = "● kopieret";
+"Info.Shared" = "Delt";
+"Info.Archived" = "Arkiveret";
+"Info.Unarchived" = "Uarkiveret";
+"Info.Deleted" = "Slettet";
+"Info.Renamed" = "Omdøbt";
+"Info.Saved" = "Gemt";
+
+// Settings
+"Settings.Title" = "Indstillinger";
+"Settings.Apperance" = "Apperance";
+"Settings.FeedbakAppStore" = "Forlad en anmeldelse";
+"Settings.FeedbakAuthor" = "Skriv til forfatteren";
+"Settings.TelegramChat" = "Chat til Telegram";
+"Settings.About" = "Om";
+"Settings.Subscription" = "Premium";
+"Settings.SupportSection" = "Support";
+"Settings.AppSection" = "App";
+"Settings.ShareApplication" = "Del applikation";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "Notifikationer";
+"Settings.Sounds" = "Lyde";
+"Settings.Vibration" = "Vibration";
+"Settings.SoundsAndVibration" = "Lyde og vibrationer";
+"Settings.Entrance" = "Indgang";
+"Settings.Additionally" = "Yderligere";
+"Settings.DeleteAll.Title" = "Er du sikker på, at du vil slette alle kort?";
+"Settings.DeleteAll.Description" = "Slettede data kan ikke gendannes";
+"Settings.DeleteAll.DeleteButton" = "Fjern alle kort";
+"Settings.DeleteAll.DataDeleted" = "Alle kort er slettet";
+"Settings.ShareAndCopy" = "Del og kopier";
+"Settings.ShareRows" = "Del rækker";
+"Settings.CopyRows" = "Kopier rækker";
+"Settings.Handoff" = "Handoff";
+"Settings.FaceIDwhenShowCVV" = "Ansigts- ID når CVV vises";
+"Settings.ClipboardTime" = "Udklipsholder tid";
+"Settings.BackgroundStyle" = "Baggrunds stil";
+
+// Security
+"Security.Title" = "Sikkerhed";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "anmodning om PIN-kode";
+"Security.TouchID" = "Touch ID";
+"Security.iCloudSyncCVV" = "Synkronisering af PIN og CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "Pinkode og CVV er kun gemt i telefonen";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "Pinkode og CVV synkronisering i iCloud";
+"Security.PINCode" = "PIN-kode";
+"Security.CreatePINCode" = "Opret PIN-kode";
+"Security.ChangePINCode" = "Skift PIN-kode";
+"Security.BruteForceSecurity" = "Erace Data";
+"Security.BruteForceSecurityDescription" = "Slet alle data efter 10 fejlagtige input PIN-kode";
+"Security.Spotlight" = "Spotlight";
+"Security.AlertPINCode" = "PIN-kode Til Advarsel";
+"Security.PhotoBreaker" = "Breaker foto";
+"Security.FacedownLock" = "Facedown lås";
+"Security.BlurMinimize" = "Slør app minimeres";
+"Security.AuthHistory" = "Auth historik";
+"Security.InactiveAskPassword" = "Spørg inaktiv adgangskode 5 min";
+"Security.MinimizeAskPassword" = "Spørg adgangskode efter minimering";
+"Security.EnterPINCode" = "Indtast PIN-kode";
+"Security.ChengePIN" = "Skift PIN-kode";
+"Security.InvalidPIN" = "Ugyldig PIN-kode";
+"Security.NewPINNotMatch" = "Nye pinkoder stemmer ikke overens";
+"Security.PINNotMatch" = "Pinkoderne stemmer ikke overens";
+"Security.PINChanged" = "Pinkode ændret";
+"Security.InvalidCurrentPINCode" = "Ugyldig nuværende PIN-kode";
+"Security.OldPINCode" = "Gammel PIN-kode";
+"Security.NewPINCode" = "Ny PIN-kode";
+"Security.ConfirmPINCode" = "Bekræft PIN-kode";
+"Security.ChengePassword" = "Skift adgangskode";
+"Security.InvalidPassword" = "Ugyldig adgangskode";
+"Security.NewPasswordsNotMatch" = "Nye adgangskoder stemmer ikke overens";
+"Security.PasswordsNotMatch" = "Adgangskoder stemmer ikke overens";
+"Security.PasswordLengthLess5Characters" = "Adgangskodelængde er mindre end 5 tegn";
+"Security.PasswordIsLong" = "Adgangskoden er længere end 30 tegn";
+"Security.NewPasswordIdSameOld" = "Den nye adgangskode er den samme som den gamle";
+"Security.PasswordChanged" = "Adgangskode ændret";
+"Security.InvalidCurrentPassword" = "Ugyldig nuværende adgangskode";
+
+// Apperance
+"Apperance.Title" = "Apperance";
+"Apperance.ThemeSection" = "Tema";
+"Apperance.SystemTheme" = "System";
+"Apperance.DarkTheme" = "Mørk";
+"Apperance.LightTheme" = "Lys";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Tilmeld dig";
+"Auth.CreateAccounTitle" = "Opret Konto";
+"Auth.SignUpWithEmailButton" = "Tilmeld dig";
+"Auth.SignUpWithGoogleButton" = "Tilmeld dig med Google";
+"Auth.LogInButton" = "Log Ind";
+"Auth.EmailTextField" = "E-mail";
+"Auth.PasswordTextField" = "Adgangskode";
+"Auth.FirstNameTextField" = "Fornavn";
+"Auth.LastNameTextField" = "Efternavn";
+"Auth.CreateAccountButton" = "Opret Konto";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Indtast dit telefonnummer";
+"Auth.PhoneTextField" = "Telefonnummer";
+"Auth.SMSTextField" = "Kode";
+"Auth.EnterOTPTitle" = "Koden vil komme nu";
+"Auth.EnterOTPSubtitle" = "Koden blev sendt via SMS til nummeret";
+"Auth.ResendOTPButton" = "Send kode igen";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Kan du lide appen?";
+"Rate.subtitle" = "Vi ville være glade, hvis du bedømmer app'en eller giver os en anmeldelse";
+
+//About
+"About.Changes" = "Ændringer";
+"About.FutureUpdates" = "Fremtidige Opdateringer";
+"About.SuggestIdea" = "Foreslå en idé";
+"About.PrivacyPolicy" = "Privat Politik";
+"About.LicenseAgreements" = "Licens Aftaler";
+"About.LibrariesUsed" = "Brugte Biblioteker";
+"About.OtherApplications" = "Vores Andre Applikationer";
+
+//Store
+"Store.PrivacyPolicy" = "Privat Politik";
+"Store.LicenseAgreements" = "Licens Aftaler";
+"Store.TermsOfUse" = "Betingelser For Anvendelse";
+"Store.RestoreButton" = "Gendan køb";
+"Store.Price.Month" = " / måned";
+"Store.Price.Year" = " / år";
+"Store.Info" = "Pro-abonnement er påkrævet for at få adgang til alle funktioner. Uanset om abonnementet har gratis prøveperiode eller ej, fornyer det automatisk med prisen og varigheden angivet ovenfor, medmindre det annulleres mindst 24 timer før udgangen af den aktuelle periode. Betaling vil blive opkrævet på din Apple-id-konto ved bekræftelse af købet. Din konto vil blive opkrævet for fornyelse inden for 24 timer før udgangen af den aktuelle periode. Du kan administrere og annullere dine abonnementer ved at gå til dine kontoindstillinger i App Store efter køb. Eventuelle ubrugte dele af en gratis prøveperiode, hvis de tilbydes, vil blive fortabt, når brugeren køber et abonnement på denne publikation, hvis det er relevant.";
+"Store.Active" = "Aktiv";
+"Store.Expired" = "Udløbet";
+
+"StoreKit.BannerLabelPINWallet" = "Flere kortstilarter, iřloud, applikationsdesign indstilling og meget mere";
+"Store.BannerLabelDressWeathrt" = "● hoice of icon stylistics, op til 20 byer på listen og ubegrænset tøj";
+
+"Store.Feature.Detailed daily weather" = "Detaljeret daglig vejr";
+"Store.Feature.Detailed information for the week" = "Detaljerede oplysninger for ugen";
+"Store.Feature.Up to 20 cities in the list" = "Op til 20 byer på listen";
+"Store.Feature.Find out what the weather is like around the world" = "Find ud af, hvordan vejret er rundt omkring i verden";
+"Store.Feature.Unlimited Places" = "Ubegrænsede Steder";
+"Store.Feature.Adding points in the city without restrictions" = "Tilføje point i byen uden begrænsninger";
+"Store.Feature.More clothing options" = "Flere tøjmuligheder";
+"Store.Feature.Adding clothes without limits" = "Tilføjelse af tøj uden begrænsninger";
+"Store.Feature.Additional Icon Style" = "Yderligere Ikonstil";
+"Store.Feature.Possibility to customize" = "Mulighed for at tilpasse";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Annoncer deaktiveret";
+"Store.Feature.NoAdsSubtitle" = "Annoncer deaktivere sub";
+"Store.Feature.MoreCardDesignTitle" = "Flere kort stilarter";
+"Store.Feature.MoreCardDesignSubtitle" = "Opret kort design uden begrænsninger";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Synkronisering af kort via iCloud";
+"Store.Feature.DisplaySetupTitle" = "Vis opsætning";
+"Store.Feature.DisplaySetupSubtitle" = "Muligheden for at vælge skrifttyper, slag og radius";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Flere muligheder";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID for at vise hemmelighedsfulde koder og så videre";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Flere muligheder";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID for at vise hemmelighedsfulde koder og så videre";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Detaljeret vejrvisning tilgængelig i Pro-version";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Den varmere dag for ugen";
+"Weather.TheColdestDayForTheWeek" = "Den koldeste dag i ugen";
+"Weather.SearthSplash" = "Vi vil finde alle\net punkt på kortet";
+"Weather.NewPlace" = "Nyt sted";
+"Weather.AddingPlace" = "Tilføj et sted";
+"Weather.AreYouWantDeletePlace?" = "Er du sikker på, at du vil slette pladsen?";
+"Weather.AreYouWantDeleteClothing?" = "Er du sikker på, at du vil slette tøj?";
+"Weather.UnableDeleteSelectedLocation" = "Kan ikke slette den valgte placering";
+"Weather.WantToUpdateWeather?" = "Vil du opdatere vejret?";
+"Weather.UpdateTheWeather" = "Opdater vejret";
+"Weather.ForSunnyWeather" = "For solrigt vejr";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Vil blive vist i højt UVI vejr";
+"Weather.ForSnowyWeather" = "Til snevejr";
+"Weather.ForRainyWeather" = "Til regnvejr";
+"Weather.FavoriteDress" = "Favorit kjole";
+"Weather.WillStandOutFromRest" = "Vil skille sig ud fra resten";
+"Weather.AddingClothes" = "Tilføjelse af tøj";
+"Weather.AddСlothes" = "Tilføj tøj";
+"Weather.AddPlace" = "Tilføj sted";
+"Weather.ListOfClothes" = "Liste over tøj";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Opdag";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";

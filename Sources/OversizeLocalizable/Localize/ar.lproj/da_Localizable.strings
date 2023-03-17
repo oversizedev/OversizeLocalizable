@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "إضافة";
+"Button.Edit" = "تحرير";
+"Button.Cancel" = "إلغاء";
+"Button.Delete" = "حذف";
+"Button.Next" = "التالي";
+"Button.Back" = "الرجوع";
+"Button.Close" = "أغلق";
+"Button.Hide" = "إخفاء";
+"Button.Clean" = "مسح";
+"Button.Continue" = "متابعة";
+"Button.Done" = "تم";
+"Button.Enter" = "أدخل";
+"Button.Exit" = "الخروج";
+"Button.Move" = "نقل";
+"Button.Rate" = "قيّم";
+"Button.DeleteAll" = "حذف الكل";
+"Button.Details" = "التفاصيل";
+"Button.Rename" = "إعادة تسمية";
+"Button.Invite" = "دعوة";
+"Button.Save" = "حفظ";
+"Button.Leave" = "المغادرة";
+"Button.History" = "التاريخ";
+"Button.Share" = "مشاركة";
+"Button.Archive" = "أرشيف";
+"Button.Unarchive" = "إلغاء الأرشيف";
+"Button.Copy" = "نسخ";
+"Button.Later" = "لاحقاً";
+"Button.Get" = "احصل";
+"Button.Search" = "البحث";
+"Button.GoToSettings" = "الذهاب إلى الإعدادات";
+"Button.TryAgain" = "حاول مرة أخرى";
+
+// MARK: - Common
+"Common.Cities" = "المدن";
+"Common.AirPollution" = "تلوث الهواء";
+"Common.AQI" = "AQI";
+"Common.Map" = "الخريطة";
+"Common.YourPostition" = "موقعك";
+"Common.MyPostition" = "موقفي";
+"Common.FeelsLike" = "يبدو وكأنه";
+"Common.Sunrise" = "الشروق";
+"Common.Sunset" = "غروب";
+"Common.Humidity" = "الرطوبة";
+"Common.UV" = "فهرس UV";
+"Common.Wind" = "الريح";
+"Common.Cloudiness" = "السحابة";
+"Common.Clouds" = "السحابة";
+"Common.CloudsStyle" = "نمط السحب";
+"Common.Pressure" = "الضغط";
+"Common.Visibility" = "الظهور";
+"Common.Temperature" = "درجة";
+"Common.Units" = "الوحدات";
+"Common.Standart" = "مستعد";
+"Common.MillimetreOfMercury" = "ميلمتر الزئبق";
+"Common.Pascal" = "باسكال";
+"Common.Metric" = "متري";
+"Common.Imperial" = "الإمبراطورية";
+"Common.Meter" = "م";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "ملم زئبق";
+"Common.MetereSec" = "م/ث";
+"Common.MilesHour" = "-p.h";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "سيلسيس، متر";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "صباحا";
+"Common.Day" = "يوم";
+"Common.Evening" = "المساء";
+"Common.Night" = "الليل";
+"Common.Today" = "اليوم";
+"Common.Yesterday" = "أمس";
+"Common.Tomorrow" = "غدا";
+"Common.Week" = "أسبوع";
+"Common.Gradient" = "متدرج";
+"Common.Image" = "صورة";
+"Common.Shape" = "شكل";
+"Common.Monochrome" = "أحادية";
+"Common.Style" = "النمط";
+"Common.Search" = "البحث";
+"Common.North" = "الشمال";
+"Common.South" = "جنوب";
+"Common.East" = "شرق";
+"Common.West" = "الغرب";
+"Common.NorthAbbreviation" = "ن";
+"Common.SouthAbbreviation" = "س";
+"Common.EastAbbreviation" = "ه";
+"Common.WestAbreviation" = "ق";
+"Common.Moon" = "القمر";
+"Common.Growing" = "النمو";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "موقعك";
+"Common.Position" = "الموضع";
+"Common.Location" = "الموقع";
+"Common.Icon" = "أيقونة";
+"Common.Place" = "مكان";
+"Common.FailedSave" = "فشل في الحفظ";
+"Common.TryLaterAgain" = "حاول لاحقاً مرة أخرى";
+"Common.ALittleBitMore" = "أكثر قليلاً";
+"Common.From" = "من";
+"Common.To" = "إلى";
+"Common.Test" = "اختبار";
+"Common.Clothing" = "ملابس";
+"Common.Good" = "جيد";
+"Common.Fair" = "منصف";
+"Common.Moderate" = "الاعتدال";
+"Common.Poor" = "رديء";
+"Common.VeryPoor" = "ضعيف جدا";
+"Common.Low" = "منخفض";
+"Common.High" = "مرتفع";
+"Common.Veri high" = "فيري عالي";
+"Common.Extreme" = "متطرفة";
+"Common.Graph" = "الرسم";
+"Common.Short" = "قصير";
+"Common.Full" = "كامل";
+
+
+// Materials
+"Common.Iridescent" = "تافهة";
+"Common.Metal" = "معدن";
+"Common.Noise" = "الضوضاء";
+"Common.Paper" = "ورق";
+"Common.Waves" = "موجات";
+
+// Error
+"Error.EnterTitle" = "أدخل العنوان";
+
+"Error.SomethingWentWrong" = "حدث خطأ ما";
+"Error.FailedToReadResponse" = "فشل في قراءة الرد";
+"Error.SomethingWrongCameFromTheServer" = "حدث خطأ ما من الخادم";
+"Error.LooksLikeTheAppIsBroken" = "يبدو أن التطبيق معطل";
+"Error.TryAgainLater" = "حاول مرة أخرى لاحقاً";
+"Error.NothingСameFromServer" = "لا شيء جاء من الخادم";
+"Error.SomethingStrangeCameFromServer" = "شيء غريب من الخادم";
+"Error.ErrorOnServer" = "خطأ في الخادم";
+"Error.LooksLikeYouNeedToLogin" = "يبدو أنك تحتاج إلى تسجيل الدخول";
+"Error.Authorisation Error" = "خطأ في التفويض";
+"Error.InvalidRequest" = "طلب غير صالح";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "الرجاء السماح بالوصول إلى الموقع في الإعدادات";
+"Error.SelectLocationSettings" = "حدد إعدادات الموقع";
+"Error.NoAccessToLocation" = "لا يمكن الوصول إلى الموقع";
+"Error.SomethingIsWrongWithTheLocation" = "هناك خطأ ما في الموقع";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "بدون الوصول إلى الموقع، لا يمكن أن يعمل التطبيق";
+
+"Error.DataFromICloudCouldNotBeRead" = "تعذر قراءة البيانات من iCloud";
+"Error.NoAccessToICloud" = "لا يمكن الوصول إلى iCloud";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "على الأرجح تحتاج إلى تسجيل الدخول باستخدام معرف Apple الخاص بك في إعدادات هاتفك.";
+"Error.SomethingWentWrongWithICloud" = "حدث خطأ ما مع iCloud";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "يبدو أنك لا تملك حساب iCloud";
+
+"Error.UpdatingAppShouldHelp" = "تحديث التطبيق يجب أن يساعد";
+
+// Time
+"Time.Min" = "دقيقة";
+"Time.Mins" = "دقائق.";
+
+// Titels
+"Title.Editing" = "تحرير";
+"Title.DesignEditing" = "تعديل التصميم";
+"Title.Synchronization" = "المزامنة";
+"Title.Sharing" = "مشاركة";
+"Title.Preview" = "معاينة";
+
+// Info
+"Info.Сopied" = "<unk> مستنسخ";
+"Info.Shared" = "مشترك";
+"Info.Archived" = "أرشيف";
+"Info.Unarchived" = "غير مؤرشفة";
+"Info.Deleted" = "محذوف";
+"Info.Renamed" = "أُعيد تسميته";
+"Info.Saved" = "محفوظ";
+
+// Settings
+"Settings.Title" = "الإعدادات";
+"Settings.Apperance" = "الامتصاص";
+"Settings.FeedbakAppStore" = "ترك مراجعة";
+"Settings.FeedbakAuthor" = "الكتابة إلى الكاتب";
+"Settings.TelegramChat" = "الدردشة في تيليجرام";
+"Settings.About" = "حول";
+"Settings.Subscription" = "مميز";
+"Settings.SupportSection" = "الدعم";
+"Settings.AppSection" = "التطبيق";
+"Settings.ShareApplication" = "مشاركة التطبيق";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "الإشعارات";
+"Settings.Sounds" = "الأصوات";
+"Settings.Vibration" = "الاهتزاز";
+"Settings.SoundsAndVibration" = "الأصوات والاهتزاز";
+"Settings.Entrance" = "مدخل";
+"Settings.Additionally" = "إضافة";
+"Settings.DeleteAll.Title" = "هل أنت متأكد من أنك تريد حذف جميع البطاقات؟";
+"Settings.DeleteAll.Description" = "لا يمكن استعادة البيانات المحذوفة";
+"Settings.DeleteAll.DeleteButton" = "إزالة جميع البطاقات";
+"Settings.DeleteAll.DataDeleted" = "تم حذف جميع البطاقات";
+"Settings.ShareAndCopy" = "شارك و انسخ";
+"Settings.ShareRows" = "مشاركة الصفوف";
+"Settings.CopyRows" = "نسخ الصفوف";
+"Settings.Handoff" = "إزاحة";
+"Settings.FaceIDwhenShowCVV" = "معرف الوجه عند إظهار CVV";
+"Settings.ClipboardTime" = "وقت الحافظة";
+"Settings.BackgroundStyle" = "نمط الخلفية";
+
+// Security
+"Security.Title" = "أمان";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "طلب رمز PIN";
+"Security.TouchID" = "معرف اللمس";
+"Security.iCloudSyncCVV" = "مزامنة PIN و CVV";
+"Security.iCloudSyncCVVDescriptionLocal" = "تم حفظ PIN و CVV فقط في الهاتف";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "مزامنة PIN و CVV في iCloud";
+"Security.PINCode" = "رمز PIN";
+"Security.CreatePINCode" = "إنشاء رمز PIN";
+"Security.ChangePINCode" = "تغيير رمز PIN";
+"Security.BruteForceSecurity" = "مسح البيانات";
+"Security.BruteForceSecurityDescription" = "حذف جميع البيانات بعد 10 خطأ في إدخال رمز PIN";
+"Security.Spotlight" = "تسليط الضوء";
+"Security.AlertPINCode" = "تنبيه رمز PIN";
+"Security.PhotoBreaker" = "صورة التفكيك";
+"Security.FacedownLock" = "قفل الوجه";
+"Security.BlurMinimize" = "تقليل طمس التطبيق";
+"Security.AuthHistory" = "تاريخ المصادقة";
+"Security.InactiveAskPassword" = "اسأل كلمة المرور غير النشطة 5 دقائق";
+"Security.MinimizeAskPassword" = "اسأل كلمة المرور بعد التصغير";
+"Security.EnterPINCode" = "أدخل رمز PIN";
+"Security.ChengePIN" = "تغيير رمز PIN";
+"Security.InvalidPIN" = "رمز PIN غير صالح";
+"Security.NewPINNotMatch" = "رمز PIN الجديد غير متطابق";
+"Security.PINNotMatch" = "رمز PIN غير متطابق";
+"Security.PINChanged" = "تم تغيير رمز PIN";
+"Security.InvalidCurrentPINCode" = "رمز PIN الحالي غير صالح";
+"Security.OldPINCode" = "رمز PIN القديم";
+"Security.NewPINCode" = "رمز PIN الجديد";
+"Security.ConfirmPINCode" = "تأكيد رمز PIN";
+"Security.ChengePassword" = "تغيير كلمة المرور";
+"Security.InvalidPassword" = "كلمة المرور غير صالحة";
+"Security.NewPasswordsNotMatch" = "كلمات المرور الجديدة غير متطابقة";
+"Security.PasswordsNotMatch" = "كلمتا المرور غير متطابقتين";
+"Security.PasswordLengthLess5Characters" = "طول كلمة المرور أقل من 5 أحرف";
+"Security.PasswordIsLong" = "كلمة المرور أطول من 30 حرفا";
+"Security.NewPasswordIdSameOld" = "كلمة المرور الجديدة هي نفس كلمة المرور القديمة";
+"Security.PasswordChanged" = "تم تغيير كلمة المرور";
+"Security.InvalidCurrentPassword" = "كلمة المرور الحالية غير صالحة";
+
+// Apperance
+"Apperance.Title" = "الامتصاص";
+"Apperance.ThemeSection" = "السمة";
+"Apperance.SystemTheme" = "النظام";
+"Apperance.DarkTheme" = "داكن";
+"Apperance.LightTheme" = "فاتح";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "تسجيل الدخول";
+"Auth.CreateAccounTitle" = "إنشاء حساب";
+"Auth.SignUpWithEmailButton" = "تسجيل الدخول";
+"Auth.SignUpWithGoogleButton" = "قم بالتسجيل باستخدام Google";
+"Auth.LogInButton" = "تسجيل الدخول";
+"Auth.EmailTextField" = "البريد الإلكتروني";
+"Auth.PasswordTextField" = "كلمة المرور";
+"Auth.FirstNameTextField" = "الاسم الأول";
+"Auth.LastNameTextField" = "اسم العائلة";
+"Auth.CreateAccountButton" = "إنشاء حساب";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "أدخل رقم الهاتف الخاص بك";
+"Auth.PhoneTextField" = "رقم الهاتف";
+"Auth.SMSTextField" = "الكود";
+"Auth.EnterOTPTitle" = "الكود سوف يأتي الآن";
+"Auth.EnterOTPSubtitle" = "تم إرسال الرمز عبر SMS إلى الرقم";
+"Auth.ResendOTPButton" = "إرسال الرمز مرة أخرى";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "هل تعجبك التطبيق؟";
+"Rate.subtitle" = "سيكون من دواعي سرورنا إذا قمت بتقييم التطبيق أو أعطتنا مراجعة";
+
+//About
+"About.Changes" = "التغييرات";
+"About.FutureUpdates" = "تحديثات المستقبل";
+"About.SuggestIdea" = "اقترح فكرة";
+"About.PrivacyPolicy" = "سياسة الخصوصية";
+"About.LicenseAgreements" = "اتفاقات الترخيص";
+"About.LibrariesUsed" = "المكتبات المستخدمة";
+"About.OtherApplications" = "التطبيقات الأخرى";
+
+//Store
+"Store.PrivacyPolicy" = "سياسة الخصوصية";
+"Store.LicenseAgreements" = "اتفاقات الترخيص";
+"Store.TermsOfUse" = "شروط الاستخدام";
+"Store.RestoreButton" = "استعادة المشتريات";
+"Store.Price.Month" = " / شهر";
+"Store.Price.Year" = " / سنة";
+"Store.Info" = "الاشتراك المحترف مطلوب للحصول على الوصول إلى جميع الوظائف. وبصرف النظر عما إذا كان الاشتراك له فترة تجريبية مجانية أم لا، فإنه يجدد تلقائيا بالسعر والمدة المعطاة أعلاه ما لم يتم إلغاؤه قبل 24 ساعة على الأقل من نهاية الفترة الحالية. سيتم تحميل الدفع على حساب Apple ID الخاص بك عند تأكيد الشراء. سيتم فرض رسوم على حسابك للتجديد في غضون 24 ساعة قبل نهاية الفترة الحالية. يمكنك إدارة وإلغاء اشتراكاتك عن طريق الذهاب إلى إعدادات حسابك في متجر التطبيقات بعد الشراء. وأي جزء غير مستخدم من فترة تجريبية مجانية، في حالة تقديمه، سوف يصادر عندما يشتري المستخدم اشتراكا في ذلك المنشور، حيثما ينطبق ذلك.";
+"Store.Active" = "نشط";
+"Store.Expired" = "منتهية";
+
+"StoreKit.BannerLabelPINWallet" = "استخدام المزيد من البطاقات، بصوت أعلى، إعداد تصميم التطبيق وأكثر من ذلك بكثير";
+"Store.BannerLabelDressWeathrt" = "ثروة من أدوات الأيقونات ، ما يصل إلى 20 مدينة في القائمة والملابس غير المحدودة";
+
+"Store.Feature.Detailed daily weather" = "الطقس اليومي المفصل";
+"Store.Feature.Detailed information for the week" = "معلومات مفصلة عن الأسبوع";
+"Store.Feature.Up to 20 cities in the list" = "ما يصل إلى 20 مدينة مدرجة في القائمة";
+"Store.Feature.Find out what the weather is like around the world" = "معرفة ما هو الطقس في جميع أنحاء العالم";
+"Store.Feature.Unlimited Places" = "أماكن غير محدودة";
+"Store.Feature.Adding points in the city without restrictions" = "إضافة نقاط في المدينة بدون قيود";
+"Store.Feature.More clothing options" = "خيارات المزيد من الملابس";
+"Store.Feature.Adding clothes without limits" = "إضافة ملابس بدون حدود";
+"Store.Feature.Additional Icon Style" = "نمط أيقونة إضافية";
+"Store.Feature.Possibility to customize" = "إمكانية التخصيص";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "تعطيل الإعلانات";
+"Store.Feature.NoAdsSubtitle" = "تعطيل الإعلانات الفرعية";
+"Store.Feature.MoreCardDesignTitle" = "أنماط المزيد من البطاقات";
+"Store.Feature.MoreCardDesignSubtitle" = "إنشاء تصميم بطاقة بدون قيود";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "مزامنة البطاقات عبر iCloud";
+"Store.Feature.DisplaySetupTitle" = "اعرض الإعداد";
+"Store.Feature.DisplaySetupSubtitle" = "القدرة على اختيار الخطوط، السكتة الدماغية و نصف قطر";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "المزيد من الفرص";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "التوصيل، معرف الوجه لعرض الرموز السرية وما إلى ذلك";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "المزيد من الفرص";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "التوصيل، معرف الوجه لعرض الرموز السرية وما إلى ذلك";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "عرض الطقس المفصل متاح في النسخة الاحترافية";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "اليوم الأكثر دفئا للأسبوع";
+"Weather.TheColdestDayForTheWeek" = "أبرد يوم للأسبوع";
+"Weather.SearthSplash" = "سوف نجد أي\nنقطة على الخريطة";
+"Weather.NewPlace" = "مكان جديد";
+"Weather.AddingPlace" = "إضافة مكان";
+"Weather.AreYouWantDeletePlace?" = "هل أنت متأكد من أنك تريد حذف المكان؟";
+"Weather.AreYouWantDeleteClothing?" = "هل أنت متأكد من أنك تريد حذف الملابس؟";
+"Weather.UnableDeleteSelectedLocation" = "غير قادر على حذف الموقع المحدد";
+"Weather.WantToUpdateWeather?" = "هل تريد تحديث الطقس؟";
+"Weather.UpdateTheWeather" = "تحديث الطقس";
+"Weather.ForSunnyWeather" = "للطقس المشمس";
+"Weather.WillBeDisplayedInHighUVIWeather" = "سيتم عرضها في الطقس UVI العالي";
+"Weather.ForSnowyWeather" = "الطقس الثلجي";
+"Weather.ForRainyWeather" = "للطقس المطر";
+"Weather.FavoriteDress" = "الفستان المفضل";
+"Weather.WillStandOutFromRest" = "سوف تظهر من بقية الأعضاء";
+"Weather.AddingClothes" = "إضافة ملابس";
+"Weather.AddСlothes" = "إضافة ملابس";
+"Weather.AddPlace" = "إضافة مكان";
+"Weather.ListOfClothes" = "قائمة الملابس";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "ماستركارد";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "أمريكانإكسبريس";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "اكتشف";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "هيبر";
+"Finance.PaymentTypeHipercard" = "Hipercard";

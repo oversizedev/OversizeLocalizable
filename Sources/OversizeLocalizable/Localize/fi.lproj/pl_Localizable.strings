@@ -1,0 +1,364 @@
+// Action buttons
+"Button.Add" = "Lisää";
+"Button.Edit" = "Muokkaa";
+"Button.Cancel" = "Peruuta";
+"Button.Delete" = "Poista";
+"Button.Next" = "Seuraava";
+"Button.Back" = "Takaisin";
+"Button.Close" = "Sulje";
+"Button.Hide" = "Piilota";
+"Button.Clean" = "Tyhjennä";
+"Button.Continue" = "Jatka";
+"Button.Done" = "Valmis";
+"Button.Enter" = "Syötä";
+"Button.Exit" = "Poistu";
+"Button.Move" = "Siirrä";
+"Button.Rate" = "Arvostele";
+"Button.DeleteAll" = "Poista Kaikki";
+"Button.Details" = "Yksityiskohdat";
+"Button.Rename" = "Uudelleennimeä";
+"Button.Invite" = "Kutsu";
+"Button.Save" = "Tallenna";
+"Button.Leave" = "Poistu";
+"Button.History" = "Historia";
+"Button.Share" = "Jaa";
+"Button.Archive" = "Arkistoi";
+"Button.Unarchive" = "Poista";
+"Button.Copy" = "Kopioi";
+"Button.Later" = "Myöhemmin";
+"Button.Get" = "Hanki";
+"Button.Search" = "Etsi";
+"Button.GoToSettings" = "Siirry asetuksiin";
+"Button.TryAgain" = "Yritä Uudelleen";
+
+// MARK: - Common
+"Common.Cities" = "Kaupungit";
+"Common.AirPollution" = "Ilman Pilaantuminen";
+"Common.AQI" = "AQI";
+"Common.Map" = "Kartta";
+"Common.YourPostition" = "Oma sijainti";
+"Common.MyPostition" = "Minun kantani";
+"Common.FeelsLike" = "Tuntuu tykältä";
+"Common.Sunrise" = "Auringonnousu";
+"Common.Sunset" = "Auringonlasku";
+"Common.Humidity" = "Kosteus";
+"Common.UV" = "UV-indeksi";
+"Common.Wind" = "Tuuli";
+"Common.Cloudiness" = "Pilvisyys";
+"Common.Clouds" = "Pilvet";
+"Common.CloudsStyle" = "Pilvien tyyli";
+"Common.Pressure" = "Paine";
+"Common.Visibility" = "Näkyvyys";
+"Common.Temperature" = "Lämpötila";
+"Common.Units" = "Yksiköt";
+"Common.Standart" = "Standardi";
+"Common.MillimetreOfMercury" = "Millimetri elohopeaa";
+"Common.Pascal" = "Pascal";
+"Common.Metric" = "Metrinen";
+"Common.Imperial" = "Imperiaalinen";
+"Common.Meter" = "m.";
+"Common.hPa" = "hPa";
+"Common.mmHg" = "mm Hg";
+"Common.MetereSec" = "m/s";
+"Common.MilesHour" = "m.p.h";
+"Common.KelvinMeter" = "Kelvin, meter";
+"Common.CelsiusMeter" = "Kelsius, metri";
+"Common.FahrenheitMiles" = "Fahrenheit, miles";
+"Common.Morning" = "Aamu";
+"Common.Day" = "Päivä";
+"Common.Evening" = "Ilta";
+"Common.Night" = "Yö";
+"Common.Today" = "Tänään";
+"Common.Yesterday" = "Eilen";
+"Common.Tomorrow" = "Huomenna";
+"Common.Week" = "Viikko";
+"Common.Gradient" = "Gradientti";
+"Common.Image" = "Kuva";
+"Common.Shape" = "Muoto";
+"Common.Monochrome" = "Yksivärinen";
+"Common.Style" = "Tyyli";
+"Common.Search" = "Etsi";
+"Common.North" = "Pohjoinen";
+"Common.South" = "Etelä";
+"Common.East" = "Itä";
+"Common.West" = "Länsi";
+"Common.NorthAbbreviation" = "N";
+"Common.SouthAbbreviation" = "S";
+"Common.EastAbbreviation" = "E";
+"Common.WestAbreviation" = "W";
+"Common.Moon" = "Kuu";
+"Common.Growing" = "Kasvava";
+"Common.Waning" = "Waning";
+"Common.YourPosition" = "Oma sijainti";
+"Common.Position" = "Sijainti";
+"Common.Location" = "Sijainti";
+"Common.Icon" = "Kuvake";
+"Common.Place" = "Paikka";
+"Common.FailedSave" = "Tallennus epäonnistui";
+"Common.TryLaterAgain" = "Yritä myöhemmin uudelleen";
+"Common.ALittleBitMore" = "Hieman enemmän";
+"Common.From" = "Alkaen";
+"Common.To" = "Vastaanottaja";
+"Common.Test" = "Testi";
+"Common.Clothing" = "Vaatteet";
+"Common.Good" = "Hyvä";
+"Common.Fair" = "Kohtalainen";
+"Common.Moderate" = "Kohtalainen";
+"Common.Poor" = "Huono";
+"Common.VeryPoor" = "Erittäin Heikko";
+"Common.Low" = "Matala";
+"Common.High" = "Korkea";
+"Common.Veri high" = "Veri korkea";
+"Common.Extreme" = "Äärimmä";
+"Common.Graph" = "Kaavio";
+"Common.Short" = "Lyhyt";
+"Common.Full" = "Täysi";
+
+
+// Materials
+"Common.Iridescent" = "Ärsyttävä";
+"Common.Metal" = "Metalli";
+"Common.Noise" = "Melu";
+"Common.Paper" = "Paperi";
+"Common.Waves" = "Aallot";
+
+// Error
+"Error.EnterTitle" = "Syötä otsikko";
+
+"Error.SomethingWentWrong" = "Jokin meni pieleen";
+"Error.FailedToReadResponse" = "Vastausta ei voitu lukea";
+"Error.SomethingWrongCameFromTheServer" = "Jotain vikaa tuli palvelimelta";
+"Error.LooksLikeTheAppIsBroken" = "Näyttää siltä, että sovellus on rikki";
+"Error.TryAgainLater" = "Yritä myöhemmin uudelleen";
+"Error.NothingСameFromServer" = "Palvelimelta ei tullut mitään";
+"Error.SomethingStrangeCameFromServer" = "Jotain outoa tuli palvelimelta";
+"Error.ErrorOnServer" = "Virhe palvelimella";
+"Error.LooksLikeYouNeedToLogin" = "Näyttää siltä, että sinun täytyy kirjautua";
+"Error.Authorisation Error" = "Valtuutus Virhe";
+"Error.InvalidRequest" = "Virheellinen pyyntö";
+
+"Error.PleaseAllowAccessToLocationInSettings" = "Salli pääsy sijaintiin asetuksissa";
+"Error.SelectLocationSettings" = "Valitse sijaintiasetukset";
+"Error.NoAccessToLocation" = "Ei pääsyä sijaintiin";
+"Error.SomethingIsWrongWithTheLocation" = "Jokin on vialla sijainnissa";
+"Error.WithoutAccessToLocationApplicationCannotWork" = "Sovellus ei voi toimia ilman pääsyä sijaintiin";
+
+"Error.DataFromICloudCouldNotBeRead" = "iCloudin tietoja ei voitu lukea";
+"Error.NoAccessToICloud" = "Ei pääsyä iCloudiin";
+"Error.MostLikelyYouNeedToLogInWithYourAppleIDInYourPhoneSettings" = "Todennäköisesti sinun täytyy kirjautua sisään Apple ID puhelimesi asetuksissa.";
+"Error.SomethingWentWrongWithICloud" = "Jokin meni pieleen iCloudissa";
+"Error.LooksLikeYouDon'tHaveAnICloudAccount" = "Näyttää siltä, että sinulla ei ole iCloud-tiliä";
+
+"Error.UpdatingAppShouldHelp" = "Sovelluksen päivittämisen pitäisi auttaa";
+
+// Time
+"Time.Min" = "min";
+"Time.Mins" = "min";
+
+// Titels
+"Title.Editing" = "Muokataan";
+"Title.DesignEditing" = "Suunnittelun Muokkaus";
+"Title.Synchronization" = "Synkronointi";
+"Title.Sharing" = "Jakaminen";
+"Title.Preview" = "Esikatselu";
+
+// Info
+"Info.Сopied" = "↑opied";
+"Info.Shared" = "Jaettu";
+"Info.Archived" = "Arkistoitu";
+"Info.Unarchived" = "Arkistoimaton";
+"Info.Deleted" = "Poistettu";
+"Info.Renamed" = "Nimeä Uudelleen";
+"Info.Saved" = "Tallennettu";
+
+// Settings
+"Settings.Title" = "Asetukset";
+"Settings.Apperance" = "Näkyvyys";
+"Settings.FeedbakAppStore" = "Jätä arvostelu";
+"Settings.FeedbakAuthor" = "Kirjoita kirjoittajalle";
+"Settings.TelegramChat" = "Keskustele Telegramiin";
+"Settings.About" = "Tietoja";
+"Settings.Subscription" = "Premium";
+"Settings.SupportSection" = "Tuki";
+"Settings.AppSection" = "Sovellus";
+"Settings.ShareApplication" = "Jaa sovellus";
+"Settings.iCloudSync" = "iCloud synchronization";
+"Settings.Notifications" = "Ilmoitukset";
+"Settings.Sounds" = "Äänet";
+"Settings.Vibration" = "Värinä";
+"Settings.SoundsAndVibration" = "Äänet ja värinä";
+"Settings.Entrance" = "Sisäänkäynti";
+"Settings.Additionally" = "Lisäksi";
+"Settings.DeleteAll.Title" = "Oletko varma, että haluat poistaa kaikki kortit?";
+"Settings.DeleteAll.Description" = "Poistettuja tietoja ei voi palauttaa";
+"Settings.DeleteAll.DeleteButton" = "Poista kaikki kortit";
+"Settings.DeleteAll.DataDeleted" = "Kaikki kortit poistetaan";
+"Settings.ShareAndCopy" = "Jaa ja kopioi";
+"Settings.ShareRows" = "Jaa rivit";
+"Settings.CopyRows" = "Kopioi rivit";
+"Settings.Handoff" = "Handoff";
+"Settings.FaceIDwhenShowCVV" = "Face ID kun näytetään CVV";
+"Settings.ClipboardTime" = "Leikepöydän aika";
+"Settings.BackgroundStyle" = "Taustan tyyli";
+
+// Security
+"Security.Title" = "Turvallisuus";
+"Security.FaceID" = "Face ID";
+"Security.RequestOfCVV" = "PIN-koodin pyyntö";
+"Security.TouchID" = "Kosketuksen Tunnus";
+"Security.iCloudSyncCVV" = "PIN-koodin ja CVV:n synkronointi";
+"Security.iCloudSyncCVVDescriptionLocal" = "PIN ja CVV tallennettu vain puhelimeen";
+"Security.iCloudSyncCVVDescriptionCloudKit" = "PIN ja CVV synkronointi iCloudissa";
+"Security.PINCode" = "PIN-koodi";
+"Security.CreatePINCode" = "Luo PIN-koodi";
+"Security.ChangePINCode" = "Vaihda PIN-koodi";
+"Security.BruteForceSecurity" = "Erace Data";
+"Security.BruteForceSecurityDescription" = "Poista kaikki tiedot 10 virheellisen PIN-koodin jälkeen";
+"Security.Spotlight" = "Kohdevalo";
+"Security.AlertPINCode" = "Hälytyksen PIN-koodi";
+"Security.PhotoBreaker" = "Breaker photo";
+"Security.FacedownLock" = "Facedown lock";
+"Security.BlurMinimize" = "Sumennus sovellus pienennetty";
+"Security.AuthHistory" = "Auth historia";
+"Security.InactiveAskPassword" = "Kysy salasana passiivinen 5 min";
+"Security.MinimizeAskPassword" = "Kysy salasana minimoinnin jälkeen";
+"Security.EnterPINCode" = "Anna PIN-koodi";
+"Security.ChengePIN" = "Vaihda PIN-koodi";
+"Security.InvalidPIN" = "Virheellinen PIN-koodi";
+"Security.NewPINNotMatch" = "Uudet PIN-koodit eivät täsmää";
+"Security.PINNotMatch" = "PIN-koodit eivät täsmää";
+"Security.PINChanged" = "PIN-koodi vaihdettu";
+"Security.InvalidCurrentPINCode" = "Virheellinen nykyinen PIN-koodi";
+"Security.OldPINCode" = "Vanha PIN-koodi";
+"Security.NewPINCode" = "Uusi PIN-koodi";
+"Security.ConfirmPINCode" = "Vahvista PIN-koodi";
+"Security.ChengePassword" = "Vaihda salasana";
+"Security.InvalidPassword" = "Virheellinen salasana";
+"Security.NewPasswordsNotMatch" = "Uudet salasanat eivät täsmää";
+"Security.PasswordsNotMatch" = "Salasanat eivät täsmää";
+"Security.PasswordLengthLess5Characters" = "Salasanan pituus on alle 5 merkkiä";
+"Security.PasswordIsLong" = "Salasana on pidempi kuin 30 merkkiä";
+"Security.NewPasswordIdSameOld" = "Uusi salasana on sama kuin vanha salasana";
+"Security.PasswordChanged" = "Salasana vaihdettu";
+"Security.InvalidCurrentPassword" = "Virheellinen nykyinen salasana";
+
+// Apperance
+"Apperance.Title" = "Näkyvyys";
+"Apperance.ThemeSection" = "Teema";
+"Apperance.SystemTheme" = "Järjestelmä";
+"Apperance.DarkTheme" = "Tumma";
+"Apperance.LightTheme" = "Vaalea";
+
+// Auth
+"Auth.SignUpWithEmailTitle" = "Rekisteröidy nyt";
+"Auth.CreateAccounTitle" = "Luo Tili";
+"Auth.SignUpWithEmailButton" = "Rekisteröidy nyt";
+"Auth.SignUpWithGoogleButton" = "Rekisteröidy käyttäen Googlea";
+"Auth.LogInButton" = "Kirjaudu Sisään";
+"Auth.EmailTextField" = "Sähköposti";
+"Auth.PasswordTextField" = "Salasana";
+"Auth.FirstNameTextField" = "Etunimi";
+"Auth.LastNameTextField" = "Sukunimi";
+"Auth.CreateAccountButton" = "Luo Tili";
+
+/// SMS
+"Auth.EnterPhoneTitle" = "Syötä puhelinnumero";
+"Auth.PhoneTextField" = "Puhelinnumero";
+"Auth.SMSTextField" = "Koodi";
+"Auth.EnterOTPTitle" = "Koodi tulee nyt";
+"Auth.EnterOTPSubtitle" = "Koodi on lähetetty tekstiviestillä numeroon";
+"Auth.ResendOTPButton" = "Lähetä koodi uudelleen";
+"Auth.Authorization" = "Авторизация";
+"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+
+// Rate
+"Rate.title" = "Pidätkö sinä sovelluksesta?";
+"Rate.subtitle" = "Olisimme iloisia, jos arvioit sovelluksen tai annat meille arvion";
+
+//About
+"About.Changes" = "Muutokset";
+"About.FutureUpdates" = "Tulevat Päivitykset";
+"About.SuggestIdea" = "Ehdota ideaa";
+"About.PrivacyPolicy" = "Yksityisyyden Suoja";
+"About.LicenseAgreements" = "Lisenssisopimukset";
+"About.LibrariesUsed" = "Kirjastot Käytetty";
+"About.OtherApplications" = "Muut Sovelluksemme";
+
+//Store
+"Store.PrivacyPolicy" = "Yksityisyyden Suoja";
+"Store.LicenseAgreements" = "Lisenssisopimukset";
+"Store.TermsOfUse" = "Yleiset Käyttöehdot";
+"Store.RestoreButton" = "Palauta ostokset";
+"Store.Price.Month" = " / kuukausi";
+"Store.Price.Year" = " / vuosi";
+"Store.Info" = "Pro-tilaus on pakollinen, jotta saat käyttöoikeuden kaikkiin toimintoihin. Riippumatta siitä, onko tilauksella maksuton kokeilujakso vai ei, se uusiutuu automaattisesti yllä mainitulla hinnalla ja kestolla, ellei sitä peruuteta vähintään 24 tuntia ennen kuluvan kauden päättymistä. Maksu veloitetaan Apple ID -tilillesi ostoksen vahvistuksen yhteydessä. Tilisi uusimisesta veloitetaan 24 tunnin kuluessa ennen kuluvan kauden päättymistä. Voit hallita ja peruuttaa tilauksesi menemällä App Storen tiliasetuksiin ostamisen jälkeen. Kaikki maksuttoman kokeilujakson käyttämättömät osat, jos niitä tarjotaan, menetetään, kun käyttäjä ostaa tarvittaessa kyseisen julkaisun tilauksen.";
+"Store.Active" = "Aktiivinen";
+"Store.Expired" = "Vanhentunut";
+
+"StoreKit.BannerLabelPINWallet" = "Lisää korttityylejä, eli kova, sovellussuunnittelu-asetus ja paljon muuta";
+"Store.BannerLabelDressWeathrt" = "¶ Hice of icon stylistics, jopa 20 kaupunkia luettelossa ja rajoittamaton vaatteet";
+
+"Store.Feature.Detailed daily weather" = "Yksityiskohtainen päivittäinen sää";
+"Store.Feature.Detailed information for the week" = "Yksityiskohtaiset tiedot viikosta";
+"Store.Feature.Up to 20 cities in the list" = "Luettelossa on enintään 20 kaupunkia";
+"Store.Feature.Find out what the weather is like around the world" = "Selvitä, millainen sää on ympäri maailmaa";
+"Store.Feature.Unlimited Places" = "Rajoittamaton Paikkoja";
+"Store.Feature.Adding points in the city without restrictions" = "Paikkojen lisääminen kaupunkiin ilman rajoituksia";
+"Store.Feature.More clothing options" = "Lisää vaatteiden vaihtoehtoja";
+"Store.Feature.Adding clothes without limits" = "Vaatteiden lisääminen ilman rajoja";
+"Store.Feature.Additional Icon Style" = "Lisää Kuvakkeen Tyyli";
+"Store.Feature.Possibility to customize" = "Mahdollisuus muokata";
+
+// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
+
+"Store.Feature.NoAdsTitle" = "Mainokset pois käytöstä";
+"Store.Feature.NoAdsSubtitle" = "Mainokset pois käytöstä";
+"Store.Feature.MoreCardDesignTitle" = "Lisää korttien tyylejä";
+"Store.Feature.MoreCardDesignSubtitle" = "Luo kortin rakenne ilman rajoituksia";
+"Store.Feature.iCloudTitle" = "iСloud";
+"Store.Feature.iCloudSubtitle" = "Korttien synkronointi iCloudin kautta";
+"Store.Feature.DisplaySetupTitle" = "Näytön asetukset";
+"Store.Feature.DisplaySetupSubtitle" = "Kyky valita kirjasimet, aivohalvaukset ja säde";
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Lisää mahdollisuuksia";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID näyttää salamyhkäiset koodit ja niin edelleen";
+
+"Store.Feature.MoreOpportunitiesPINWalletTitle" = "Lisää mahdollisuuksia";
+"Store.Feature.MoreOpportunitiesPINWalletSubtitle" = "Handoff, Face ID näyttää salamyhkäiset koodit ja niin edelleen";
+"Store.Feature.DetailedWeatherViewAvailableInProVersion" = "Yksityiskohtainen säänäkymä saatavilla Pro-versiossa";
+
+
+// Weather
+"Weather.TheWarmerDayForTheWeek" = "Lämpimämpi päivä viikolle";
+"Weather.TheColdestDayForTheWeek" = "Viikon kylmin päivä";
+"Weather.SearthSplash" = "Löydämme minkä tahansa\npisteen kartalla";
+"Weather.NewPlace" = "Uusi paikka";
+"Weather.AddingPlace" = "Paikan lisääminen";
+"Weather.AreYouWantDeletePlace?" = "Oletko varma, että haluat poistaa paikan?";
+"Weather.AreYouWantDeleteClothing?" = "Oletko varma, että haluat poistaa vaatteet?";
+"Weather.UnableDeleteSelectedLocation" = "Valittua sijaintia ei voi poistaa";
+"Weather.WantToUpdateWeather?" = "Haluatko päivittää säätä?";
+"Weather.UpdateTheWeather" = "Päivitä sää";
+"Weather.ForSunnyWeather" = "Aurinkoiselle säälle";
+"Weather.WillBeDisplayedInHighUVIWeather" = "Näytetään korkealla UVI säällä";
+"Weather.ForSnowyWeather" = "Luminen säälle";
+"Weather.ForRainyWeather" = "Sadeilmaa varten";
+"Weather.FavoriteDress" = "Mekko suosikki";
+"Weather.WillStandOutFromRest" = "Estetään pois lopusta";
+"Weather.AddingClothes" = "Vaatteiden lisääminen";
+"Weather.AddСlothes" = "Lisää vaatteita";
+"Weather.AddPlace" = "Lisää paikka";
+"Weather.ListOfClothes" = "Luettelo vaatteista";
+
+// Finance
+"Finance.PaymentTypeMasterCard" = "MasterCard";
+"Finance.PaymentTypeVisa" = "Visa";
+"Finance.PaymentTypeMIR" = "MIR";
+"Finance.PaymentTypeMaestro" = "Мaestro";
+"Finance.PaymentTypeAmericanExpress" = "AmericanExpress";
+"Finance.PaymentTypeDinersClub" = "DinersClub";
+"Finance.PaymentTypeDiscover" = "Löydä";
+"Finance.PaymentTypeUnionPay" = "UnionPay";
+"Finance.PaymentTypeJcb" = "JCB";
+"Finance.PaymentTypeElo" = "Elo";
+"Finance.PaymentTypeHiper" = "Hiper";
+"Finance.PaymentTypeHipercard" = "Hipercard";
