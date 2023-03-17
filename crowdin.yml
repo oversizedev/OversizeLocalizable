@@ -9,6 +9,7 @@
 files: [
  {
   "source" : "/en.lproj/Localizable.strings",
-  "translation" : "/%two_letters_code%/%original_file_name%",
+  "dest" : "/Localizable.strings"
+  "translation" : "/%osx_code%/%original_file_name%",
  }
 ]
