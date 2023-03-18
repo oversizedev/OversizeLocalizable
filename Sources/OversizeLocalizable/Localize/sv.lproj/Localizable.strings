@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "Lägga till kläder utan gränser";
 "Store.Feature.Additional Icon Style" = "Ytterligare ikonstil";
 "Store.Feature.Possibility to customize" = "Möjlighet att anpassa";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "Annonser inaktiverade";
 "Store.Feature.NoAdsSubtitle" = "Annonser inaktivera sub";
 "Store.Feature.MoreCardDesignTitle" = "Fler kortstilar";

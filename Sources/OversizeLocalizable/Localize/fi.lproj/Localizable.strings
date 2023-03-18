@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "Vaatteiden lisääminen ilman rajoja";
 "Store.Feature.Additional Icon Style" = "Lisää Kuvakkeen Tyyli";
 "Store.Feature.Possibility to customize" = "Mahdollisuus muokata";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "Mainokset pois käytöstä";
 "Store.Feature.NoAdsSubtitle" = "Mainokset pois käytöstä";
 "Store.Feature.MoreCardDesignTitle" = "Lisää korttien tyylejä";
