@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "Προσθήκη ρούχων χωρίς όρια";
 "Store.Feature.Additional Icon Style" = "Πρόσθετο Στυλ Εικονιδίου";
 "Store.Feature.Possibility to customize" = "Δυνατότητα προσαρμογής";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "Απενεργοποίηση διαφημίσεων";
 "Store.Feature.NoAdsSubtitle" = "Οι διαφημίσεις απενεργοποιήθηκαν υπο";
 "Store.Feature.MoreCardDesignTitle" = "Περισσότερα στυλ καρτών";

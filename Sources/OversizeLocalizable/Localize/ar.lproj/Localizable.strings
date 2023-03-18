@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "إضافة ملابس بدون حدود";
 "Store.Feature.Additional Icon Style" = "نمط أيقونة إضافية";
 "Store.Feature.Possibility to customize" = "إمكانية التخصيص";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "تعطيل الإعلانات";
 "Store.Feature.NoAdsSubtitle" = "تعطيل الإعلانات الفرعية";
 "Store.Feature.MoreCardDesignTitle" = "أنماط المزيد من البطاقات";

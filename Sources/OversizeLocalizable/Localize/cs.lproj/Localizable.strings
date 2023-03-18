@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "Přidávání oblečení bez omezení";
 "Store.Feature.Additional Icon Style" = "Další styl ikony";
 "Store.Feature.Possibility to customize" = "Možnost přizpůsobit";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "Zakázat reklamy";
 "Store.Feature.NoAdsSubtitle" = "Inzeráty zakázaly podb";
 "Store.Feature.MoreCardDesignTitle" = "Více stylů karet";
