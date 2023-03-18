@@ -269,8 +269,8 @@
 "Auth.EnterOTPTitle" = "The code will come now";
 "Auth.EnterOTPSubtitle" = "The code was sent via SMS to the number";
 "Auth.ResendOTPButton" = "Send code again";
-"Auth.Authorization" = "Авторизация";
-"Auth.EnterOrRegister" = "Войти или зарегистрироваться";
+"Auth.Authorization" = "Authorization";
+"Auth.EnterOrRegister" = "Enter or register";
 
 // Rate
 "Rate.title" = "Do you like the app?";
@@ -309,9 +309,6 @@
 "Store.Feature.Adding clothes without limits" = "Adding clothes without limits";
 "Store.Feature.Additional Icon Style" = "Additional Icon Style";
 "Store.Feature.Possibility to customize" = "Possibility to customize";
-
-// Выбор стилистики иконок, до 20 городов в списке и безлимитное количестов одежды
-
 "Store.Feature.NoAdsTitle" = "Ads disable";
 "Store.Feature.NoAdsSubtitle" = "Ads disable sub";
 "Store.Feature.MoreCardDesignTitle" = "More card styles";

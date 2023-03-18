@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - main
+      
 jobs:
-
   synchronize-with-crowdin:
     name: Crowdin sync
     runs-on: ubuntu-latest
@@ -24,6 +24,13 @@ jobs:
           pull_request_title: 'New Crowdin Translations'
           pull_request_body: 'New Crowdin translations by [Crowdin GH Action](https://github.com/crowdin/github-action)'
           pull_request_base_branch_name: 'main'
+          
+          # Sources pattern
+          source: Sources/OversizeLocalizable/Localize/en.lproj/Localizable.strings
+          translation: Sources/OversizeLocalizable/Localize/%osx_code%/%original_file_name%
+          dest: Sources/OversizeLocalizable/Localize/Localizable.strings
+          project_id: ${{ secrets.CROWDIN_PROJECT_ID }}
+          token: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
@@ -34,17 +41,21 @@ jobs:
     runs-on: macOS-latest
     
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+
       - name: Xcode Select
         run: sudo xcode-select -s /Applications/Xcode.app
+
       - name: Install Swiftgen
         run: brew install swiftgen
+
       - name: Generate
         run: swiftgen
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Run swiftgen
           branch: 'main'
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
-
