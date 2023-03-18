@@ -1,0 +1,8 @@
+strings:
+    inputs: Sources/OversizeLocalizable/Localize/en.lproj/Localizable.strings
+    outputs:
+        - templateName: structured-swift5
+          output: Sources/OversizeLocalizable/L10n.swift
+          params:
+            enumName: L10n
+            publicAccess: 1
