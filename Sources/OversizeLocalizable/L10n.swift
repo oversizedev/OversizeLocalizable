@@ -39,16 +39,16 @@ public enum L10n {
     public static let title = L10n.tr("Localizable", "Apperance.Title", fallback: "Apperance")
   }
   public enum Auth {
-    /// Авторизация
-    public static let authorization = L10n.tr("Localizable", "Auth.Authorization", fallback: "Авторизация")
+    /// Authorization
+    public static let authorization = L10n.tr("Localizable", "Auth.Authorization", fallback: "Authorization")
     /// Create Account
     public static let createAccountButton = L10n.tr("Localizable", "Auth.CreateAccountButton", fallback: "Create Account")
     /// Create Account
     public static let createAccounTitle = L10n.tr("Localizable", "Auth.CreateAccounTitle", fallback: "Create Account")
     /// Email
     public static let emailTextField = L10n.tr("Localizable", "Auth.EmailTextField", fallback: "Email")
-    /// Войти или зарегистрироваться
-    public static let enterOrRegister = L10n.tr("Localizable", "Auth.EnterOrRegister", fallback: "Войти или зарегистрироваться")
+    /// Enter or register
+    public static let enterOrRegister = L10n.tr("Localizable", "Auth.EnterOrRegister", fallback: "Enter or register")
     /// The code was sent via SMS to the number
     public static let enterOTPSubtitle = L10n.tr("Localizable", "Auth.EnterOTPSubtitle", fallback: "The code was sent via SMS to the number")
     /// The code will come now
