@@ -155,7 +155,7 @@
 "Time.Min" = "min.";
 "Time.Mins" = "min.";
 
-// Titels
+// Titles
 "Title.Editing" = "Redigerar";
 "Title.DesignEditing" = "Designa redigering";
 "Title.Synchronization" = "Synkronisering";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "Ansikts-ID när CVV visas";
 "Settings.ClipboardTime" = "Urklipp tid";
 "Settings.BackgroundStyle" = "Bakgrundsstil";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Säkerhet";

@@ -155,7 +155,7 @@
 "Time.Min" = "min.";
 "Time.Mins" = "λεπτά.";
 
-// Titels
+// Titles
 "Title.Editing" = "Επεξεργασία";
 "Title.DesignEditing" = "Επεξεργασία Σχεδιασμού";
 "Title.Synchronization" = "Συγχρονισμός";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "Αναγνωριστικό προσώπου όταν εμφανίζεται CVV";
 "Settings.ClipboardTime" = "Χρόνος πρόχειρου";
 "Settings.BackgroundStyle" = "Στυλ φόντου";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Ασφάλεια";

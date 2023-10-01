@@ -155,7 +155,7 @@
 "Time.Min" = "min.";
 "Time.Mins" = "minuty.";
 
-// Titels
+// Titles
 "Title.Editing" = "Edycja";
 "Title.DesignEditing" = "Edycja projektu";
 "Title.Synchronization" = "Synchronizacja";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "Identyfikator twarzy po pokazaniu CVV";
 "Settings.ClipboardTime" = "Czas schowka";
 "Settings.BackgroundStyle" = "Styl tła";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Bezpieczeństwo";

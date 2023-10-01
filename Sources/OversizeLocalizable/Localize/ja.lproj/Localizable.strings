@@ -155,7 +155,7 @@
 "Time.Min" = "分";
 "Time.Mins" = "分だ";
 
-// Titels
+// Titles
 "Title.Editing" = "編集";
 "Title.DesignEditing" = "デザイン編集";
 "Title.Synchronization" = "同期";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "CVV を表示するときのFace ID";
 "Settings.ClipboardTime" = "クリップボードの時間";
 "Settings.BackgroundStyle" = "背景のスタイル";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "セキュリティ";

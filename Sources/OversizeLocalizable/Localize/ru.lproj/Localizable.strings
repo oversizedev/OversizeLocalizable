@@ -155,7 +155,7 @@
 "Time.Min" = "мин.";
 "Time.Mins" = "мин.";
 
-// Titels
+// Titles
 "Title.Editing" = "Редактирование";
 "Title.DesignEditing" = "Изменение дизайна";
 "Title.Synchronization" = "Синхронизация";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "Face ID при показе CVV";
 "Settings.ClipboardTime" = "Время хранения в буфере обмена";
 "Settings.BackgroundStyle" = "Стиль фона";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Безопасность";

@@ -155,7 +155,7 @@
 "Time.Min" = "min.";
 "Time.Mins" = "miny.";
 
-// Titels
+// Titles
 "Title.Editing" = "Úprava";
 "Title.DesignEditing" = "Editace vzhledu";
 "Title.Synchronization" = "Synchronizace";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "ID obličeje při zobrazení CVV";
 "Settings.ClipboardTime" = "Čas schránky";
 "Settings.BackgroundStyle" = "Styl pozadí";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Zabezpečení";

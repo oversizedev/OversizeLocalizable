@@ -155,7 +155,7 @@
 "Time.Min" = "دقيقة";
 "Time.Mins" = "دقائق.";
 
-// Titels
+// Titles
 "Title.Editing" = "تحرير";
 "Title.DesignEditing" = "تعديل التصميم";
 "Title.Synchronization" = "المزامنة";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "معرف الوجه عند إظهار CVV";
 "Settings.ClipboardTime" = "وقت الحافظة";
 "Settings.BackgroundStyle" = "نمط الخلفية";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "أمان";
