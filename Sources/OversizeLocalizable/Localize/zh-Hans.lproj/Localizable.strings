@@ -155,7 +155,7 @@
 "Time.Min" = "最小.";
 "Time.Mins" = "分钟";
 
-// Titels
+// Titles
 "Title.Editing" = "编辑";
 "Title.DesignEditing" = "设计编辑";
 "Title.Synchronization" = "同步";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "显示 CVV 时的人脸ID";
 "Settings.ClipboardTime" = "剪贴板时间";
 "Settings.BackgroundStyle" = "背景样式";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "安全";

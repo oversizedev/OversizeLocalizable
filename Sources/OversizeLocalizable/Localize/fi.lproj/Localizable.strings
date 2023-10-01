@@ -155,7 +155,7 @@
 "Time.Min" = "min";
 "Time.Mins" = "min";
 
-// Titels
+// Titles
 "Title.Editing" = "Muokataan";
 "Title.DesignEditing" = "Suunnittelun Muokkaus";
 "Title.Synchronization" = "Synkronointi";
@@ -201,6 +201,10 @@
 "Settings.FaceIDwhenShowCVV" = "Face ID kun näytetään CVV";
 "Settings.ClipboardTime" = "Leikepöydän aika";
 "Settings.BackgroundStyle" = "Taustan tyyli";
+"Settings.GetHelp" = "Get help";
+"Settings.SendFeedback" = "Send feedback";
+"Settings.AllApps" = "All apps";
+"Settings.OurOpenResources" = "Our open resources";
 
 // Security
 "Security.Title" = "Turvallisuus";
