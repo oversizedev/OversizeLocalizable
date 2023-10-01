@@ -497,6 +497,8 @@ public enum L10n {
     public static let about = L10n.tr("Localizable", "Settings.About", fallback: "About")
     /// Additionally
     public static let additionally = L10n.tr("Localizable", "Settings.Additionally", fallback: "Additionally")
+    /// All apps
+    public static let allApps = L10n.tr("Localizable", "Settings.AllApps", fallback: "All apps")
     /// Apperance
     public static let apperance = L10n.tr("Localizable", "Settings.Apperance", fallback: "Apperance")
     /// App
@@ -515,6 +517,8 @@ public enum L10n {
     public static let feedbakAppStore = L10n.tr("Localizable", "Settings.FeedbakAppStore", fallback: "Review on App Store")
     /// Write to the author
     public static let feedbakAuthor = L10n.tr("Localizable", "Settings.FeedbakAuthor", fallback: "Write to the author")
+    /// Get help
+    public static let getHelp = L10n.tr("Localizable", "Settings.GetHelp", fallback: "Get help")
     /// Handoff
     public static let handoff = L10n.tr("Localizable", "Settings.Handoff", fallback: "Handoff")
     /// HealthKit synchronization
@@ -523,6 +527,10 @@ public enum L10n {
     public static let iCloudSync = L10n.tr("Localizable", "Settings.iCloudSync", fallback: "iCloud synchronization")
     /// Notifications
     public static let notifications = L10n.tr("Localizable", "Settings.Notifications", fallback: "Notifications")
+    /// Our open resources
+    public static let ourOpenResources = L10n.tr("Localizable", "Settings.OurOpenResources", fallback: "Our open resources")
+    /// Send feedback
+    public static let sendFeedback = L10n.tr("Localizable", "Settings.SendFeedback", fallback: "Send feedback")
     /// Share and copy
     public static let shareAndCopy = L10n.tr("Localizable", "Settings.ShareAndCopy", fallback: "Share and copy")
     /// Share application
