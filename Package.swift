@@ -1,4 +1,4 @@
-// swift-tools-version: 6.0
+// swift-tools-version: 6.1
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -14,14 +14,14 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "OversizeLocalizable", targets: ["OversizeLocalizable"]
+            name: "OversizeLocalizable", targets: ["OversizeLocalizable"],
         ),
     ],
     dependencies: [],
     targets: [
         .target(
             name: "OversizeLocalizable",
-            dependencies: []
+            dependencies: [],
         ),
-    ]
+    ],
 )
