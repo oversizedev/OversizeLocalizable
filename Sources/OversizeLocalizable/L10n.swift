@@ -499,7 +499,7 @@ public enum L10n {
     public static let additionally = L10n.tr("Localizable", "Settings.Additionally", fallback: "Additionally")
     /// All apps
     public static let allApps = L10n.tr("Localizable", "Settings.AllApps", fallback: "All apps")
-    /// Apperance
+    /// Appearance
     public static let apperance = L10n.tr("Localizable", "Settings.Apperance", fallback: "Appearance")
     /// App
     public static let appSection = L10n.tr("Localizable", "Settings.AppSection", fallback: "App")
