@@ -500,7 +500,7 @@ public enum L10n {
     /// All apps
     public static let allApps = L10n.tr("Localizable", "Settings.AllApps", fallback: "All apps")
     /// Apperance
-    public static let apperance = L10n.tr("Localizable", "Settings.Apperance", fallback: "Apperance")
+    public static let apperance = L10n.tr("Localizable", "Settings.Apperance", fallback: "Appearance")
     /// App
     public static let appSection = L10n.tr("Localizable", "Settings.AppSection", fallback: "App")
     /// Background style
